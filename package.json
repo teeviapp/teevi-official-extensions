@@ -1,0 +1,18 @@
+{
+  "name": "teevi-official-extensions",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "extensions/*"
+  ],
+  "dependencies": {
+    "@teeviapp/core": "^0.9.8"
+  },
+  "devDependencies": {
+    "@teeviapp/vite": "^0.9.8",
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.4"
+  }
+}

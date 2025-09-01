@@ -1,0 +1,22 @@
+{
+  "name": "teevi-live-italy",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "make-guide": "vite-node src/scripts/make-epg-guide.ts"
+  },
+  "keywords": [],
+  "author": "Teevi",
+  "license": "ISC",
+  "description": "Supporta i canali TV italiani ufficiali disponibili gratuitamente e legalmente in chiaro",
+  "dependencies": {
+    "fast-xml-parser": "^5.2.3",
+    "iptv-playlist-parser": "^0.14.0"
+  },
+  "devDependencies": {
+    "vite-node": "^3.2.4"
+  }
+}
