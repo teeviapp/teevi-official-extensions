@@ -35,7 +35,7 @@ jobs:
         run: npm ci
 
       - name: Generate EPG Guide
-        run: npm run --workspace live-italy make-guide
+        run: npm run --workspace extensions/live-italy make-guide
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
