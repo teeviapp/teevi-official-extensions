@@ -1,0 +1,71 @@
+name: Deploy Extensions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "extensions/**/package.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build all extensions
+        run: |
+          for pkg_dir in extensions/*; do
+            if [ -f "$pkg_dir/package.json" ]; then
+              echo "Building $pkg_dir..."
+              npm run --workspace $pkg_dir build || true
+            fi
+          done
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Prepare artifacts from dist
+        run: |
+          mkdir -p ./tmp/lvie-italy
+          for pkg_dir in extensions/*; do
+            if [ -f "$pkg_dir/package.json" ]; then
+              PKG_NAME=$(node -p "require('./$pkg_dir/package.json').name")
+              mkdir -p ./tmp/$PKG_NAME
+              
+              if [ -d "$pkg_dir/dist" ]; then
+                cp -r $pkg_dir/dist/* ./tmp/$PKG_NAME/
+              fi
+            fi
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./tmp"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
