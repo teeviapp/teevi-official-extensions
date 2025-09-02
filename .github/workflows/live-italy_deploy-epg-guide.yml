@@ -6,9 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: "pages"
@@ -17,9 +15,6 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -37,20 +32,22 @@ jobs:
       - name: Generate EPG Guide
         run: npm run --workspace extensions/live-italy make-guide
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Prepare artifact
+      - name: Clone gh-pages branch
         run: |
-          mkdir -p ./tmp/data/live-italy
-          cp ./extensions/live-italy/assets/data/epg-guide.json ./tmp/data/live-italy/
-          cp ./extensions/live-italy/public/index.html ./tmp/data/live-italy/
+          git clone --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "./tmp"
+      - name: Copy EPG guide to gh-pages
+        run: |
+          rm -rf gh-pages/live-italy
+          mkdir -p gh-pages/live-italy
+          cp ./extensions/live-italy/assets/data/epg-guide.json gh-pages/data/live-italy/
+          cp ./extensions/live-italy/public/index.html gh-pages/data/live-italy/
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit & push to gh-pages
+        run: |
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update Live Italy EPG Guide" || echo "No changes to commit"
+          git push origin gh-pages
