@@ -1,6 +1,6 @@
 {
   "name": "teevi-live-italy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.ts",
   "type": "module",
   "private": true,
