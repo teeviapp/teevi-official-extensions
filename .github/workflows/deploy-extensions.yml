@@ -70,8 +70,7 @@ jobs:
                 --arg name "$name" \
                 --arg description "$description" \
                 --arg iconResourceName "$iconResourceName" \
-                --arg path "$id" \
-                '{id:$id, name:$name, description:$description, iconResourceName:$iconResourceName, path:$path}')
+                '{id:$id, name:$name, description:$description, iconResourceName:$iconResourceName}')
 
               objects+=("$obj")
             fi
