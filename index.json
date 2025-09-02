@@ -1,14 +1,16 @@
 [
-{
-  "id": "teevi-jellyfin",
-  "name": "Jellyfin",
-  "description": "A volunteer-built media solution that puts you in control of your media. Your media, your server, your way",
-  "iconResourceName": "icon.png"
-}
-,
-{
-  "id": "teevi-live-italy",
-  "name": "Live TV Italia",
-  "description": "Supporta i canali TV italiani ufficiali disponibili gratuitamente e legalmente in chiaro",
-  "iconResourceName": "icon.png"
-}
+  {
+    "id": "teevi-jellyfin",
+    "name": "Jellyfin",
+    "description": "A volunteer-built media solution that puts you in control of your media. Your media, your server, your way",
+    "iconResourceName": "icon.png",
+    "path": "teevi-jellyfin"
+  },
+  {
+    "id": "teevi-live-italy",
+    "name": "Live TV Italia",
+    "description": "Supporta i canali TV italiani ufficiali disponibili gratuitamente e legalmente in chiaro",
+    "iconResourceName": "icon.png",
+    "path": "teevi-live-italy"
+  }
+]
