@@ -46,42 +46,39 @@ jobs:
         run: |
           git clone --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
 
-      - name: Copy builds to root
+      - name: Copy dist and create index.json
         run: |
-          index_file="gh-pages/index.json"
-          echo "[" > "$index_file"
-          first=true
+          mkdir -p gh-pages
+          objects=()
 
           for pkg_dir in extensions/*; do
             manifest="$pkg_dir/dist/manifest.json"
-            id=$(jq -r '.id' "$manifest")
-            name=$(jq -r '.name' "$manifest")
-            description=$(jq -r '.description' "$manifest")
-            iconResourceName=$(jq -r '.iconResourceName' "$manifest")
-            
-            DIR_NAME=$(basename $pkg_dir)
-            rm -rf gh-pages/$id
-            mkdir -p gh-pages/$id
-            cp -r $pkg_dir/dist/* gh-pages/$id/
+            if [ -f "$manifest" ]; then
+              id=$(jq -r '.id' "$manifest")
+              name=$(jq -r '.name' "$manifest")
+              description=$(jq -r '.description' "$manifest")
+              iconResourceName=$(jq -r '.iconResourceName' "$manifest")
 
-            name=$(jq -r '.name' "$manifest")
-            description=$(jq -r '.description' "$manifest")
-            iconResourceName=$(jq -r '.iconResourceName' "$manifest")
+              # Use the extension id as the folder name
+              rm -rf "gh-pages/$id"
+              mkdir -p "gh-pages/$id"
+              cp -r "$pkg_dir/dist/"* "gh-pages/$id/"
 
-            if [ "$first" = true ]; then
-              first=false
-            else
-              echo "," >> "$index_file"
+              # Build JSON object for this extension
+              obj=$(jq -n \
+                --arg id "$id" \
+                --arg name "$name" \
+                --arg description "$description" \
+                --arg iconResourceName "$iconResourceName" \
+                --arg path "$id" \
+                '{id:$id, name:$name, description:$description, iconResourceName:$iconResourceName, path:$path}')
+
+              objects+=("$obj")
             fi
-
-            jq -n \
-              --arg id "$id" \
-              --arg name "$name" \
-              --arg description "$description" \
-              --arg iconResourceName "$iconResourceName" \
-              --arg path "$DIR_NAME" \
-              '{id:$id, name:$name, description:$description, iconResourceName:$iconResourceName}' >> "$index_file"
           done
+
+          # Generate index.json with proper indentation
+          printf '%s\n' "${objects[@]}" | jq -s '.' > gh-pages/index.json
 
       - name: Commit & push to gh-pages
         run: |
