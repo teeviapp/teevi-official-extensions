@@ -78,9 +78,9 @@ jobs:
               --arg id "$id" \
               --arg name "$name" \
               --arg description "$description" \
-              --arg iconResourceName "$icon" \
+              --arg iconResourceName "$iconResourceName" \
               --arg path "$DIR_NAME" \
-              '{id:$id, name:$name, description:$description, icon:$icon, path:$path}' >> "$index_file"
+              '{id:$id, name:$name, description:$description, iconResourceName:$iconResourceName}' >> "$index_file"
           done
 
       - name: Commit & push to gh-pages
