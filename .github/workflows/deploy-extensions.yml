@@ -76,8 +76,9 @@ jobs:
             fi
           done
 
-          # Generate index.json with proper indentation
-          printf '%s\n' "${objects[@]}" | jq -s '.' > gh-pages/index.json
+          printf '%s\n' "${objects[@]}" \
+            | jq -s '{name: "Official Teevi Extensions", description: "The official collection of verified Teevi extensions.", extensions: .}' \
+            > gh-pages/index.json
 
       - name: Commit & push to gh-pages
         run: |
