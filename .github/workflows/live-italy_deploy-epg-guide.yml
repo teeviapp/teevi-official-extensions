@@ -38,8 +38,8 @@ jobs:
 
       - name: Copy EPG guide to gh-pages
         run: |
-          rm -rf gh-pages/live-italy
-          mkdir -p gh-pages/live-italy
+          rm -rf gh-pages/data/live-italy
+          mkdir -p gh-pages/data/live-italy
           cp ./extensions/live-italy/assets/data/epg-guide.json gh-pages/data/live-italy/
           cp ./extensions/live-italy/public/index.html gh-pages/data/live-italy/
 
