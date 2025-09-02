@@ -25,6 +25,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: "gh-pages"
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -44,28 +47,23 @@ jobs:
             fi
           done
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Prepare artifacts from dist
+      - name: Copy builds to root
         run: |
-          mkdir -p ./tmp/lvie-italy
           for pkg_dir in extensions/*; do
             if [ -f "$pkg_dir/package.json" ]; then
-              PKG_NAME=$(node -p "require('./$pkg_dir/package.json').name")
-              mkdir -p ./tmp/$PKG_NAME
-              
+              DIR_NAME=$(basename $pkg_dir)
+              rm -rf $DIR_NAME
+              mkdir -p $DIR_NAME
               if [ -d "$pkg_dir/dist" ]; then
-                cp -r $pkg_dir/dist/* ./tmp/$PKG_NAME/
+                cp -r $pkg_dir/dist/* $DIR_NAME/
               fi
             fi
           done
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "./tmp"
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update extensions" || echo "No changes to commit"
+          git push origin gh-pages
