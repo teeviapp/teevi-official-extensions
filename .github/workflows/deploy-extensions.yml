@@ -48,11 +48,39 @@ jobs:
 
       - name: Copy builds to root
         run: |
+          index_file="gh-pages/index.json"
+          echo "[" > "$index_file"
+          first=true
+
           for pkg_dir in extensions/*; do
+            manifest="$pkg_dir/dist/manifest.json"
+            id=$(jq -r '.id' "$manifest")
+            name=$(jq -r '.name' "$manifest")
+            description=$(jq -r '.description' "$manifest")
+            iconResourceName=$(jq -r '.iconResourceName' "$manifest")
+            
             DIR_NAME=$(basename $pkg_dir)
-            rm -rf gh-pages/$DIR_NAME
-            mkdir -p gh-pages/$DIR_NAME
-            cp -r $pkg_dir/dist/* gh-pages/$DIR_NAME/
+            rm -rf gh-pages/$id
+            mkdir -p gh-pages/$id
+            cp -r $pkg_dir/dist/* gh-pages/$id/
+
+            name=$(jq -r '.name' "$manifest")
+            description=$(jq -r '.description' "$manifest")
+            iconResourceName=$(jq -r '.iconResourceName' "$manifest")
+
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo "," >> "$index_file"
+            fi
+
+            jq -n \
+              --arg id "$id" \
+              --arg name "$name" \
+              --arg description "$description" \
+              --arg iconResourceName "$icon" \
+              --arg path "$DIR_NAME" \
+              '{id:$id, name:$name, description:$description, icon:$icon, path:$path}' >> "$index_file"
           done
 
       - name: Commit & push to gh-pages
