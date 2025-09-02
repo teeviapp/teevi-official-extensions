@@ -6,7 +6,7 @@ export default defineConfig({
     teevi({
       name: "Live TV Italia",
       capabilities: ["live"],
-      note: "Live TV Italia garantisce l'accesso solo ai canali tv disponibili gratuitamente e legalmente tramite il repository su GitHub [Free-TV](https://github.com/Free-TV/IPTV)",
+      note: "Solo canali TV gratuiti e legali dal repository [Free-TV](https://github.com/Free-TV/IPTV)",
     }),
   ],
 })
