@@ -5,12 +5,14 @@
     {
       "id": "teevi-jellyfin",
       "name": "Jellyfin",
+      "author": "Teevi",
       "description": "A volunteer-built media solution that puts you in control of your media. Your media, your server, your way",
       "iconResourceName": "icon.png"
     },
     {
       "id": "teevi-live-italy",
       "name": "Live TV Italia",
+      "author": "Teevi",
       "description": "Guarda i canali TV italiani disponibili legalmente in chiaro",
       "iconResourceName": "icon.png"
     }
