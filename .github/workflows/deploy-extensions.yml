@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "extensions/**/package.json"
+      - ".github/workflows/deploy-extensions.yml"
   workflow_dispatch:
 
 permissions:
