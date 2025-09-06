@@ -1,7 +1,7 @@
 {
   "id": "teevi-jellyfin",
   "name": "Jellyfin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A volunteer-built media solution that puts you in control of your media. Your media, your server, your way",
   "author": "Teevi",
   "hash": "79f95d828944ae8841b299627e1733972f3c86abe78303fa1d5e43835a8afbf1",
@@ -29,6 +29,6 @@
       "required": false
     }
   ],
-  "note": "You can use the demo server at \"demo.jellyfin.org/stable\" with username \"demo\" to explore the extension’s features",
+  "note": "\n      Demo Server\n      URL: demo.jellyfin.org/stable\n      Username: demo\n      ",
   "sdkVersion": "0.9.8"
 }
