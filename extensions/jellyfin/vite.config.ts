@@ -6,7 +6,11 @@ export default {
     teevi({
       name: "Jellyfin",
       capabilities: ["metadata", "feed", "video"],
-      note: 'You can use the demo server at "demo.jellyfin.org/stable" with username "demo" to explore the extension’s features',
+      note: `
+      Demo Server
+      URL: demo.jellyfin.org/stable
+      Username: demo
+      `,
       inputs: [
         { id: "server", name: "Server URL", required: true },
         { id: "username", name: "Username", required: true },
