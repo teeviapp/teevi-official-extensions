@@ -1,5 +1,5 @@
 import { XMLParser } from "fast-xml-parser"
-import { TeeviLiveProgram } from "@teeviapp/core"
+import { type TeeviLiveProgram } from "@teeviapp/core"
 import { writeFile, mkdir } from "fs/promises"
 import { dirname } from "path"
 

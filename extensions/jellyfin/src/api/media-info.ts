@@ -1,4 +1,4 @@
-import { JellyfinAuth, makeAuthHeader } from "./users"
+import { type JellyfinAuth, makeAuthHeader } from "./users"
 
 type JellyfinMediaSource = {
   Id: string

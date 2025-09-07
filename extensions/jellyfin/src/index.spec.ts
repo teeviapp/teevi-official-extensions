@@ -1,6 +1,6 @@
-import { describe, test, it, beforeEach, vi, expect } from "vitest"
+import { test, beforeEach, vi, expect } from "vitest"
 import extension from "./index"
-import { TeeviRuntime } from "@teeviapp/core"
+import { type TeeviRuntime } from "@teeviapp/core"
 
 beforeEach(() => {
   // Mock the global Teevi object

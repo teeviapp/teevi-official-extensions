@@ -1,4 +1,4 @@
-import {
+import type {
   TeeviFeedCollection,
   TeeviFeedExtension,
   TeeviMetadataExtension,
@@ -11,21 +11,21 @@ import {
 } from "@teeviapp/core"
 
 import { findServer } from "./api/system"
-import { authenticateWithCredentials, JellyfinAuth } from "./api/users"
+import { authenticateWithCredentials, type JellyfinAuth } from "./api/users"
 import {
   fetchItem,
   fetchItems,
   fetchSimilarItems,
-  JellyfinItem,
+  type JellyfinItem,
 } from "./api/items"
 import { fetchViews } from "./api/user-views"
 import {
   fetchTVShowSeasons,
   fetchTVShowEpisodes,
-  JellyfinEpisode,
+  type JellyfinEpisode,
 } from "./api/tv-shows"
 import { fetchGenres } from "./api/genres"
-import { ImageQuality, ImageType, makeImageURL } from "./api/images"
+import { type ImageQuality, type ImageType, makeImageURL } from "./api/images"
 import { fetchVideoSource } from "./api/media-info"
 
 // Types
