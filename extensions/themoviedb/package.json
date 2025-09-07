@@ -1,6 +1,6 @@
 {
   "name": "teevi-themoviedb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An extension powered by TMDb for movie and TV show data",
   "type": "module",
   "private": true,
