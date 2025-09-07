@@ -32,6 +32,7 @@ export type Movie = {
   vote_average?: number
   popularity: number
   status?: string
+  tagline?: string
 }
 
 export type TVSeries = {
@@ -51,6 +52,7 @@ export type TVSeries = {
   }
   seasons: Season[]
   status?: string
+  tagline?: string
 }
 
 export type Season = {
@@ -291,4 +293,88 @@ export async function fetchRecommendations(
 
   const list: PageableList<Show> = await response.json()
   return list.results
+}
+
+export type DiscoverShowsParameters = {
+  sorting: "popularity" | "release_date" | "rating"
+  ascending?: boolean
+  maximumPages?: number
+}
+
+export async function fetchShowsFromDiscover(
+  type: ShowMediaType,
+  language: string,
+  parameters: DiscoverShowsParameters
+): Promise<Show[]> {
+  type PageableList<T> = {
+    page: number
+    total_pages: number
+    results: T[]
+  }
+
+  let sorting: string | undefined
+
+  switch (parameters.sorting) {
+    case "popularity":
+      sorting = parameters.ascending ? "popularity.asc" : "popularity.desc"
+      break
+    case "rating":
+      sorting = parameters.ascending ? "vote_average.asc" : "vote_average.desc"
+      break
+    case "release_date":
+      if (type == "movie") {
+        sorting = parameters.ascending
+          ? "primary_release_date.asc"
+          : "primary_release_date.desc"
+      } else {
+        sorting = parameters.ascending
+          ? "first_air_date.asc"
+          : "first_air_date.desc"
+      }
+      break
+  }
+
+  async function fetchPage(page: number): Promise<PageableList<Show>> {
+    const endpoint = new URL(`${API_URL}/discover/${type}`)
+    endpoint.searchParams.append("language", language ?? "en")
+    endpoint.searchParams.append("page", String(page))
+
+    // minimum vote count
+    endpoint.searchParams.append("vote_count.gte", "500")
+
+    if (sorting) {
+      endpoint.searchParams.append("sort_by", sorting)
+    }
+
+    const response = await fetch(endpoint.toString(), {
+      method: "GET",
+      headers: {
+        accept: "application/json",
+        Authorization: `Bearer ${API_TOKEN}`,
+      },
+    })
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to fetch shows from discover at page ${page}: ${response.status} - ${response.statusText}`
+      )
+    }
+
+    return response.json()
+  }
+
+  let page = 1
+  let totalPages = 1
+  const maximumPages = parameters.maximumPages ?? Number.MAX_VALUE
+
+  const shows = []
+
+  while (page <= totalPages && page <= maximumPages) {
+    const data = await fetchPage(page)
+    shows.push(...data.results)
+    page++
+    totalPages = data.total_pages
+  }
+
+  return shows
 }

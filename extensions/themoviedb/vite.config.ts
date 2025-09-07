@@ -5,7 +5,7 @@ export default {
   plugins: [
     teevi({
       name: "The Movie Database",
-      capabilities: ["metadata"],
+      capabilities: ["metadata", "feed"],
       inputs: [
         { id: "api.token", name: "API Read Access Token", required: true },
       ],

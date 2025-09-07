@@ -4,6 +4,9 @@ import {
   type TeeviMetadataExtension,
   type TeeviShow,
   type TeeviShowEntry,
+  type TeeviFeedCategory,
+  type TeeviFeedExtension,
+  type TeeviFeedCollection,
 } from "@teeviapp/core"
 import {
   fetchShow as tmdbFetchShow,
@@ -15,6 +18,9 @@ import {
   fetchSeason as tmdbFetchSeason,
   fetchImages as tmdbFetchImages,
   fetchRecommendations,
+  fetchShowsFromDiscover,
+  type DiscoverShowsParameters,
+  type ShowMediaType,
 } from "./tmdb-api"
 
 const language = (): string => Teevi.language ?? "en-US"
@@ -174,4 +180,80 @@ export default {
   fetchShowsByQuery,
   fetchShow,
   fetchEpisodes,
-} satisfies TeeviMetadataExtension
+  fetchFeedCollections: async (): Promise<TeeviFeedCollection[]> => {
+    type DiscoverParams = {
+      type: ShowMediaType
+      sorting: DiscoverShowsParameters["sorting"]
+      category: TeeviFeedCollection["category"]
+      name: TeeviFeedCollection["name"]
+      id: TeeviFeedCollection["id"]
+    }
+
+    const collections: TeeviFeedCollection[] = []
+
+    const discoverConfigs: DiscoverParams[] = [
+      {
+        type: "movie",
+        sorting: "popularity",
+        category: "hot",
+        name: "Popular Movies",
+        id: "tmdb-popular-movies",
+      },
+      {
+        type: "tv",
+        sorting: "popularity",
+        category: "hot",
+        name: "Popular TV Shows",
+        id: "tmdb-popular-tv-shows",
+      },
+      {
+        type: "movie",
+        sorting: "rating",
+        category: "recommended",
+        name: "Top Rated Movies",
+        id: "tmdb-top-rated-movies",
+      },
+      {
+        type: "tv",
+        sorting: "rating",
+        category: "recommended",
+        name: "Top Rated TV Shows",
+        id: "tmdb-top-rated-tv-shows",
+      },
+      {
+        type: "movie",
+        sorting: "release_date",
+        category: "new",
+        name: "New Movies",
+        id: "tmdb-new-movies",
+      },
+      {
+        type: "tv",
+        sorting: "release_date",
+        category: "new",
+        name: "New TV Shows",
+        id: "tmdb-new-tv-shows",
+      },
+    ]
+
+    for (const config of discoverConfigs) {
+      const shows = await fetchShowsFromDiscover(config.type, language(), {
+        sorting: config.sorting,
+        maximumPages: 4,
+      })
+
+      collections.push({
+        id: config.id,
+        name: config.name,
+        shows: shows.map(mapTMDBShowToTeeviShowEntry),
+        category: config.category,
+      })
+    }
+
+    return collections
+  },
+  fetchTrendingShows: async (): Promise<TeeviShow[]> => {
+    // TODO: implements trending shows
+    return []
+  },
+} satisfies TeeviMetadataExtension & TeeviFeedExtension
