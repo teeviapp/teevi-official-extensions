@@ -1,0 +1,22 @@
+{
+  "id": "teevi-themoviedb",
+  "name": "The Movie Database",
+  "version": "0.1.0",
+  "description": "An extension powered by TMDb for movie and TV show data",
+  "author": "Teevi",
+  "hash": "a687e20cf8dcb37590096261e7b22589c3ccfcaf3628675095f8a9f7cf7005fd",
+  "capabilities": [
+    "metadata"
+  ],
+  "homepage": "https://www.themoviedb.org",
+  "iconResourceName": "icon.png",
+  "inputs": [
+    {
+      "id": "api.token",
+      "name": "API Read Access Token",
+      "required": true
+    }
+  ],
+  "note": "To register for an API key, click the [API link](https://www.themoviedb.org/settings/api) from within your account settings page",
+  "sdkVersion": "0.9.8"
+}

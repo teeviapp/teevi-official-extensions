@@ -15,6 +15,13 @@
       "author": "Teevi",
       "description": "Guarda i canali TV italiani disponibili legalmente in chiaro",
       "iconResourceName": "icon.png"
+    },
+    {
+      "id": "teevi-themoviedb",
+      "name": "The Movie Database",
+      "author": "Teevi",
+      "description": "An extension powered by TMDb for movie and TV show data",
+      "iconResourceName": "icon.png"
     }
   ]
 }
