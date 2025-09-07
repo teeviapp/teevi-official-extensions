@@ -240,6 +240,7 @@ export default {
       const shows = await fetchShowsFromDiscover(config.type, language(), {
         sorting: config.sorting,
         maximumPages: 4,
+        minimumUserVotes: 100,
       })
 
       collections.push({

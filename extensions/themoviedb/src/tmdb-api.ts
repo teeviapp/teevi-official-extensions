@@ -299,6 +299,7 @@ export type DiscoverShowsParameters = {
   sorting: "popularity" | "release_date" | "rating"
   ascending?: boolean
   maximumPages?: number
+  minimumUserVotes?: number
 }
 
 export async function fetchShowsFromDiscover(
@@ -339,8 +340,12 @@ export async function fetchShowsFromDiscover(
     endpoint.searchParams.append("language", language ?? "en")
     endpoint.searchParams.append("page", String(page))
 
-    // minimum vote count
-    endpoint.searchParams.append("vote_count.gte", "500")
+    if (parameters.minimumUserVotes) {
+      endpoint.searchParams.append(
+        "vote_count.gte",
+        String(parameters.minimumUserVotes)
+      )
+    }
 
     if (sorting) {
       endpoint.searchParams.append("sort_by", sorting)
