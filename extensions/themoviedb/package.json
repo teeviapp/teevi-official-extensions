@@ -1,0 +1,13 @@
+{
+  "name": "teevi-themoviedb",
+  "version": "0.1.0",
+  "description": "An extension powered by TMDb for movie and TV show data",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "Teevi",
+  "license": "ISC",
+  "homepage": "https://www.themoviedb.org"
+}
