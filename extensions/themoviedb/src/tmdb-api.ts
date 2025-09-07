@@ -272,7 +272,7 @@ export async function fetchRecommendations(
     results: T[]
   }
 
-  const endpoint = new URL(`${API_URL}/${type}/recommendations`)
+  const endpoint = new URL(`${API_URL}/${type}/${id}/recommendations`)
   endpoint.searchParams.append("language", language)
   endpoint.searchParams.append("page", "1")
   const response = await fetch(endpoint.toString(), {
