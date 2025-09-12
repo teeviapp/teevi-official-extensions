@@ -1,10 +1,10 @@
 {
   "id": "teevi-themoviedb",
   "name": "The Movie Database",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "An extension powered by TMDb for movie and TV show data",
   "author": "Teevi",
-  "hash": "f965ad0e2a524f2969e2929575bb8d63e3196db027abc4ef59f3af789219e921",
+  "hash": "cec37bac06c95e2717f637bd48d9a30e4d16602f131052ef5d638be032de9366",
   "capabilities": [
     "metadata",
     "feed"
