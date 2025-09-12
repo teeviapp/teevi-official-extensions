@@ -4,7 +4,6 @@ import {
   type TeeviMetadataExtension,
   type TeeviShow,
   type TeeviShowEntry,
-  type TeeviFeedCategory,
   type TeeviFeedExtension,
   type TeeviFeedCollection,
 } from "@teeviapp/core"
@@ -243,12 +242,14 @@ export default {
         minimumUserVotes: 100,
       })
 
-      collections.push({
-        id: config.id,
-        name: config.name,
-        shows: shows.map(mapTMDBShowToTeeviShowEntry),
-        category: config.category,
-      })
+      if (shows.length > 0) {
+        collections.push({
+          id: config.id,
+          name: config.name,
+          shows: shows.map(mapTMDBShowToTeeviShowEntry),
+          category: config.category,
+        })
+      }
     }
 
     return collections
