@@ -10,9 +10,9 @@ beforeEach(() => {
     getInputValueById: vi.fn((id: string) => {
       // Mock configuration values - customize as needed
       const mockConfig: Record<string, string> = {
-        server: "localhost",
-        username: "manu",
-        password: "cate15",
+        server: "demo.jellyfin.org/stable",
+        username: "demo",
+        password: "",
       }
       return mockConfig[id]
     }),
@@ -22,23 +22,14 @@ beforeEach(() => {
 })
 
 test("should fetch a show", async () => {
-  const collections = await extension.fetchFeedCollections()
-  const firstShow = collections.filter((c) => c.category == "series")[0]
-    .shows[0]
-  expect(firstShow).toBeDefined()
-  if (firstShow.kind == "movie") {
-    const video = await extension.fetchVideoAssets(firstShow.id)
-    console.log("Video assets for movie:", video)
-  } else if (firstShow.kind == "series") {
-    const details = await extension.fetchShow(firstShow.id)
-    console.log("Show details:", details)
-    const episodes = await extension.fetchEpisodes(
-      firstShow.id,
-      details.seasons![0].number
-    )
-    const video = await extension.fetchVideoAssets(episodes[1].id)
-    console.log("Video assets for series:", video)
-  }
-
-  console.log(collections)
+  const shows = await extension.fetchShowsByQuery("dracula")
+  expect(shows).toBeDefined()
+  expect(shows.length).toBeGreaterThan(0)
+  console.log("Search Results =>", shows)
+  const show = await extension.fetchShow(shows[0].id)
+  expect(show).toBeDefined()
+  console.log("First Show Details =>", show)
+  const videoAssets = await extension.fetchVideoAssets(show.id)
+  expect(videoAssets).toBeDefined()
+  console.log("Video Assets =>", videoAssets)
 }, 10000)

@@ -1,6 +1,6 @@
 {
   "name": "teevi-jellyfin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A volunteer-built media solution that puts you in control of your media. Your media, your server, your way",
   "main": "index.ts",
   "type": "module",
@@ -12,5 +12,9 @@
     "build": "vite build",
     "test": "vitest --typecheck",
     "preview": "npm run build && vite preview --host --port 4175"
+  },
+  "dependencies": {
+    "@jellyfin/sdk": "^0.13.0",
+    "core-js": "^3.47.0"
   }
 }

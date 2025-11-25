@@ -1,4 +1,4 @@
-import { type JellyfinAuth, makeAuthHeader } from "./users"
+import type { JellyfinSession } from "./session.api.ts"
 
 type JellyfinMediaSource = {
   Id: string
@@ -10,16 +10,15 @@ type JellyfinMediaSource = {
 }
 
 export async function fetchVideoSource(
-  server: URL,
-  auth: JellyfinAuth,
-  itemId: string
+  session: JellyfinSession,
+  options: { itemId: string }
 ): Promise<string> {
-  const mediaSource = await fetchMediaSource(server, auth, itemId)
+  const mediaSource = await fetchMediaSource(session, options)
   if (!mediaSource) {
-    throw new Error("No media source found for item: " + itemId)
+    throw new Error("No media source found for item: " + options.itemId)
   }
 
-  return makeVideoUrl(server, itemId, {
+  return makeVideoUrl(parseServerURL(session.api.basePath), options.itemId, {
     supportsDirectStream: mediaSource.SupportsDirectStream,
     container: mediaSource.Container,
     transcodingUrl: mediaSource.TranscodingUrl,
@@ -27,25 +26,26 @@ export async function fetchVideoSource(
 }
 
 async function fetchMediaSource(
-  server: URL,
-  auth: JellyfinAuth,
-  itemId: string
+  session: JellyfinSession,
+  options: { itemId: string }
 ): Promise<JellyfinMediaSource> {
   type PlaybackInfoResponseData = {
     MediaSources: JellyfinMediaSource[]
   }
-
-  const endpoint = new URL(`Items/${itemId}/PlaybackInfo`, server)
+  const endpoint = new URL(
+    `Items/${options.itemId}/PlaybackInfo`,
+    parseServerURL(session.api.basePath)
+  )
 
   const response = await fetch(endpoint.toString(), {
     method: "POST",
     headers: {
       Accept: "application/json",
-      ...makeAuthHeader(auth.AccessToken),
+      Authorization: session.api.authorizationHeader,
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      UserId: auth.User.Id,
+      UserId: session.user.id,
       AlwaysBurnInSubtitleWhenTranscoding: false,
       DeviceProfile: AppleVideoDeviceProfile,
       EnableDirectPlay: true,
@@ -59,7 +59,6 @@ async function fetchMediaSource(
   }
 
   const data: PlaybackInfoResponseData = await response.json()
-  console.debug("Playback info response:", data)
 
   if (!data.MediaSources || data.MediaSources.length === 0) {
     throw new Error("No media sources found")
@@ -68,7 +67,7 @@ async function fetchMediaSource(
   return data.MediaSources[0]
 }
 
-export function makeVideoUrl(
+function makeVideoUrl(
   server: URL,
   itemId: string,
   options: {
@@ -171,4 +170,11 @@ const AppleVideoDeviceProfile = {
     { Format: "xsub", Method: "Encode" },
     { Format: "vtt", Method: "Hls" },
   ],
+}
+
+function parseServerURL(input: string): URL {
+  if (input.endsWith("/")) {
+    return new URL(input)
+  }
+  return new URL(input + "/")
 }
