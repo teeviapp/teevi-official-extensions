@@ -1,218 +1,417 @@
 [
   {
-    "id": "20.it-2026-10-17T00:18",
-    "title": "Station 19",
-    "description": "S5 Ep14 Soli nel buio - La squadra della caserma 23 affronta un difficile addio. Nel frattempo, Andy incontra un affascinante vigile del fuoco.",
-    "startDate": "2026-10-17T00:18:40Z",
-    "endDate": "2026-10-17T00:58:40Z",
+    "id": "20.it-2026-10-18T00:52",
+    "title": "Batwoman (St. 2 - Ep. 18)",
+    "startDate": "2026-10-18T00:52:00Z",
+    "endDate": "2026-10-18T01:32:00Z",
     "channelId": "20.it"
   },
   {
-    "id": "27Twentyseven.it-2026-10-17T00:11",
+    "id": "20.it-2026-10-18T01:32",
+    "title": "Batwoman (St. 3 - Ep. 1)",
+    "startDate": "2026-10-18T01:32:00Z",
+    "endDate": "2026-10-18T02:13:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T02:13",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-18T02:13:00Z",
+    "endDate": "2026-10-18T02:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T02:39",
+    "title": "Distretto di Polizia (St. 11 - Ep. 26)",
+    "startDate": "2026-10-18T02:39:00Z",
+    "endDate": "2026-10-18T03:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T03:19",
+    "title": "Distretto di Polizia (St. 1 - Ep. 1)",
+    "startDate": "2026-10-18T03:19:00Z",
+    "endDate": "2026-10-18T04:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T04:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-18T04:00:00Z",
+    "endDate": "2026-10-18T04:14:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T04:14",
+    "title": "Distretto di Polizia (St. 1 - Ep. 2)",
+    "startDate": "2026-10-18T04:14:00Z",
+    "endDate": "2026-10-18T04:54:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T04:54",
+    "title": "Distretto di Polizia (St. 1 - Ep. 3)",
+    "startDate": "2026-10-18T04:54:00Z",
+    "endDate": "2026-10-18T05:34:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T05:34",
+    "title": "Batwoman (St. 3 - Ep. 2)",
+    "startDate": "2026-10-18T05:34:00Z",
+    "endDate": "2026-10-18T06:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T06:18",
+    "title": "The Last Ship (St. 1 - Ep. 3)",
+    "startDate": "2026-10-18T06:18:00Z",
+    "endDate": "2026-10-18T07:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T07:10",
+    "title": "The Last Ship (St. 1 - Ep. 4)",
+    "startDate": "2026-10-18T07:10:00Z",
+    "endDate": "2026-10-18T08:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T08:00",
+    "title": "The Last Ship (St. 1 - Ep. 5)",
+    "startDate": "2026-10-18T08:00:00Z",
+    "endDate": "2026-10-18T08:56:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T08:56",
+    "title": "The Last Ship (St. 1 - Ep. 6)",
+    "startDate": "2026-10-18T08:56:00Z",
+    "endDate": "2026-10-18T09:52:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T09:52",
+    "title": "The Last Ship (St. 1 - Ep. 7)",
+    "startDate": "2026-10-18T09:52:00Z",
+    "endDate": "2026-10-18T10:40:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T10:40",
+    "title": "The Last Ship (St. 1 - Ep. 8)",
+    "startDate": "2026-10-18T10:40:00Z",
+    "endDate": "2026-10-18T11:34:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T11:34",
+    "title": "The Last Ship (St. 1 - Ep. 9)",
+    "startDate": "2026-10-18T11:34:00Z",
+    "endDate": "2026-10-18T12:23:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T12:23",
+    "title": "The Last Ship (St. 1 - Ep. 10)",
+    "startDate": "2026-10-18T12:23:00Z",
+    "endDate": "2026-10-18T13:20:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T13:20",
+    "title": "Houston texans - jacksonville jaguars 18.10.26",
+    "startDate": "2026-10-18T13:20:00Z",
+    "endDate": "2026-10-18T16:48:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T16:48",
+    "title": "grown-ish (St. 6 - Ep. 6)",
+    "startDate": "2026-10-18T16:48:00Z",
+    "endDate": "2026-10-18T17:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T17:09",
+    "title": "Extraction (2015)",
+    "startDate": "2026-10-18T17:09:00Z",
+    "endDate": "2026-10-18T19:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T19:10",
+    "title": "Run All Night - Una notte per sopravvivere (2015)",
+    "startDate": "2026-10-18T19:10:00Z",
+    "endDate": "2026-10-18T21:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T21:27",
+    "title": "Fire Down Below - L'inferno sepolto (1997)",
+    "startDate": "2026-10-18T21:27:00Z",
+    "endDate": "2026-10-18T23:26:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-18T23:26",
+    "title": "Extraction (2015)",
+    "startDate": "2026-10-18T23:26:00Z",
+    "endDate": "2026-10-19T00:51:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T00:51",
+    "title": "Batwoman (St. 3 - Ep. 2)",
+    "startDate": "2026-10-19T00:51:00Z",
+    "endDate": "2026-10-19T01:31:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T01:31",
+    "title": "Batwoman (St. 3 - Ep. 3)",
+    "startDate": "2026-10-19T01:31:00Z",
+    "endDate": "2026-10-19T02:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T02:10",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-19T02:10:00Z",
+    "endDate": "2026-10-19T02:37:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T02:37",
+    "title": "Distretto di Polizia (St. 1 - Ep. 2)",
+    "startDate": "2026-10-19T02:37:00Z",
+    "endDate": "2026-10-19T03:17:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T03:17",
+    "title": "Distretto di Polizia (St. 1 - Ep. 3)",
+    "startDate": "2026-10-19T03:17:00Z",
+    "endDate": "2026-10-19T04:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-19T04:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-19T04:00:00Z",
+    "endDate": "2026-10-19T04:36:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "27Twentyseven.it-2026-10-18T00:05",
     "title": "Super Car",
-    "description": "S5 Ep11 Il camaleonte - Gordon Baxter, ladro detto,",
-    "startDate": "2026-10-17T00:11:46Z",
-    "endDate": "2026-10-17T00:57:46Z",
+    "description": "S5 Ep13 Truffa all'ippodromo - Un incidente all'ippodromo, durante le prove per il",
+    "startDate": "2026-10-18T00:05:44Z",
+    "endDate": "2026-10-18T00:51:44Z",
     "channelId": "27Twentyseven.it"
   },
   {
-    "id": "Canale5.it-2026-10-17T00:20",
-    "title": "Caduta libera",
-    "description": "Max Giusti conduce la nuova edizione insieme a Isobel Fetiyera: studio rinnovato, band dal vivo, nuova prova finale e un montepremi che puo' raggiungere i 500.000 euro.",
-    "startDate": "2026-10-17T00:20:43Z",
-    "endDate": "2026-10-17T01:20:43Z",
+    "id": "Canale5.it-2026-10-18T00:00",
+    "title": "Tg5",
+    "description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.",
+    "startDate": "2026-10-18T00:00:58Z",
+    "endDate": "2026-10-18T00:41:58Z",
     "channelId": "Canale5.it"
   },
   {
-    "id": "CieloTV.it-2026-10-17T01:05",
+    "id": "CieloTV.it-2026-10-18T01:05",
     "title": "Affari di famiglia",
-    "description": "S19 Ep7 L'Impero colpisce ancora - Corey e' alle prese con una vecchia confezione di caramelle di",
-    "startDate": "2026-10-17T01:05:00Z",
-    "endDate": "2026-10-17T02:00:00Z",
+    "description": "S19 Ep10 Cappello del Presidente - Rick spera di riuscire a ottenere un cappello da cowboy appartenuto a Ronald Reagan. Chum, intanto, e' rapito dal rock dei Pearl Jam.",
+    "startDate": "2026-10-18T01:05:00Z",
+    "endDate": "2026-10-18T01:55:00Z",
     "channelId": "CieloTV.it"
   },
   {
-    "id": "Cine34.it-2026-10-17T00:32",
-    "title": "Vedo nudo",
-    "description": "David di Donatello a Nino Manfredi, protagonista dei sette episodi del film, accomunati dal tema dell'erotismo. Regia di D. Risi; ITA 1969",
-    "startDate": "2026-10-17T00:32:09Z",
-    "endDate": "2026-10-17T02:26:09Z",
+    "id": "Cine34.it-2026-10-18T00:48",
+    "title": "Grazie nonna",
+    "description": "Carletto va all'aeroporto ad accogliere la seconda moglie del nonno, in arrivo dal Venezuela, che nessuno ha mai visto. Si trova davanti E. Fenech. Regia di F. Martinelli; ITA 1975",
+    "startDate": "2026-10-18T00:48:11Z",
+    "endDate": "2026-10-18T02:18:11Z",
     "channelId": "Cine34.it"
   },
   {
-    "id": "Focus.it-2026-10-17T00:20",
-    "title": "Drive up '26 (it1)",
-    "description": "Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli piu' recenti e anticipazioni sulle novita' piu' interessanti.",
-    "startDate": "2026-10-17T00:20:58Z",
-    "endDate": "2026-10-17T00:45:58Z",
+    "id": "Focus.it-2026-10-18T00:03",
+    "title": "C'e' un mistero in mezzo al mare - Le..",
+    "description": ".. isole e i loro segreti - Antiche terrazze di roccia vulcanica in Indonesia con origini misteriose; centinaia di resti scheletrici umani dissotterrati; resti di pinguini.",
+    "startDate": "2026-10-18T00:03:28Z",
+    "endDate": "2026-10-18T00:49:28Z",
     "channelId": "Focus.it"
   },
   {
-    "id": "Iris.it-2026-10-17T02:17",
-    "title": "Il Bandito e la Madama",
-    "description": "Il contrabbandiere Bill, B. Reynolds, viene sfidato dagli Enos, padre e figlio, a trasportare 400 casse di birra dal Texas alla Georgia in 28 ore al massimo. Regia di H. Needham; USA 1977",
-    "startDate": "2026-10-17T02:17:57Z",
-    "endDate": "2026-10-17T03:48:57Z",
+    "id": "Iris.it-2026-10-18T01:37",
+    "title": "Giochi di potere",
+    "description": "Dalla vera storia dello scandalo",
+    "startDate": "2026-10-18T01:37:21Z",
+    "endDate": "2026-10-18T03:20:21Z",
     "channelId": "Iris.it"
   },
   {
-    "id": "Italia1.it-2026-10-17T00:09",
-    "title": "SPORT MEDIASET '21",
-    "description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset.",
-    "startDate": "2026-10-17T00:09:26Z",
-    "endDate": "2026-10-17T00:24:26Z",
+    "id": "Italia1.it-2026-10-18T00:10",
+    "title": "Studio Aperto - La giornata",
+    "description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.",
+    "startDate": "2026-10-18T00:10:45Z",
+    "endDate": "2026-10-18T00:21:45Z",
     "channelId": "Italia1.it"
   },
   {
-    "id": "Italia2.it-2026-10-17T00:17",
+    "id": "Italia2.it-2026-10-18T00:12",
     "title": "Dragon Ball Super",
-    "description": "S1 Ep75 Goku e Crili tornano ad allenarsi insieme - Goku si annoia ad allenarsi da solo cosi' Chichi chiede a Gohan di fargli da avversario in quanto Whis, Piccolo e Vegeta sono occupati.",
-    "startDate": "2026-10-17T00:17:28Z",
-    "endDate": "2026-10-17T00:38:28Z",
+    "description": "S1 Ep63 Zamasu e Black contro Goku e Vegeta - Trunks tiene testa ai due nemici fino al ritorno di Vegeta, Goku e Bulma con la macchina del tempo.",
+    "startDate": "2026-10-18T00:12:10Z",
+    "endDate": "2026-10-18T00:33:10Z",
     "channelId": "Italia2.it"
   },
   {
-    "id": "La5.it-2026-10-17T00:59",
-    "title": "Love Is In The Air",
-    "description": "Ad ArtLife arriva la sostituta di Selin. Giovane, avvenente e abile, Balca lascia trasparire un velato interesse per Serkan. Eda sara' gelosa di lei'?",
-    "startDate": "2026-10-17T00:59:01Z",
-    "endDate": "2026-10-17T01:40:01Z",
+    "id": "La5.it-2026-10-18T00:42",
+    "title": "GRANDE FRATELLO VIP '26 (LIVE) - LA5",
+    "description": "Le telecamere di Grande Fratello si accendono per seguire la vita quotidiana degli inquilini della casa piu' spiata d'Italia.",
+    "startDate": "2026-10-18T00:42:16Z",
+    "endDate": "2026-10-18T00:49:16Z",
     "channelId": "La5.it"
   },
   {
-    "id": "La7.it-2026-10-17T00:50",
+    "id": "La7.it-2026-10-18T00:00",
     "title": "Famiglie D'Italia",
     "description": "Flavio Insinna conduce uno dei giochi piu' popolari: due famiglie composte da 5 persone si sfidano ad indovinare le risposte degli italiani a sondaggi di opinone sulla vita di tutti i giorni.",
-    "startDate": "2026-10-17T00:50:00Z",
-    "endDate": "2026-10-17T02:05:00Z",
+    "startDate": "2026-10-18T00:00:00Z",
+    "endDate": "2026-10-18T01:15:00Z",
     "channelId": "La7.it"
   },
   {
-    "id": "La7d.it-2026-10-17T02:10",
-    "title": "Hollywood Collection",
-    "description": "S1 Ep18 Jack Lemmon - Una serie di splendide biografie di alcuni tra i piu' famosi attori/attrici che hanno caratterizzato il cinema hollywoodiano classico narrate da voci illustri. Questo mese protagonista Jack Lemmon",
-    "startDate": "2026-10-17T02:10:00Z",
-    "endDate": "2026-10-17T03:15:00Z",
+    "id": "La7d.it-2026-10-18T00:05",
+    "title": "Con gli occhi dell'assassino",
+    "description": "Una donna scopre la sorella cieca impiccata in cantina. Non credendo all'ipotesi del suicidio, decide di indagare...",
+    "startDate": "2026-10-18T00:05:00Z",
+    "endDate": "2026-10-18T02:15:00Z",
     "channelId": "La7d.it"
   },
   {
-    "id": "MediasetExtra.it-2026-10-17T04:02",
-    "title": "GRANDE FRATELLO VIP '26 (LIVE) - MEDIASET EXTRA",
+    "id": "MediasetExtra.it-2026-10-18T04:02",
+    "title": "Grande Fratello Vip Live",
     "description": "Appuntamento quotidiano con la casa del Grande Fratello.",
-    "startDate": "2026-10-17T04:02:05Z",
-    "endDate": "2026-10-17T07:00:05Z",
+    "startDate": "2026-10-18T04:02:05Z",
+    "endDate": "2026-10-18T07:00:05Z",
     "channelId": "MediasetExtra.it"
   },
   {
-    "id": "Rai1.it-2026-10-17T01:00",
-    "title": "Reazione a catena",
-    "description": "St2026 Puntata del Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla...",
-    "startDate": "2026-10-17T01:00:00Z",
-    "endDate": "2026-10-17T02:15:00Z",
+    "id": "Rai1.it-2026-10-18T01:05",
+    "title": "Ciao Maschio",
+    "description": "St8 Puntata del Nunzia De Girolamo intervista uomini dello spettacolo, della politica e dell'economia, analizzando con loro le tematiche sociali legate alla figura dell'uomo contemporaneo.",
+    "startDate": "2026-10-18T01:05:00Z",
+    "endDate": "2026-10-18T02:40:00Z",
     "channelId": "Rai1.it"
   },
   {
-    "id": "Rai2.it-2026-10-17T01:05",
-    "title": "The Bad Guy",
-    "description": "St1 Ep5 Vitti 'a luce - A Wowterworld, Nino adotta una strategia insolita per un clan mafioso: la democrazia. Teresa ha un'idea geniale per digitalizzare il pizzo. Con il Natale vicino, riusciranno i Tracina a riempire le...",
-    "startDate": "2026-10-17T01:05:00Z",
-    "endDate": "2026-10-17T01:45:00Z",
+    "id": "Rai2.it-2026-10-18T00:20",
+    "title": "Appuntamento al cinema",
+    "description": "Rubrica per la promozione della cultura cinematografica in Italia.",
+    "startDate": "2026-10-18T00:20:00Z",
+    "endDate": "2026-10-18T00:25:00Z",
     "channelId": "Rai2.it"
   },
   {
-    "id": "Rai3.it-2026-10-17T00:21",
+    "id": "Rai3.it-2026-10-18T00:30",
     "title": "Appuntamento al cinema",
     "description": "Rubrica per la promozione della cultura cinematografica in Italia.",
-    "startDate": "2026-10-17T00:21:00Z",
-    "endDate": "2026-10-17T00:30:00Z",
+    "startDate": "2026-10-18T00:30:00Z",
+    "endDate": "2026-10-18T00:35:00Z",
     "channelId": "Rai3.it"
   },
   {
-    "id": "Rai4.it-2026-10-17T02:05",
-    "title": "Blood & Treasure",
-    "description": "St2 Ep10 La storia segreta dei mongoli - Violet riappare a Danny, Kate e Lexi nell'appartamento di Aidan ad Hanoi. I quattro portano il rotolo recuperato nel monastero Shaolin a Praga, dove una studiosa, amica di Danny, lo traduce per lor...",
-    "startDate": "2026-10-17T02:05:00Z",
-    "endDate": "2026-10-17T03:16:00Z",
+    "id": "Rai4.it-2026-10-18T00:45",
+    "title": "Farang",
+    "description": "Sam, ex detenuto, si rifa' una vita in Thailandia con la famiglia dei suoi sogni. Ma quando il boss locale Narong lo costringe a tornare nel crimine e poi minaccia i suoi cari, Sam non ha scelta: d...",
+    "startDate": "2026-10-18T00:45:00Z",
+    "endDate": "2026-10-18T02:17:00Z",
     "channelId": "Rai4.it"
   },
   {
-    "id": "Rai5.it-2026-10-17T00:02",
-    "title": "Fuori binario - Ep. 10 - La Subappenninica",
-    "description": "Ep10 La Subappenninica - La Ferrovia Subappenninica protagonista del nuovo percorso di Fuori Binario. Le Marche raccontate dai suoi abitanti, attraverso gli occhi e le parole di cuochi, giornalisti, aristocratici, amanuens...",
-    "startDate": "2026-10-17T00:02:00Z",
-    "endDate": "2026-10-17T00:58:00Z",
+    "id": "Rai5.it-2026-10-18T00:29",
+    "title": "Evolution - Il viaggio di Darwin",
+    "description": "In questa puntata:",
+    "startDate": "2026-10-18T00:29:00Z",
+    "endDate": "2026-10-18T00:31:00Z",
     "channelId": "Rai5.it"
   },
   {
-    "id": "RaiMovie.it-2026-10-17T01:00",
-    "title": "To Leslie",
-    "description": "Leslie, giovane texana, vince alla lotteria ma perde tutto in droga e alcol, compreso il figlio James. Tornata al suo paese d'origine, incontra Sweeney, un uomo solitario che le offre una seconda c...",
-    "startDate": "2026-10-17T01:00:00Z",
-    "endDate": "2026-10-17T03:00:00Z",
+    "id": "RaiMovie.it-2026-10-18T01:15",
+    "title": "School of Mafia",
+    "description": "Tony insegna danza ed e' gender fluid, Nick fa il cantante rock e Joe vuole fare il poliziotto. Peccato che siano pero' i figli dei tre boss mafiosi che si devono spartire i traffici illegali di Ne...",
+    "startDate": "2026-10-18T01:15:00Z",
+    "endDate": "2026-10-18T03:00:00Z",
     "channelId": "RaiMovie.it"
   },
   {
-    "id": "RaiNews24.it-2026-10-17T00:00",
-    "title": "News",
-    "description": "Notiziario",
-    "startDate": "2026-10-17T00:00:00Z",
-    "endDate": "2026-10-17T00:30:00Z",
+    "id": "RaiNews24.it-2026-10-18T00:00",
+    "title": "TG notte",
+    "description": "Intrattenimento",
+    "startDate": "2026-10-18T00:00:00Z",
+    "endDate": "2026-10-18T00:30:00Z",
     "channelId": "RaiNews24.it"
   },
   {
-    "id": "RaiPremium.it-2026-10-17T01:05",
-    "title": "Crociere di nozze - Corfu'",
-    "description": "Corfu' - Nella crociera a Corfu', conosciamo due coppie: i signori May che festeggiano a bordo i loro 25 anni di matrimonio e Micha el e Evelyn che invece vogliono sposarsi.",
-    "startDate": "2026-10-17T01:05:00Z",
-    "endDate": "2026-10-17T02:30:00Z",
+    "id": "RaiPremium.it-2026-10-18T00:55",
+    "title": "L'isola del gabbiano",
+    "description": "St1 Ep1 Episodio 1 - Barbara, giovane ragazza inglese, giunge a Roma alla ricerca della sorella Mary Ann, musicista, cieca, che da qualche tempo non da' piu' notizie di se'.",
+    "startDate": "2026-10-18T00:55:00Z",
+    "endDate": "2026-10-18T01:50:00Z",
     "channelId": "RaiPremium.it"
   },
   {
-    "id": "RaiSport.it-2026-10-17T00:30",
-    "title": "Nuoto",
-    "description": "Coppa del Mondo (25m) - 2a giornata: Finali (seconda parte)",
-    "startDate": "2026-10-17T00:30:00Z",
-    "endDate": "2026-10-17T01:50:00Z",
+    "id": "RaiSport.it-2026-10-18T00:00",
+    "title": "Pallavolo: Serie A Maschile 2026",
+    "description": "St2026 1a giornata: Verona - Civitanova - La SuperLega Credem Banca 2026-2027 si apre con la sfida tra Rana Verona e Cucine Lube Civitanova, protagoniste della prima giornata del massimo campionato italiano.",
+    "startDate": "2026-10-18T00:00:00Z",
+    "endDate": "2026-10-18T02:35:00Z",
     "channelId": "RaiSport.it"
   },
   {
-    "id": "RaiStoria.it-2026-10-17T00:50",
-    "title": "Mille papaveri rossi - Il coraggio e la pieta': gli ebrei durante la guerra (pt.1)",
-    "description": "Il coraggio e la pieta': gli ebrei durante la guerra (pt.1) - La vita degli ebrei in Italia durante la seconda guerra mondiale ricostruita attraverso filmati d'epoca e testimonianze",
-    "startDate": "2026-10-17T00:50:00Z",
-    "endDate": "2026-10-17T01:45:00Z",
+    "id": "RaiStoria.it-2026-10-18T00:15",
+    "title": "1492",
+    "description": "Alessandro Barbero ci racconta il 1492, l'anno che, per convenzione, segna la fine del Medioevo e l'inizio dell'eta' moderna. Attraverso la sua narrazione e l'intervento di 'testimoni' dell'epoca...",
+    "startDate": "2026-10-18T00:15:00Z",
+    "endDate": "2026-10-18T01:25:00Z",
     "channelId": "RaiStoria.it"
   },
   {
-    "id": "Rete4.it-2026-10-17T00:08",
+    "id": "Rete4.it-2026-10-18T01:01",
     "title": "TG4 - ULTIM'ORA",
     "description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4.",
-    "startDate": "2026-10-17T00:08:20Z",
-    "endDate": "2026-10-17T00:27:20Z",
+    "startDate": "2026-10-18T01:01:10Z",
+    "endDate": "2026-10-18T01:19:10Z",
     "channelId": "Rete4.it"
   },
   {
-    "id": "TopCrime.it-2026-10-17T00:40",
+    "id": "TopCrime.it-2026-10-18T00:32",
     "title": "Law & Order: Special Victims Unit",
-    "description": "S12 Ep4 La compravendita - Carly, 15 anni, viene investita da un'auto mentre sta scappando. L'autopsia sul corpo della ragazza rivela un avanzato stato di denutrizione ed evidenti segni di abusi.",
-    "startDate": "2026-10-17T00:40:04Z",
-    "endDate": "2026-10-17T01:19:04Z",
+    "description": "S19 Ep21 Il tutore - Malik, un ragazzo di colore, e' il tutore della sorella Tiana. Una sera Malik, mentre sta per essere arrestato, dichiara che Tiana e' stata violentata da sei ragazzi.",
+    "startDate": "2026-10-18T00:32:56Z",
+    "endDate": "2026-10-18T01:12:56Z",
     "channelId": "TopCrime.it"
   },
   {
-    "id": "TV2000.va-2026-10-17T00:00",
-    "title": "Avanzi il prossimo",
-    "description": "Avanzi il prossimo - Avanzi il prossimo tutti a tavola",
-    "startDate": "2026-10-17T00:00:00Z",
-    "endDate": "2026-10-17T00:45:00Z",
+    "id": "TV2000.va-2026-10-18T00:15",
+    "title": "Umbria: le strade dei santi",
+    "description": "Umbria: le strade dei santi - Un itinerario di religiosita e di speranza nelle piu importanti citta dell Umbria",
+    "startDate": "2026-10-18T00:15:00Z",
+    "endDate": "2026-10-18T01:10:00Z",
     "channelId": "TV2000.va"
   },
   {
-    "id": "TV8.it-2026-10-17T00:20",
+    "id": "TV8.it-2026-10-18T02:15",
     "title": "Lady Killer",
-    "description": "S22 Ep23 Denise Davidson - Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina.",
-    "startDate": "2026-10-17T00:20:00Z",
-    "endDate": "2026-10-17T01:10:00Z",
+    "description": "S29 Ep16 Pamela Moss - Sono delicate, generose, vanitose ed innamorate, ma quando vengono ferite diventano vendicative e pericolose. In ogni episodio affrontiamo il caso di una donna diventata di colpo una feroce assassina.",
+    "startDate": "2026-10-18T02:15:00Z",
+    "endDate": "2026-10-18T03:05:00Z",
     "channelId": "TV8.it"
   }
 ]
