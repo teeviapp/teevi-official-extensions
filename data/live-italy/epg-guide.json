@@ -1,203 +1,5 @@
 [
   {
-    "id": "20.it-2026-10-22T00:29",
-    "title": "Station 19 (St. 6 - Ep. 2)",
-    "startDate": "2026-10-22T00:29:00Z",
-    "endDate": "2026-10-22T01:09:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T01:09",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-22T01:09:00Z",
-    "endDate": "2026-10-22T01:58:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T01:58",
-    "title": "DC's Legends of Tomorrow (St. 6 - Ep. 13)",
-    "startDate": "2026-10-22T01:58:00Z",
-    "endDate": "2026-10-22T02:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T02:39",
-    "title": "DC's Legends of Tomorrow (St. 6 - Ep. 14)",
-    "startDate": "2026-10-22T02:39:00Z",
-    "endDate": "2026-10-22T03:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T03:19",
-    "title": "Distretto di Polizia (St. 1 - Ep. 7)",
-    "startDate": "2026-10-22T03:19:00Z",
-    "endDate": "2026-10-22T04:02:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T04:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-22T04:00:00Z",
-    "endDate": "2026-10-22T04:13:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T04:13",
-    "title": "Distretto di Polizia (St. 1 - Ep. 8)",
-    "startDate": "2026-10-22T04:13:00Z",
-    "endDate": "2026-10-22T04:53:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T04:53",
-    "title": "New Amsterdam (St. 2 - Ep. 18)",
-    "startDate": "2026-10-22T04:53:00Z",
-    "endDate": "2026-10-22T05:45:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T05:45",
-    "title": "New Amsterdam (St. 3 - Ep. 1)",
-    "startDate": "2026-10-22T05:45:00Z",
-    "endDate": "2026-10-22T06:33:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T06:33",
-    "title": "Lethal Weapon (St. 3 - Ep. 2)",
-    "startDate": "2026-10-22T06:33:00Z",
-    "endDate": "2026-10-22T07:22:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T07:22",
-    "title": "Lethal Weapon (St. 3 - Ep. 3)",
-    "startDate": "2026-10-22T07:22:00Z",
-    "endDate": "2026-10-22T08:16:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T08:16",
-    "title": "The Big Bang Theory (St. 11 - Ep. 12)",
-    "startDate": "2026-10-22T08:16:00Z",
-    "endDate": "2026-10-22T08:40:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T08:40",
-    "title": "The Big Bang Theory (St. 11 - Ep. 13)",
-    "startDate": "2026-10-22T08:40:00Z",
-    "endDate": "2026-10-22T09:11:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T09:11",
-    "title": "DC's Legends of Tomorrow (St. 6 - Ep. 15)",
-    "startDate": "2026-10-22T09:11:00Z",
-    "endDate": "2026-10-22T10:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T10:00",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 1)",
-    "startDate": "2026-10-22T10:00:00Z",
-    "endDate": "2026-10-22T10:55:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T10:55",
-    "title": "Chicago Fire (St. 10 - Ep. 14)",
-    "startDate": "2026-10-22T10:55:00Z",
-    "endDate": "2026-10-22T11:48:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T11:48",
-    "title": "Station 19 (St. 6 - Ep. 3)",
-    "startDate": "2026-10-22T11:48:00Z",
-    "endDate": "2026-10-22T12:36:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T12:36",
-    "title": "Station 19 (St. 6 - Ep. 4)",
-    "startDate": "2026-10-22T12:36:00Z",
-    "endDate": "2026-10-22T13:29:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T13:29",
-    "title": "New Amsterdam (St. 2 - Ep. 18)",
-    "startDate": "2026-10-22T13:29:00Z",
-    "endDate": "2026-10-22T14:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T14:35",
-    "title": "New Amsterdam (St. 3 - Ep. 1)",
-    "startDate": "2026-10-22T14:35:00Z",
-    "endDate": "2026-10-22T15:31:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T15:31",
-    "title": "Lethal Weapon (St. 3 - Ep. 2)",
-    "startDate": "2026-10-22T15:31:00Z",
-    "endDate": "2026-10-22T16:21:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T16:21",
-    "title": "Lethal Weapon (St. 3 - Ep. 3)",
-    "startDate": "2026-10-22T16:21:00Z",
-    "endDate": "2026-10-22T17:16:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T17:16",
-    "title": "Chicago Fire (St. 10 - Ep. 14)",
-    "startDate": "2026-10-22T17:16:00Z",
-    "endDate": "2026-10-22T18:11:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T18:11",
-    "title": "The Big Bang Theory (St. 11 - Ep. 12)",
-    "startDate": "2026-10-22T18:11:00Z",
-    "endDate": "2026-10-22T18:36:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T18:36",
-    "title": "The Big Bang Theory (St. 11 - Ep. 13)",
-    "startDate": "2026-10-22T18:36:00Z",
-    "endDate": "2026-10-22T19:09:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T19:09",
-    "title": "Way Down - Rapina alla banca di Spagna (2021)",
-    "startDate": "2026-10-22T19:09:00Z",
-    "endDate": "2026-10-22T21:22:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T21:22",
-    "title": "The Accountant (2016)",
-    "startDate": "2026-10-22T21:22:00Z",
-    "endDate": "2026-10-22T23:42:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-22T23:42",
-    "title": "Station 19 (St. 6 - Ep. 3)",
-    "startDate": "2026-10-22T23:42:00Z",
-    "endDate": "2026-10-23T00:21:00Z",
-    "channelId": "20.it"
-  },
-  {
     "id": "20.it-2026-10-23T00:21",
     "title": "Station 19 (St. 6 - Ep. 4)",
     "startDate": "2026-10-23T00:21:00Z",
@@ -241,227 +43,433 @@
     "channelId": "20.it"
   },
   {
-    "id": "27Twentyseven.it-2026-10-22T00:05",
+    "id": "20.it-2026-10-23T04:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-23T04:00:00Z",
+    "endDate": "2026-10-23T04:34:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T04:34",
+    "title": "Distretto di Polizia (St. 1 - Ep. 9)",
+    "startDate": "2026-10-23T04:34:00Z",
+    "endDate": "2026-10-23T05:14:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T05:14",
+    "title": "New Amsterdam (St. 3 - Ep. 2)",
+    "startDate": "2026-10-23T05:14:00Z",
+    "endDate": "2026-10-23T05:54:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T05:54",
+    "title": "New Amsterdam (St. 3 - Ep. 3)",
+    "startDate": "2026-10-23T05:54:00Z",
+    "endDate": "2026-10-23T06:48:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T06:48",
+    "title": "Lethal Weapon (St. 3 - Ep. 4)",
+    "startDate": "2026-10-23T06:48:00Z",
+    "endDate": "2026-10-23T07:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T07:39",
+    "title": "Lethal Weapon (St. 3 - Ep. 5)",
+    "startDate": "2026-10-23T07:39:00Z",
+    "endDate": "2026-10-23T08:28:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T08:28",
+    "title": "The Big Bang Theory (St. 11 - Ep. 14)",
+    "startDate": "2026-10-23T08:28:00Z",
+    "endDate": "2026-10-23T08:55:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T08:55",
+    "title": "The Big Bang Theory (St. 11 - Ep. 15)",
+    "startDate": "2026-10-23T08:55:00Z",
+    "endDate": "2026-10-23T09:20:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T09:20",
+    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 2)",
+    "startDate": "2026-10-23T09:20:00Z",
+    "endDate": "2026-10-23T10:12:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T10:12",
+    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 3)",
+    "startDate": "2026-10-23T10:12:00Z",
+    "endDate": "2026-10-23T11:01:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T11:01",
+    "title": "Chicago Fire (St. 10 - Ep. 15)",
+    "startDate": "2026-10-23T11:01:00Z",
+    "endDate": "2026-10-23T11:54:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T11:54",
+    "title": "Station 19 (St. 6 - Ep. 5)",
+    "startDate": "2026-10-23T11:54:00Z",
+    "endDate": "2026-10-23T12:48:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T12:48",
+    "title": "Station 19 (St. 6 - Ep. 6)",
+    "startDate": "2026-10-23T12:48:00Z",
+    "endDate": "2026-10-23T13:38:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T13:38",
+    "title": "New Amsterdam (St. 3 - Ep. 2)",
+    "startDate": "2026-10-23T13:38:00Z",
+    "endDate": "2026-10-23T14:34:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T14:34",
+    "title": "New Amsterdam (St. 3 - Ep. 3)",
+    "startDate": "2026-10-23T14:34:00Z",
+    "endDate": "2026-10-23T15:32:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T15:32",
+    "title": "Lethal Weapon (St. 3 - Ep. 4)",
+    "startDate": "2026-10-23T15:32:00Z",
+    "endDate": "2026-10-23T16:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T16:27",
+    "title": "Lethal Weapon (St. 3 - Ep. 5)",
+    "startDate": "2026-10-23T16:27:00Z",
+    "endDate": "2026-10-23T17:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T17:18",
+    "title": "Chicago Fire (St. 10 - Ep. 15)",
+    "startDate": "2026-10-23T17:18:00Z",
+    "endDate": "2026-10-23T18:14:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T18:14",
+    "title": "The Big Bang Theory (St. 11 - Ep. 14)",
+    "startDate": "2026-10-23T18:14:00Z",
+    "endDate": "2026-10-23T18:37:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T18:37",
+    "title": "The Big Bang Theory (St. 11 - Ep. 15)",
+    "startDate": "2026-10-23T18:37:00Z",
+    "endDate": "2026-10-23T19:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T19:10",
+    "title": "Shazam! (2019)",
+    "startDate": "2026-10-23T19:10:00Z",
+    "endDate": "2026-10-23T21:42:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T21:42",
+    "title": "Way Down - Rapina alla banca di Spagna (2021)",
+    "startDate": "2026-10-23T21:42:00Z",
+    "endDate": "2026-10-23T23:49:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-23T23:49",
+    "title": "Station 19 (St. 6 - Ep. 5)",
+    "startDate": "2026-10-23T23:49:00Z",
+    "endDate": "2026-10-24T00:30:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T00:30",
+    "title": "Station 19 (St. 6 - Ep. 6)",
+    "startDate": "2026-10-24T00:30:00Z",
+    "endDate": "2026-10-24T01:11:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T01:11",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-24T01:11:00Z",
+    "endDate": "2026-10-24T01:59:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T01:59",
+    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 2)",
+    "startDate": "2026-10-24T01:59:00Z",
+    "endDate": "2026-10-24T02:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T02:39",
+    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 3)",
+    "startDate": "2026-10-24T02:39:00Z",
+    "endDate": "2026-10-24T03:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T03:19",
+    "title": "Distretto di Polizia (St. 1 - Ep. 9)",
+    "startDate": "2026-10-24T03:19:00Z",
+    "endDate": "2026-10-24T04:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-24T04:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-24T04:00:00Z",
+    "endDate": "2026-10-24T04:26:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "27Twentyseven.it-2026-10-23T00:14",
     "title": "Super Car",
-    "description": "S6 Ep2 Formula K.I.T.T. - pilot - II parte - Un gruppo di terroristi si e' impossessato di un isotopo radioattivo di nuova invenzione. Per punizione, Michael viene sospeso dall'incarico.",
-    "startDate": "2026-10-22T00:05:58Z",
-    "endDate": "2026-10-22T00:46:58Z",
+    "description": "S6 Ep7 Contatto mortale - Una scatola contenente un batterio mortale, scoperto casualmente dagli scienziati della",
+    "startDate": "2026-10-23T00:14:13Z",
+    "endDate": "2026-10-23T01:00:13Z",
     "channelId": "27Twentyseven.it"
   },
   {
-    "id": "Canale5.it-2026-10-22T00:27",
-    "title": "Caduta libera",
-    "description": "Max Giusti conduce la nuova edizione insieme a Isobel Fetiyera: studio rinnovato, band dal vivo, nuova prova finale e un montepremi che puo' raggiungere i 500.000 euro.",
-    "startDate": "2026-10-22T00:27:03Z",
-    "endDate": "2026-10-22T01:22:03Z",
+    "id": "Canale5.it-2026-10-23T00:00",
+    "title": "Tg5",
+    "description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.",
+    "startDate": "2026-10-23T00:00:32Z",
+    "endDate": "2026-10-23T00:38:32Z",
     "channelId": "Canale5.it"
   },
   {
-    "id": "CieloTV.it-2026-10-22T01:40",
+    "id": "CieloTV.it-2026-10-23T01:30",
     "title": "Affari di famiglia",
-    "description": "S19 Ep2 Banconote firmate - Gli esperti si occupano della copertina di uno dei piu' grandi album di sempre e dei cimeli di un'icona della boxe.",
-    "startDate": "2026-10-22T01:40:00Z",
-    "endDate": "2026-10-22T02:35:00Z",
+    "description": "S19 Ep5 Leggende del baseball - Mentre Corey e' alle prese con i videogiochi, Rick valuta attentamente un cimelio appartenuto a Prince.",
+    "startDate": "2026-10-23T01:30:00Z",
+    "endDate": "2026-10-23T02:15:00Z",
     "channelId": "CieloTV.it"
   },
   {
-    "id": "Cine34.it-2026-10-22T00:43",
-    "title": "Vi racconto",
-    "description": "S1 Ep36 Max tortora + carlo vanzina - Rubrica di approfondimento settimanale sul cinema italiano con Enrico Vanzina.",
-    "startDate": "2026-10-22T00:43:21Z",
-    "endDate": "2026-10-22T01:00:21Z",
+    "id": "Cine34.it-2026-10-23T00:15",
+    "title": "Calde labbra - excitation",
+    "description": "Francesca e' una sedicenne inquieta e problematica che vive con la madre, con la quale ha un rapporto fortemente conflittuale. Regia di D. Fidani, con C. Beccarie, J. Stany; ITA 1975",
+    "startDate": "2026-10-23T00:15:37Z",
+    "endDate": "2026-10-23T01:40:37Z",
     "channelId": "Cine34.it"
   },
   {
-    "id": "Focus.it-2026-10-22T00:07",
-    "title": "Primo indiziato: La terra!",
-    "description": "Nel 1872, il brigantino Mary Celeste, diretto a Genova viene ritrovato in mezzo allAtlantico senza nessuno a bordo.",
-    "startDate": "2026-10-22T00:07:59Z",
-    "endDate": "2026-10-22T00:52:59Z",
+    "id": "Focus.it-2026-10-23T00:44",
+    "title": "Fuori le prove! - indagini ai confini..",
+    "description": ".. della realta' - Avvistamento di dinosauri moderni, luci misteriose sopra la Norvegia, lacrime di vetro e una ragazza che prende a pugni un albero.",
+    "startDate": "2026-10-23T00:44:43Z",
+    "endDate": "2026-10-23T01:23:43Z",
     "channelId": "Focus.it"
   },
   {
-    "id": "Iris.it-2026-10-22T00:16",
-    "title": "Il castello di carte",
-    "description": "Leschenhaut, un criminale antidemocratico e razzista vuole conquistare la Francia e le ex colonie e l'americano Reno Davis lo contrastera'. Regia di J. Guillermin; USA 1968",
-    "startDate": "2026-10-22T00:16:42Z",
-    "endDate": "2026-10-22T02:00:42Z",
+    "id": "Iris.it-2026-10-23T00:05",
+    "title": "Campioni",
+    "description": "Costretto ad allenare una squadra di giocatori con disabilita' intellettive, Markus dovra' cambiare prospettiva. Da una storia vera. Regia di B. Farrelly; USA 2022",
+    "startDate": "2026-10-23T00:05:54Z",
+    "endDate": "2026-10-23T02:07:54Z",
     "channelId": "Iris.it"
   },
   {
-    "id": "Italia1.it-2026-10-22T00:17",
+    "id": "Italia1.it-2026-10-23T00:01",
     "title": "Studio Aperto - La giornata",
     "description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.",
-    "startDate": "2026-10-22T00:17:33Z",
-    "endDate": "2026-10-22T00:34:33Z",
+    "startDate": "2026-10-23T00:01:11Z",
+    "endDate": "2026-10-23T00:16:11Z",
     "channelId": "Italia1.it"
   },
   {
-    "id": "Italia2.it-2026-10-22T00:02",
+    "id": "Italia2.it-2026-10-23T00:10",
     "title": "Dragon Ball Super",
-    "description": "S1 Ep83 La squadra del settimo universo! chi sono i dieci combattenti piu' forti? - Ogni universo deve formare la propria squadra di campioni in vista del Torneo del Potere.",
-    "startDate": "2026-10-22T00:02:43Z",
-    "endDate": "2026-10-22T00:23:43Z",
+    "description": "S1 Ep86 Finalmente il loro primo incontro! L'androide C-17 vs Goku! - Goku giunge sullisola in cui vive C-17 per chiedergli di prendere parte al torneo. E' la prima volta che i due si incontrano.",
+    "startDate": "2026-10-23T00:10:40Z",
+    "endDate": "2026-10-23T00:32:40Z",
     "channelId": "Italia2.it"
   },
   {
-    "id": "La5.it-2026-10-22T00:58",
+    "id": "La5.it-2026-10-23T00:58",
     "title": "Love Is In The Air",
-    "description": "Il segreto che Eda custodisce la tormenta nei sogni e le impedisce di avvicinarsi a Serkan. Balca, intanto, mette in atto la sua strategia per conquistare Serkan.",
-    "startDate": "2026-10-22T00:58:06Z",
-    "endDate": "2026-10-22T01:38:06Z",
+    "description": "Semiha ha costretto Eda a lasciare Serkan, ma lei non intende arrendersi e passa al contrattacco, e si dice intenzionata a riallacciare i rapporti con la nonna.",
+    "startDate": "2026-10-23T00:58:51Z",
+    "endDate": "2026-10-23T01:42:51Z",
     "channelId": "La5.it"
   },
   {
-    "id": "La7.it-2026-10-22T00:10",
+    "id": "La7.it-2026-10-23T00:45",
     "title": "La torre di Babele Doc",
-    "description": "S1 Ep107 L'Europa vista dall'alto: Regno Unito - Corrado Augias e i suoi ospiti affrontano temi storici, culturali, politici ed economici, analizzandone i riflessi su attualita' e futuro attraverso punti di vista che stimolano il pensiero critico.",
-    "startDate": "2026-10-22T00:10:00Z",
-    "endDate": "2026-10-22T01:10:00Z",
+    "description": "S1 Ep43 L'ingegneria del passato: I segreti di Notre Dame - Corrado Augias e i suoi ospiti affrontano temi storici, culturali, politici ed economici, analizzandone i riflessi su attualita' e futuro attraverso punti di vista che stimolano il pensiero critico.",
+    "startDate": "2026-10-23T00:45:00Z",
+    "endDate": "2026-10-23T01:45:00Z",
     "channelId": "La7.it"
   },
   {
-    "id": "La7d.it-2026-10-22T01:45",
-    "title": "Amore e inganni",
-    "description": "Lady Susan Vernon, fascinosa vedova, si trasferisce temporaneamente con sua figlia nella tenuta dei suoceri mentre cerca un nuovo marito.",
-    "startDate": "2026-10-22T01:45:00Z",
-    "endDate": "2026-10-22T03:35:00Z",
+    "id": "La7d.it-2026-10-23T01:40",
+    "title": "Troppo giovani per morire - Ep. 1 - Sharon Tate",
+    "description": "Ep1 Sharon Tate - Matthias Schmidt racconta la tragica storia di Sharon Tate, attrice dalla bellezza moderna e moglie del regista Roman Polanski, uccisa a 26 anni dai seguaci della setta satanica di Charles Manson.",
+    "startDate": "2026-10-23T01:40:00Z",
+    "endDate": "2026-10-23T02:45:00Z",
     "channelId": "La7d.it"
   },
   {
-    "id": "MediasetExtra.it-2026-10-22T00:00",
+    "id": "MediasetExtra.it-2026-10-23T04:02",
     "title": "Grande Fratello Vip Live",
-    "description": "Appuntamento quotidiano con la casa del Grande Fratello",
-    "startDate": "2026-10-22T00:00:18Z",
-    "endDate": "2026-10-22T04:01:18Z",
+    "description": "Appuntamento quotidiano con la casa del Grande Fratello.",
+    "startDate": "2026-10-23T04:02:05Z",
+    "endDate": "2026-10-23T07:00:05Z",
     "channelId": "MediasetExtra.it"
   },
   {
-    "id": "Rai1.it-2026-10-22T00:00",
-    "title": "La Pennicanza 2026",
-    "description": "St2026 La Nottatanza - E' tempo di novita':",
-    "startDate": "2026-10-22T00:00:00Z",
-    "endDate": "2026-10-22T00:30:00Z",
+    "id": "Rai1.it-2026-10-23T00:25",
+    "title": "Che tempo fa",
+    "description": "Intrattenimento",
+    "startDate": "2026-10-23T00:25:00Z",
+    "endDate": "2026-10-23T00:30:00Z",
     "channelId": "Rai1.it"
   },
   {
-    "id": "Rai2.it-2026-10-22T00:36",
-    "title": "Meteo 2",
-    "description": "Meteo",
-    "startDate": "2026-10-22T00:36:00Z",
-    "endDate": "2026-10-22T00:40:00Z",
+    "id": "Rai2.it-2026-10-23T01:30",
+    "title": "The Bad Guy",
+    "description": "St2 Ep4 Deja Vu - Suro e' arrestato, ma per Nino Scotellaro, ex magistrato, non basta. Tornando a casa per affrontare Luvi, Nino riflette, mentre Leonarda insegue Balduccio Remora, ignara che sia proprio suo fratello.",
+    "startDate": "2026-10-23T01:30:00Z",
+    "endDate": "2026-10-23T02:20:00Z",
     "channelId": "Rai2.it"
   },
   {
-    "id": "Rai3.it-2026-10-22T00:30",
+    "id": "Rai3.it-2026-10-23T00:15",
     "title": "RaiNews",
     "description": "Notiziario",
-    "startDate": "2026-10-22T00:30:00Z",
-    "endDate": "2026-10-22T04:00:00Z",
+    "startDate": "2026-10-23T00:15:00Z",
+    "endDate": "2026-10-23T04:00:00Z",
     "channelId": "Rai3.it"
   },
   {
-    "id": "Rai4.it-2026-10-22T00:27",
+    "id": "Rai4.it-2026-10-23T00:20",
     "title": "Seal Team",
-    "description": "St7 Ep3 Navi nella notte - Il tenente Davis e il capitano Walch inviano la squadra BRAVO in Thailandia per collaborare con la DEA in una task force congiunta focalizzata sul traffico di fentanyl.",
-    "startDate": "2026-10-22T00:27:00Z",
-    "endDate": "2026-10-22T01:12:00Z",
+    "description": "St7 Ep4 Eroi e criminali - La squadra BRAVO prende di mira una fabbrica in Myanmar legata alla Cina e alla produzione di fentanyl. Il tenente Davis vuole che la squadra estragga informazioni e distrugga l'impianto. Nella fot...",
+    "startDate": "2026-10-23T00:20:00Z",
+    "endDate": "2026-10-23T01:03:00Z",
     "channelId": "Rai4.it"
   },
   {
-    "id": "Rai5.it-2026-10-22T01:15",
-    "title": "1940: Italia in guerra",
-    "description": "St2020 Ep1 La dichiarazione - Dal balcone di Palazzo Venezia il Duce annuncia al popolo che",
-    "startDate": "2026-10-22T01:15:00Z",
-    "endDate": "2026-10-22T02:11:00Z",
+    "id": "Rai5.it-2026-10-23T00:06",
+    "title": "Storia della matematica",
+    "description": "St1 Ep1 La lingua dell'universo - Nell'arco della storia dell'umanita' le civilta' che si sono susseguite hanno scoperto che una disciplina piu' di tutte ci puo' fornire le chiavi per comprendere la realta' nascosta dell'universo...",
+    "startDate": "2026-10-23T00:06:00Z",
+    "endDate": "2026-10-23T01:04:00Z",
     "channelId": "Rai5.it"
   },
   {
-    "id": "RaiGulp.it-2026-10-22T00:00",
+    "id": "RaiGulp.it-2026-10-23T00:00",
     "title": "Coop Troop",
-    "description": "St1 Ep12 Berta Superstar - La Coop Troop viene chiamata da Britney e Christina per convincere Bertha a superare il suo panico da palcoscenico e partecipare a una pubblicita' di cibo per cani dove dovrebbe interpretare una su...",
-    "startDate": "2026-10-22T00:00:00Z",
-    "endDate": "2026-10-22T00:20:00Z",
+    "description": "St1 Ep14 Un lavoro da cani - Il nuovo caso per la Coop Troop e' la scomparsa di Bertha: in realta' il fattore l'ha scambiata per un cane randagio e cerca di addestrarla come cane da pastore. E alla prigioniera non dispiace co...",
+    "startDate": "2026-10-23T00:00:00Z",
+    "endDate": "2026-10-23T00:15:00Z",
     "channelId": "RaiGulp.it"
   },
   {
-    "id": "RaiMovie.it-2026-10-22T00:30",
-    "title": "Il Messia",
-    "description": "Nella decadenza del mondo antico, e preconizzata dalla voce di Giovanni il Battista, compare in Israele la figura del Messia che cammina, lavora, predica, stimola gli apostoli a diffonderne il mess...",
-    "startDate": "2026-10-22T00:30:00Z",
-    "endDate": "2026-10-22T03:00:00Z",
+    "id": "RaiMovie.it-2026-10-23T01:10",
+    "title": "Un anno con Salinger",
+    "description": "Joanna, giovane aspirante scrittrice, trova lavoro presso l'agenzia letteraria dell'integerrima Margaret. Joanna deve rispondere alle numerose lettere dei tanti estimatori del celebre, e riservato,...",
+    "startDate": "2026-10-23T01:10:00Z",
+    "endDate": "2026-10-23T03:00:00Z",
     "channelId": "RaiMovie.it"
   },
   {
-    "id": "RaiNews24.it-2026-10-22T00:00",
+    "id": "RaiNews24.it-2026-10-23T00:00",
     "title": "TG notte",
     "description": ",. - ,",
-    "startDate": "2026-10-22T00:00:00Z",
-    "endDate": "2026-10-22T00:30:00Z",
+    "startDate": "2026-10-23T00:00:00Z",
+    "endDate": "2026-10-23T00:30:00Z",
     "channelId": "RaiNews24.it"
   },
   {
-    "id": "RaiPremium.it-2026-10-22T01:20",
-    "title": "Crociere di nozze - Australia",
-    "description": "Australia - La vicenda raccontata ruota intorno alla wedding planner Marie Andresen che ha deciso di prendersi una pausa dal proprio lavoro e restare in Croazia con Daniel Bergmann. A sostituire Marie come wed...",
-    "startDate": "2026-10-22T01:20:00Z",
-    "endDate": "2026-10-22T02:45:00Z",
+    "id": "RaiPremium.it-2026-10-23T00:35",
+    "title": "Storie italiane 2026",
+    "description": "St2026 Puntata del Eleonora Daniele approfondisce i temi di stretta attualita' e i principali casi di cronaca con i protagonisti che raccontano in prima persona le loro esperienze.",
+    "startDate": "2026-10-23T00:35:00Z",
+    "endDate": "2026-10-23T02:35:00Z",
     "channelId": "RaiPremium.it"
   },
   {
-    "id": "RaiSport.it-2026-10-22T00:15",
-    "title": "Ginnastica Artistica",
-    "description": "Campionati del mondo: Finali a Squadre Donne",
-    "startDate": "2026-10-22T00:15:00Z",
-    "endDate": "2026-10-22T03:35:00Z",
+    "id": "RaiSport.it-2026-10-23T00:10",
+    "title": "Nuoto",
+    "description": "Coppa del Mondo (25m) - 3a giornata: Finali (seconda parte)",
+    "startDate": "2026-10-23T00:10:00Z",
+    "endDate": "2026-10-23T01:30:00Z",
     "channelId": "RaiSport.it"
   },
   {
-    "id": "RaiStoria.it-2026-10-22T00:25",
-    "title": "Come eravamo - Giovani",
-    "description": "Giovani, moda, canzoni e cronaca negli Sessanta, quando gli italiani abbandonano le piazze e ricercano 'l'evasione'.",
-    "startDate": "2026-10-22T00:25:00Z",
-    "endDate": "2026-10-22T00:35:00Z",
+    "id": "RaiStoria.it-2026-10-23T00:05",
+    "title": "Storie della TV",
+    "description": "St2024 Ep5 Il mercato (1984-1993) - Tra il 1984 e il 1993 il monopolio RAI deve misurarsi, per la prima volta nella sua storia, con la concorrenza dei network privati di Silvio Berlusconi. La televisione Rai vede prevalere l'aspetto ...",
+    "startDate": "2026-10-23T00:05:00Z",
+    "endDate": "2026-10-23T01:00:00Z",
     "channelId": "RaiStoria.it"
   },
   {
-    "id": "Rete4.it-2026-10-22T00:51",
+    "id": "Rete4.it-2026-10-23T00:11",
     "title": "Tg4 '26 - ultima ora notte",
     "description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4.",
-    "startDate": "2026-10-22T00:51:14Z",
-    "endDate": "2026-10-22T01:09:14Z",
+    "startDate": "2026-10-23T00:11:07Z",
+    "endDate": "2026-10-23T00:29:07Z",
     "channelId": "Rete4.it"
   },
   {
-    "id": "Super.it-2026-10-22T00:05",
+    "id": "Super.it-2026-10-23T00:05",
     "title": "Street Of Magic",
-    "description": "S2 Ep.3 Parco avventura - Un mago deve sempre sfidare le leggi della natura e quindi Steven decide di andare a fare un po' di magia in un parco avventura. Oggi sara' proibito avere le vertigini!",
-    "startDate": "2026-10-22T00:05:00Z",
-    "endDate": "2026-10-22T00:25:00Z",
+    "description": "S2 Ep.5 Scuola di Dj - teven visita un negozio di musica e una scuola di dj in cerca ispirazione per la colonna sonora dei suoi prossimi video di magia",
+    "startDate": "2026-10-23T00:05:00Z",
+    "endDate": "2026-10-23T00:25:00Z",
     "channelId": "Super.it"
   },
   {
-    "id": "TopCrime.it-2026-10-22T00:26",
-    "title": "Law & Order: Special Victims Unit",
-    "description": "S12 Ep10 Il soccorso - Caitlin Lamarck muore per trauma cranico durante un party. Molti dei presenti la odiavano per aver svelato in rete le sue esperienze sessuali con loro.",
-    "startDate": "2026-10-22T00:26:07Z",
-    "endDate": "2026-10-22T01:05:07Z",
+    "id": "TopCrime.it-2026-10-23T00:01",
+    "title": "Law & Order: I due volti della giustizia",
+    "description": "S24 Ep2 L'uomo perfetto - Quando il fondatore di un'app di appuntamenti viene assassinato, i detective Shaw e Riley indagano su chi vorrebbe la morte dell'uomo ossessionato dall'amore.",
+    "startDate": "2026-10-23T00:01:51Z",
+    "endDate": "2026-10-23T00:44:51Z",
     "channelId": "TopCrime.it"
   },
   {
-    "id": "TV2000.va-2026-10-22T00:00",
-    "title": "SIAMO NOI",
-    "description": "Siamo Noi - Raccontare l attualita , sfidando il pessimismo e accendendo i riflettori sulle buone pratiche di un Italia che ogni giorno costruisce bene comune.",
-    "startDate": "2026-10-22T00:00:00Z",
-    "endDate": "2026-10-22T00:30:00Z",
+    "id": "TV2000.va-2026-10-23T00:25",
+    "title": "Avanzi il prossimo",
+    "description": "Avanzi il prossimo - Avanzi il prossimo tutti a tavola",
+    "startDate": "2026-10-23T00:25:00Z",
+    "endDate": "2026-10-23T01:15:00Z",
     "channelId": "TV2000.va"
   },
   {
-    "id": "TV8.it-2026-10-22T00:25",
+    "id": "TV8.it-2026-10-23T01:00",
     "title": "Lady Killer",
-    "description": "S30 Ep3 Tucker Moore-Reed - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?",
-    "startDate": "2026-10-22T00:25:00Z",
-    "endDate": "2026-10-22T01:25:00Z",
+    "description": "S23 Ep6 Lori Isenberg - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?",
+    "startDate": "2026-10-23T01:00:00Z",
+    "endDate": "2026-10-23T01:55:00Z",
     "channelId": "TV8.it"
   }
 ]
