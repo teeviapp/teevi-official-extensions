@@ -1,179 +1,10 @@
 [
   {
-    "id": "20.it-2026-10-24T00:30",
-    "title": "Station 19 (St. 6 - Ep. 6)",
-    "startDate": "2026-10-24T00:30:00Z",
-    "endDate": "2026-10-24T01:11:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T01:11",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-24T01:11:00Z",
-    "endDate": "2026-10-24T01:59:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T01:59",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 2)",
-    "startDate": "2026-10-24T01:59:00Z",
-    "endDate": "2026-10-24T02:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T02:39",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 3)",
-    "startDate": "2026-10-24T02:39:00Z",
-    "endDate": "2026-10-24T03:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T03:19",
-    "title": "Distretto di Polizia (St. 1 - Ep. 9)",
-    "startDate": "2026-10-24T03:19:00Z",
-    "endDate": "2026-10-24T04:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T04:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-24T04:00:00Z",
-    "endDate": "2026-10-24T04:26:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T04:26",
-    "title": "Distretto di Polizia (St. 1 - Ep. 10)",
-    "startDate": "2026-10-24T04:26:00Z",
-    "endDate": "2026-10-24T05:06:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T05:06",
-    "title": "Distretto di Polizia (St. 1 - Ep. 11)",
-    "startDate": "2026-10-24T05:06:00Z",
-    "endDate": "2026-10-24T05:47:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T05:47",
-    "title": "Distretto di Polizia (St. 1 - Ep. 12)",
-    "startDate": "2026-10-24T05:47:00Z",
-    "endDate": "2026-10-24T06:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T06:35",
-    "title": "Batwoman (St. 3 - Ep. 5)",
-    "startDate": "2026-10-24T06:35:00Z",
-    "endDate": "2026-10-24T07:23:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T07:23",
-    "title": "Legacies (St. 3 - Ep. 10)",
-    "startDate": "2026-10-24T07:23:00Z",
-    "endDate": "2026-10-24T08:17:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T08:17",
-    "title": "Legacies (St. 3 - Ep. 11)",
-    "startDate": "2026-10-24T08:17:00Z",
-    "endDate": "2026-10-24T09:05:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T09:05",
-    "title": "Legacies (St. 3 - Ep. 12)",
-    "startDate": "2026-10-24T09:05:00Z",
-    "endDate": "2026-10-24T09:58:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T09:58",
-    "title": "Legacies (St. 3 - Ep. 13)",
-    "startDate": "2026-10-24T09:58:00Z",
-    "endDate": "2026-10-24T10:53:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T10:53",
-    "title": "The Last Ship (St. 2 - Ep. 1)",
-    "startDate": "2026-10-24T10:53:00Z",
-    "endDate": "2026-10-24T11:41:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T11:41",
-    "title": "The Last Ship (St. 2 - Ep. 2)",
-    "startDate": "2026-10-24T11:41:00Z",
-    "endDate": "2026-10-24T12:28:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T12:28",
-    "title": "The Last Ship (St. 2 - Ep. 3)",
-    "startDate": "2026-10-24T12:28:00Z",
-    "endDate": "2026-10-24T13:18:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T13:18",
-    "title": "The Last Ship (St. 2 - Ep. 4)",
-    "startDate": "2026-10-24T13:18:00Z",
-    "endDate": "2026-10-24T14:12:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T14:12",
-    "title": "The Last Ship (St. 2 - Ep. 5)",
-    "startDate": "2026-10-24T14:12:00Z",
-    "endDate": "2026-10-24T15:02:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T15:02",
-    "title": "The Last Ship (St. 2 - Ep. 6)",
-    "startDate": "2026-10-24T15:02:00Z",
-    "endDate": "2026-10-24T15:56:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T15:56",
-    "title": "The Last Ship (St. 2 - Ep. 7)",
-    "startDate": "2026-10-24T15:56:00Z",
-    "endDate": "2026-10-24T16:49:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T16:49",
-    "title": "Lara Croft: Tomb Raider - La culla della vita (2003)",
-    "startDate": "2026-10-24T16:49:00Z",
-    "endDate": "2026-10-24T19:09:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T19:09",
-    "title": "Sfida tra i ghiacci (1994)",
-    "startDate": "2026-10-24T19:09:00Z",
-    "endDate": "2026-10-24T21:08:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T21:08",
-    "title": "Shazam! (2019)",
-    "startDate": "2026-10-24T21:08:00Z",
-    "endDate": "2026-10-24T23:28:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-24T23:28",
-    "title": "Lara Croft: Tomb Raider - La culla della vita (2003)",
-    "startDate": "2026-10-24T23:28:00Z",
-    "endDate": "2026-10-25T03:12:00Z",
+    "id": "20.it-2026-10-25T01:28",
+    "title": "Lara Croft: Tomb Raider - La culla..",
+    "description": ".. della vita - Lara cerca il codice per ritrovare il vaso di Pandora prima che cada nelle mani sbagliate. Capitolo 2 della saga. Regia di J. De Bont; USA 2003",
+    "startDate": "2026-10-25T01:28:29Z",
+    "endDate": "2026-10-25T04:11:29Z",
     "channelId": "20.it"
   },
   {
@@ -221,235 +52,404 @@
     "channelId": "20.it"
   },
   {
-    "id": "27Twentyseven.it-2026-10-24T00:57",
+    "id": "20.it-2026-10-25T05:17",
+    "title": "Batwoman (St. 3 - Ep. 6)",
+    "startDate": "2026-10-25T05:17:00Z",
+    "endDate": "2026-10-25T05:58:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T05:58",
+    "title": "The Last Ship (St. 2 - Ep. 5)",
+    "startDate": "2026-10-25T05:58:00Z",
+    "endDate": "2026-10-25T06:38:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T06:38",
+    "title": "The Last Ship (St. 2 - Ep. 6)",
+    "startDate": "2026-10-25T06:38:00Z",
+    "endDate": "2026-10-25T07:25:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T07:25",
+    "title": "The Last Ship (St. 2 - Ep. 7)",
+    "startDate": "2026-10-25T07:25:00Z",
+    "endDate": "2026-10-25T08:12:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T08:12",
+    "title": "The Last Ship (St. 2 - Ep. 8)",
+    "startDate": "2026-10-25T08:12:00Z",
+    "endDate": "2026-10-25T09:01:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T09:01",
+    "title": "The Last Ship (St. 2 - Ep. 9)",
+    "startDate": "2026-10-25T09:01:00Z",
+    "endDate": "2026-10-25T09:53:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T09:53",
+    "title": "The Last Ship (St. 2 - Ep. 10)",
+    "startDate": "2026-10-25T09:53:00Z",
+    "endDate": "2026-10-25T10:45:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T10:45",
+    "title": "The Last Ship (St. 2 - Ep. 11)",
+    "startDate": "2026-10-25T10:45:00Z",
+    "endDate": "2026-10-25T11:32:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T11:32",
+    "title": "The Last Ship (St. 2 - Ep. 12)",
+    "startDate": "2026-10-25T11:32:00Z",
+    "endDate": "2026-10-25T12:21:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T12:21",
+    "title": "The Last Ship (St. 2 - Ep. 13)",
+    "startDate": "2026-10-25T12:21:00Z",
+    "endDate": "2026-10-25T13:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T13:18",
+    "title": "Pittsburgh steelers - new orleans saints 25.10.26",
+    "startDate": "2026-10-25T13:18:00Z",
+    "endDate": "2026-10-25T16:47:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T16:47",
+    "title": "grown-ish (St. 6 - Ep. 7)",
+    "startDate": "2026-10-25T16:47:00Z",
+    "endDate": "2026-10-25T17:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T17:10",
+    "title": "grown-ish (St. 6 - Ep. 8)",
+    "startDate": "2026-10-25T17:10:00Z",
+    "endDate": "2026-10-25T17:37:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T17:37",
+    "title": "grown-ish (St. 6 - Ep. 9)",
+    "startDate": "2026-10-25T17:37:00Z",
+    "endDate": "2026-10-25T17:57:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T17:57",
+    "title": "grown-ish (St. 6 - Ep. 10)",
+    "startDate": "2026-10-25T17:57:00Z",
+    "endDate": "2026-10-25T18:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T18:18",
+    "title": "Next (2007)",
+    "startDate": "2026-10-25T18:18:00Z",
+    "endDate": "2026-10-25T20:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T20:10",
+    "title": "Now You See Me 2 (2016)",
+    "startDate": "2026-10-25T20:10:00Z",
+    "endDate": "2026-10-25T22:30:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-25T22:30",
+    "title": "Sfida tra i ghiacci (1994)",
+    "startDate": "2026-10-25T22:30:00Z",
+    "endDate": "2026-10-26T00:24:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T00:24",
+    "title": "Next (2007)",
+    "startDate": "2026-10-26T00:24:00Z",
+    "endDate": "2026-10-26T01:51:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T01:51",
+    "title": "Batwoman (St. 3 - Ep. 6)",
+    "startDate": "2026-10-26T01:51:00Z",
+    "endDate": "2026-10-26T02:32:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T02:32",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-26T02:32:00Z",
+    "endDate": "2026-10-26T02:58:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T02:58",
+    "title": "Distretto di Polizia (St. 1 - Ep. 13)",
+    "startDate": "2026-10-26T02:58:00Z",
+    "endDate": "2026-10-26T03:38:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T03:38",
+    "title": "Distretto di Polizia (St. 1 - Ep. 14)",
+    "startDate": "2026-10-26T03:38:00Z",
+    "endDate": "2026-10-26T04:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T04:18",
+    "title": "Distretto di Polizia (St. 1 - Ep. 15)",
+    "startDate": "2026-10-26T04:18:00Z",
+    "endDate": "2026-10-26T05:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-26T05:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-10-26T05:00:00Z",
+    "endDate": "2026-10-26T05:45:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "27Twentyseven.it-2026-10-25T02:03",
     "title": "Super Car",
-    "description": "S6 Ep9 Incidenti di percorso - Elena e suo padre Mac sperano di vincere una gara di Formula Uno per recuperare il denaro investito, ma qualcuno fa esplodere il prototipo prima della corsa.",
-    "startDate": "2026-10-24T00:57:53Z",
-    "endDate": "2026-10-24T01:43:53Z",
+    "description": "S6 Ep12 Caccia all'uomo - Michael e' sulle tracce di Durant, una pericolosa spia che sta cercando di vendere, per milioni di dollari, alcuni segreti del governo degli Stati Uniti a Paesi nemici.",
+    "startDate": "2026-10-25T02:03:05Z",
+    "endDate": "2026-10-25T02:49:05Z",
     "channelId": "27Twentyseven.it"
   },
   {
-    "id": "Canale5.it-2026-10-24T00:16",
-    "title": "Caduta libera",
-    "description": "Max Giusti conduce la nuova edizione insieme a Isobel Fetiyera: studio rinnovato, band dal vivo, nuova prova finale e un montepremi che puo' raggiungere i 500.000 euro.",
-    "startDate": "2026-10-24T00:16:58Z",
-    "endDate": "2026-10-24T01:16:58Z",
+    "id": "Canale5.it-2026-10-25T01:00",
+    "title": "Tg5 Speciale",
+    "description": "Ligabue: tra palco e vita, un racconto senza filtri. Dalla famiglia agli esordi, dai successi alle fragilita', quarant'anni di rock italiano, musica e rinascita.",
+    "startDate": "2026-10-25T01:00:47Z",
+    "endDate": "2026-10-25T01:49:47Z",
     "channelId": "Canale5.it"
   },
   {
-    "id": "CieloTV.it-2026-10-24T01:10",
-    "title": "Affari di famiglia",
-    "description": "S19 Ep8 Motore spaziale - Mentre in negozio arriva un importante pezzo di storia, Rick sembra essere particolarmente rapito da un motore spaziale.",
-    "startDate": "2026-10-24T01:10:00Z",
-    "endDate": "2026-10-24T01:55:00Z",
+    "id": "CieloTV.it-2026-10-25T01:05",
+    "title": "MasterChef Italia",
+    "description": "Teatro della prova in esterna sara' il Ghiacciaio dello Stelvio. Gli aspiranti chef dovranno cucinare per vecchie e nuove glorie dello sci italiano. Solo chi sapra' conquistarli potra' evitare il Pressure Test.",
+    "startDate": "2026-10-25T01:05:00Z",
+    "endDate": "2026-10-25T02:15:00Z",
     "channelId": "CieloTV.it"
   },
   {
-    "id": "Cine34.it-2026-10-24T00:27",
-    "title": "La supplente",
-    "description": "Uno studente di liceo s'innamora della provocante supplente, ma lei preferisce il professore di ginnastica. Con C. Villani, D. Haddon. Regia di G. Leoni; ITA 1975",
-    "startDate": "2026-10-24T00:27:09Z",
-    "endDate": "2026-10-24T01:49:09Z",
+    "id": "Cine34.it-2026-10-25T01:30",
+    "title": "La supplente va in citta'",
+    "description": "Commedia erotica con Carmen Villani. Rubina, una maestrina veneta, giunge a Roma per rintracciare il fidanzato conosciuto durante la leva militare. Regia di V. De Sisti; ITA 1979",
+    "startDate": "2026-10-25T01:30:19Z",
+    "endDate": "2026-10-25T03:58:19Z",
     "channelId": "Cine34.it"
   },
   {
-    "id": "Focus.it-2026-10-24T00:23",
-    "title": "Tg5",
-    "description": "Le notizie piu' importanti nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.",
-    "startDate": "2026-10-24T00:23:20Z",
-    "endDate": "2026-10-24T00:25:20Z",
+    "id": "Focus.it-2026-10-25T01:07",
+    "title": "Meteo impazzito: Le top ten",
+    "description": "Perche' alcune localita' sembrano essere una calamita per il peggio che il sistema meteorologico terrestre possa offrire?",
+    "startDate": "2026-10-25T01:07:49Z",
+    "endDate": "2026-10-25T01:56:49Z",
     "channelId": "Focus.it"
   },
   {
-    "id": "Iris.it-2026-10-24T00:58",
-    "title": "Insomnia",
-    "description": "Dormer e' un detective inviato in Alaska per indagare sull'omicidio di una ragazza. Qui uccide accidentalmente un collega, ma forse qualcuno ha visto tutto. Regia di C. Nolan; USA 2002",
-    "startDate": "2026-10-24T00:58:05Z",
-    "endDate": "2026-10-24T02:51:05Z",
+    "id": "Iris.it-2026-10-25T01:57",
+    "title": "The Forgiven",
+    "description": "I ricchi coniugi Henninger, invitati ad una festa nel deserto del Marocco, si smarriscono e finiscono per investire ed uccidere un giovane del posto. Regia di J. Mcdonagh; GBR 2021",
+    "startDate": "2026-10-25T01:57:50Z",
+    "endDate": "2026-10-25T04:52:50Z",
     "channelId": "Iris.it"
   },
   {
-    "id": "Italia1.it-2026-10-24T00:07",
-    "title": "Sport Mediaset - La giornata",
-    "description": "Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset.",
-    "startDate": "2026-10-24T00:07:51Z",
-    "endDate": "2026-10-24T00:26:51Z",
+    "id": "Italia1.it-2026-10-25T01:04",
+    "title": "Studio Aperto - La giornata",
+    "description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.",
+    "startDate": "2026-10-25T01:04:24Z",
+    "endDate": "2026-10-25T01:20:24Z",
     "channelId": "Italia1.it"
   },
   {
-    "id": "Italia2.it-2026-10-24T00:01",
+    "id": "Italia2.it-2026-10-25T01:06",
     "title": "Dragon Ball Super",
-    "description": "S1 Ep89 Arriva una bellezza misteriosa! Che succede nella palestra di Tensing? - Goku e' alla ricerca del Genio delle tartarughe, ma scopre che e' in visita alla palestra di Tensing.",
-    "startDate": "2026-10-24T00:01:54Z",
-    "endDate": "2026-10-24T00:22:54Z",
+    "description": "S1 Ep78 Come reagiranno i signori degli universi? Il torneo del potere: quando perdere significa essere distrutti - Zeno del Presente e Zeno del Futuro, indicono il Torneo del Potere.",
+    "startDate": "2026-10-25T01:06:40Z",
+    "endDate": "2026-10-25T01:27:40Z",
     "channelId": "Italia2.it"
   },
   {
-    "id": "La5.it-2026-10-24T00:58",
-    "title": "Love Is In The Air",
-    "description": "Serkan porta Eda in un locale e, dopo aver suonato il pianoforte per lei, le fa a sua volta la proposta di matrimonio.",
-    "startDate": "2026-10-24T00:58:37Z",
-    "endDate": "2026-10-24T01:39:37Z",
+    "id": "La5.it-2026-10-25T01:33",
+    "title": "Grande Fratello Vip Live",
+    "description": "Le telecamere di Grande Fratello si accendono per seguire la vita quotidiana degli inquilini della casa piu' spiata d'Italia.",
+    "startDate": "2026-10-25T01:33:56Z",
+    "endDate": "2026-10-25T03:37:56Z",
     "channelId": "La5.it"
   },
   {
-    "id": "La7.it-2026-10-24T00:50",
+    "id": "La7.it-2026-10-25T01:30",
     "title": "Famiglie D'Italia",
     "description": "Flavio Insinna conduce uno dei giochi piu' popolari: due famiglie composte da 5 persone si sfidano ad indovinare le risposte degli italiani a sondaggi di opinone sulla vita di tutti i giorni.",
-    "startDate": "2026-10-24T00:50:00Z",
-    "endDate": "2026-10-24T02:05:00Z",
+    "startDate": "2026-10-25T01:30:00Z",
+    "endDate": "2026-10-25T03:45:00Z",
     "channelId": "La7.it"
   },
   {
-    "id": "La7d.it-2026-10-24T00:10",
-    "title": "Buena Vista Social Club",
-    "description": "Ry Cooder torna all'Avana per incontrare alcuni musicisti cubani. E in tutti loro nasce il desiderio di dare forma a un nuovo progetto. Sara' un successo mondiale.",
-    "startDate": "2026-10-24T00:10:00Z",
-    "endDate": "2026-10-24T02:00:00Z",
+    "id": "La7d.it-2026-10-25T01:50",
+    "title": "Runner Runner",
+    "description": "Uno studente viene truffato giocando al poker online. Decide cosi' di organizzare un faccia a faccia con l'avversario.",
+    "startDate": "2026-10-25T01:50:00Z",
+    "endDate": "2026-10-25T04:35:00Z",
     "channelId": "La7d.it"
   },
   {
-    "id": "MediasetExtra.it-2026-10-24T04:02",
+    "id": "MediasetExtra.it-2026-10-25T01:00",
     "title": "Grande Fratello Vip Live",
-    "description": "Appuntamento quotidiano con la casa del Grande Fratello.",
-    "startDate": "2026-10-24T04:02:20Z",
-    "endDate": "2026-10-24T06:59:20Z",
+    "description": "Appuntamento quotidiano con la casa del Grande Fratello",
+    "startDate": "2026-10-25T01:00:26Z",
+    "endDate": "2026-10-25T06:01:26Z",
     "channelId": "MediasetExtra.it"
   },
   {
-    "id": "Rai1.it-2026-10-24T00:00",
-    "title": "Sottovoce",
-    "description": "St2026 Puntata del Gigi Marzullo ripercorre l'itinerario umano, artistico e professionale di personaggi dello sport, dello spettacolo o della cultura.",
-    "startDate": "2026-10-24T00:00:00Z",
-    "endDate": "2026-10-24T01:30:00Z",
+    "id": "Rai1.it-2026-10-25T01:05",
+    "title": "Ciao Maschio",
+    "description": "St8 Puntata del Nunzia De Girolamo intervista uomini dello spettacolo, della politica e dell'economia, analizzando con loro le tematiche sociali legate alla figura dell'uomo contemporaneo",
+    "startDate": "2026-10-25T01:05:00Z",
+    "endDate": "2026-10-25T03:40:00Z",
     "channelId": "Rai1.it"
   },
   {
-    "id": "Rai2.it-2026-10-24T01:05",
-    "title": "The Bad Guy",
-    "description": "St2 Ep5 Montecristo - Nino e Teresa dichiarano guerra allo Stato con l'aiuto delle sorelle e cugine Suro; miriadi di topi e altrettante copie de",
-    "startDate": "2026-10-24T01:05:00Z",
-    "endDate": "2026-10-24T01:55:00Z",
+    "id": "Rai2.it-2026-10-25T01:20",
+    "title": "TG2 Cinematine'e",
+    "description": "St2026 TG2 Cinematine'e del I film della settimana, i consigli, le classifiche i protagonisti dello spettacolo si presentano al pubblico della notte. Direttore Antonio Preziosi Vicedirettore Maria Antonietta Spadorcia A cura ...",
+    "startDate": "2026-10-25T01:20:00Z",
+    "endDate": "2026-10-25T01:25:00Z",
     "channelId": "Rai2.it"
   },
   {
-    "id": "Rai3.it-2026-10-24T00:25",
-    "title": "Appuntamento al cinema",
-    "description": "Rubrica per la promozione della cultura cinematografica in Italia.",
-    "startDate": "2026-10-24T00:25:00Z",
-    "endDate": "2026-10-24T00:30:00Z",
+    "id": "Rai3.it-2026-10-25T02:05",
+    "title": "Il trio in mi bemolle",
+    "description": "Ade'lia e Paul, che in passato sono stati una coppia, dai gusti musicali opposti, si ritrovano a un anno dalla separazione. Seguiranno altri sette incontri fatti di parole e schermaglie, nei quali...",
+    "startDate": "2026-10-25T02:05:00Z",
+    "endDate": "2026-10-25T03:05:00Z",
     "channelId": "Rai3.it"
   },
   {
-    "id": "Rai4.it-2026-10-24T00:47",
-    "title": "Seal Team",
-    "description": "St7 Ep5 Una tempesta perfetta - Anche i",
-    "startDate": "2026-10-24T00:47:00Z",
-    "endDate": "2026-10-24T01:32:00Z",
+    "id": "Rai4.it-2026-10-25T01:07",
+    "title": "Sweet River",
+    "description": "Il piccolo Joey e' stato rapito da un serial killer, ma il suo corpo non e' mai stato ritrovato. Alla ricerca di indizi, sua madre Hannah si trasferisce a Billins, sonnolento villaggio di campagna...",
+    "startDate": "2026-10-25T01:07:00Z",
+    "endDate": "2026-10-25T03:41:00Z",
     "channelId": "Rai4.it"
   },
   {
-    "id": "Rai5.it-2026-10-24T00:09",
-    "title": "Racconti di Scienza",
-    "description": "St204 Muoviti - C'e' chi vola, chi nuota e chi striscia. Chi salta, chi corre e chi plana. E poi ci siamo noi, che camminiamo, corriamo e a volte saltiamo. Comunque lo facciamo, dovunque lo facciamo, il movimento...",
-    "startDate": "2026-10-24T00:09:00Z",
-    "endDate": "2026-10-24T01:13:00Z",
+    "id": "Rai5.it-2026-10-25T01:04",
+    "title": "Lucio Amelio (2023)",
+    "description": "Elegante e ambizioso, Ameli e' tra i piu' grandi protagonisti dell'arte contemporanea degli anni '70 '80. Con la sua galleria, e' riuscito a fare di Napoli la terra degli incontri impossibili fra...",
+    "startDate": "2026-10-25T01:04:00Z",
+    "endDate": "2026-10-25T01:50:00Z",
     "channelId": "Rai5.it"
   },
   {
-    "id": "RaiGulp.it-2026-10-24T00:00",
-    "title": "Coop Troop 1",
-    "description": "St1 Ep15 Il giocattolo scomparso - La Coop Troop aiuta Sam a cercare il giocattolo del piccolo Mac, che sembra essere scomparso. Mentre Clive, Jo e Billy intrattengono i cuccioli, Flo e Maggie ripercorrono con Sam tutto il tragitto ...",
-    "startDate": "2026-10-24T00:00:00Z",
-    "endDate": "2026-10-24T00:10:00Z",
-    "channelId": "RaiGulp.it"
-  },
-  {
-    "id": "RaiMovie.it-2026-10-24T01:25",
-    "title": "Neve rossa",
-    "description": "Jim Wilson, poliziotto irruente, viene allontanato dalla citta' e inviato fra le montagne per risolvere un caso di omicidio. Ci riuscira'? Dal romanzo",
-    "startDate": "2026-10-24T01:25:00Z",
-    "endDate": "2026-10-24T03:00:00Z",
+    "id": "RaiMovie.it-2026-10-26T00:05",
+    "title": "Il colosso di Rodi",
+    "description": "In vacanza a Rodi, l'ateniese Dario viene coinvolto nell'invasione dell'isola da parte dei fenici e nei complotti contro il re Serse. Il primo, spettacolare,",
+    "startDate": "2026-10-26T00:05:00Z",
+    "endDate": "2026-10-26T02:30:00Z",
     "channelId": "RaiMovie.it"
   },
   {
-    "id": "RaiNews24.it-2026-10-24T00:00",
-    "title": "TG notte",
-    "description": ",. - ,",
-    "startDate": "2026-10-24T00:00:00Z",
-    "endDate": "2026-10-24T00:30:00Z",
+    "id": "RaiNews24.it-2026-10-25T01:00",
+    "title": "Titoli",
+    "description": "Intrattenimento",
+    "startDate": "2026-10-25T01:00:00Z",
+    "endDate": "2026-10-25T01:03:00Z",
     "channelId": "RaiNews24.it"
   },
   {
-    "id": "RaiPremium.it-2026-10-24T02:25",
-    "title": "Zoom!",
-    "description": "St2019 Ep1 Il cibo in TV - Sei puntate su sei argomenti e come sono stati trattati nei programmi Rai: dal cibo ai quiz, dalla satira ai libri passando per la musica e la Tv che prende in giro se stessa.",
-    "startDate": "2026-10-24T02:25:00Z",
-    "endDate": "2026-10-24T03:00:00Z",
+    "id": "RaiPremium.it-2026-10-25T01:05",
+    "title": "Mistero in blu",
+    "description": "St1998 Ep1 Il caso Alvise di Robilant - Una storia misteriosa che parla di personaggi antichi",
+    "startDate": "2026-10-25T01:05:00Z",
+    "endDate": "2026-10-25T01:45:00Z",
     "channelId": "RaiPremium.it"
   },
   {
-    "id": "RaiSport.it-2026-10-24T01:40",
-    "title": "World Skate Games",
-    "description": "World Skate Games - Finali: Street Uomini e Donne",
-    "startDate": "2026-10-24T01:40:00Z",
-    "endDate": "2026-10-24T04:00:00Z",
+    "id": "RaiSport.it-2026-10-25T01:25",
+    "title": "Pattinaggio di Figura",
+    "description": "Grand Prix de France: Programma corto Coppie",
+    "startDate": "2026-10-25T01:25:00Z",
+    "endDate": "2026-10-25T02:35:00Z",
     "channelId": "RaiSport.it"
   },
   {
-    "id": "RaiStoria.it-2026-10-24T00:10",
-    "title": "Storie della TV",
-    "description": "St2024 Ep6 Videocrazia (1994-2004) - Tra il 1994 e il 2004 il nuovo scenario politico sorto con il sistema elettorale maggioritario e la 'discesa in campo' di Silvio Berlusconi trasformano il ruolo sociale della TV, sia pubblica che c...",
-    "startDate": "2026-10-24T00:10:00Z",
-    "endDate": "2026-10-24T01:05:00Z",
+    "id": "RaiStoria.it-2026-10-25T01:10",
+    "title": "Passato e Presente",
+    "description": "St2025 La nascita dellONU. La pace di vetro - Il 24 ottobre 1945 nasceva l'Organizzazione delle Nazioni Unite, sulle macerie materiali e morali della Seconda guerra mondiale. A differenza della precedente Societa' delle Nazioni, l'ONU riesce a...",
+    "startDate": "2026-10-25T01:10:00Z",
+    "endDate": "2026-10-25T01:50:00Z",
     "channelId": "RaiStoria.it"
   },
   {
-    "id": "RaiYoyo.it-2026-10-24T00:00",
-    "title": "Nina & Olga",
-    "description": "St2 Ep33 Il grande viaggio - La grande attesa e' finita e si parte per l'Australia. Nina e Olga non sanno ancora che viaggiare significa anche adattarsi a nuovi spazi, cibo e orari, ma ben presto lo scopriranno.",
-    "startDate": "2026-10-24T00:00:00Z",
-    "endDate": "2026-10-24T00:05:00Z",
+    "id": "RaiYoyo.it-2026-10-25T23:00",
+    "title": "Molang",
+    "description": "St5 Ep36 Sua Maesta' il ragno - Nel Medioevo, Molang e Piu Piu guardano il re correre dietro a un piccolo ragno: inciampa, cade in un pentolone magico e si trasforma in... un ragno!",
+    "startDate": "2026-10-25T23:00:00Z",
+    "endDate": "2026-10-25T23:05:00Z",
     "channelId": "RaiYoyo.it"
   },
   {
-    "id": "Rete4.it-2026-10-24T00:10",
+    "id": "Rete4.it-2026-10-25T01:27",
     "title": "Tg4 '26 - ultima ora notte",
     "description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4.",
-    "startDate": "2026-10-24T00:10:44Z",
-    "endDate": "2026-10-24T00:28:44Z",
+    "startDate": "2026-10-25T01:27:00Z",
+    "endDate": "2026-10-25T01:45:00Z",
     "channelId": "Rete4.it"
   },
   {
-    "id": "Super.it-2026-10-24T00:05",
+    "id": "Super.it-2026-10-25T01:20",
     "title": "Street Of Magic",
-    "description": "S2 Ep.7 Circuito Go Kart - Per Steven la velocita' nell'esecuzione dei suoi trucchi di magia e' essenziale. Per questo oggi incontra dei ragazzi campioni di Go Kart",
-    "startDate": "2026-10-24T00:05:00Z",
-    "endDate": "2026-10-24T00:25:00Z",
+    "description": "S3 Ep.1 Speciale Halloween - Alex, come un reporter, si mette sulle tracce del celebre mostro che popola le acque del lago scozzese. Inizia la sua indagine da Edimburgo e successivamente si sposta direttamente a Loch Ness.",
+    "startDate": "2026-10-25T01:20:00Z",
+    "endDate": "2026-10-25T01:45:00Z",
     "channelId": "Super.it"
   },
   {
-    "id": "TopCrime.it-2026-10-24T00:45",
+    "id": "TopCrime.it-2026-10-25T01:24",
     "title": "Law & Order: Special Victims Unit",
-    "description": "S12 Ep14 Corruzione - Nell'ufficio investigativo della procura distrettuale di Brooklyn, una donna che ne e' a capo viene stuprata e poi gettata dal terrazzo del palazzo. Benson scopre amare verita'.",
-    "startDate": "2026-10-24T00:45:12Z",
-    "endDate": "2026-10-24T01:23:12Z",
+    "description": "S20 Ep5 Accredo - Vicky Parson, una giovane donna, viene abusata e assassinata con diverse pugnalate. La squadra inizialmente sospetta dell'ex fidanzato.",
+    "startDate": "2026-10-25T01:24:40Z",
+    "endDate": "2026-10-25T03:04:40Z",
     "channelId": "TopCrime.it"
   },
   {
-    "id": "TV2000.va-2026-10-24T00:25",
+    "id": "TV2000.va-2026-10-25T01:05",
     "title": "I SANTI",
-    "description": "I Santi - Un documentario dedicato a San Giovanni Bosco",
-    "startDate": "2026-10-24T00:25:00Z",
-    "endDate": "2026-10-24T00:55:00Z",
+    "description": "I Santi - Un documentario dedicato a San Benedetto da Norcia",
+    "startDate": "2026-10-25T01:05:00Z",
+    "endDate": "2026-10-25T01:35:00Z",
     "channelId": "TV2000.va"
   },
   {
-    "id": "TV8.it-2026-10-24T00:40",
-    "title": "MotoGP Paddock Live",
-    "description": "Le ultime notizie dalla pit lane e dal paddock attraverso il racconto degli inviati di Sky Sport MotoGP.",
-    "startDate": "2026-10-24T00:40:00Z",
-    "endDate": "2026-10-24T00:55:00Z",
+    "id": "TV8.it-2026-10-25T01:30",
+    "title": "X Factor",
+    "description": "S20 Ep6 Last Call - Ultimo step prima dei Live: le sedie tornano protagoniste. Chi saranno i 12 artisti che entreranno nelle squadre dei giudici e saliranno sul palco dei Live?",
+    "startDate": "2026-10-25T01:30:00Z",
+    "endDate": "2026-10-25T04:40:00Z",
     "channelId": "TV8.it"
   }
 ]
