@@ -1,225 +1,10 @@
 [
   {
     "id": "20.it-2026-10-30T00:24",
-    "title": "Station 19 (St. 6 - Ep. 13)",
-    "startDate": "2026-10-30T00:24:00Z",
-    "endDate": "2026-10-30T01:04:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T01:04",
-    "title": "Station 19 (St. 6 - Ep. 14)",
-    "startDate": "2026-10-30T01:04:00Z",
-    "endDate": "2026-10-30T01:45:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T01:45",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 10)",
-    "startDate": "2026-10-30T01:45:00Z",
-    "endDate": "2026-10-30T02:25:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T02:25",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 11)",
-    "startDate": "2026-10-30T02:25:00Z",
-    "endDate": "2026-10-30T03:04:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T03:04",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-30T03:04:00Z",
-    "endDate": "2026-10-30T03:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T03:39",
-    "title": "Distretto di Polizia (St. 1 - Ep. 22)",
-    "startDate": "2026-10-30T03:39:00Z",
-    "endDate": "2026-10-30T04:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T04:19",
-    "title": "Distretto di Polizia (St. 1 - Ep. 23)",
-    "startDate": "2026-10-30T04:19:00Z",
-    "endDate": "2026-10-30T05:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T05:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-10-30T05:00:00Z",
-    "endDate": "2026-10-30T05:24:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T05:28",
-    "title": "Distretto di Polizia (St. 1 - Ep. 24)",
-    "startDate": "2026-10-30T05:28:00Z",
-    "endDate": "2026-10-30T06:08:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T06:08",
-    "title": "Distretto di Polizia (St. 2 - Ep. 1)",
-    "startDate": "2026-10-30T06:08:00Z",
-    "endDate": "2026-10-30T06:52:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T06:52",
-    "title": "New Amsterdam (St. 3 - Ep. 12)",
-    "startDate": "2026-10-30T06:52:00Z",
-    "endDate": "2026-10-30T07:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T07:39",
-    "title": "New Amsterdam (St. 3 - Ep. 13)",
-    "startDate": "2026-10-30T07:39:00Z",
-    "endDate": "2026-10-30T08:30:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T08:30",
-    "title": "Lethal Weapon (St. 3 - Ep. 14)",
-    "startDate": "2026-10-30T08:30:00Z",
-    "endDate": "2026-10-30T09:18:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T09:18",
-    "title": "Lethal Weapon (St. 3 - Ep. 15)",
-    "startDate": "2026-10-30T09:18:00Z",
-    "endDate": "2026-10-30T10:11:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T10:11",
-    "title": "THE BIG BANG THEORY (St. 11 - Ep. 24)",
-    "description": "Il suo matrimonio fornisce a Sheldon le informazioni di cui ha bisogno per fare un passo avanti nella teoria delle stringhe simmetriche.",
-    "startDate": "2026-10-30T10:11:00Z",
-    "endDate": "2026-10-30T10:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T10:35",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 1)",
-    "description": "Guest star: Kathy Bates. Amy e Sheldon sono in luna di miele e Sheldon ha programmato tutto del viaggio, persino la frequenza dei loro rapporti sessuali.",
-    "startDate": "2026-10-30T10:35:00Z",
-    "endDate": "2026-10-30T10:58:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T10:58",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 12)",
-    "startDate": "2026-10-30T10:58:00Z",
-    "endDate": "2026-10-30T11:49:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T11:49",
-    "title": "DC's Legends of Tomorrow (St. 7 - Ep. 13)",
-    "startDate": "2026-10-30T11:49:00Z",
-    "endDate": "2026-10-30T12:38:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T12:38",
-    "title": "Chicago Fire (St. 10 - Ep. 20)",
-    "startDate": "2026-10-30T12:38:00Z",
-    "endDate": "2026-10-30T13:29:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T13:29",
-    "title": "Station 19 (St. 6 - Ep. 15)",
-    "startDate": "2026-10-30T13:29:00Z",
-    "endDate": "2026-10-30T14:16:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T14:16",
-    "title": "Station 19 (St. 6 - Ep. 16)",
-    "startDate": "2026-10-30T14:16:00Z",
-    "endDate": "2026-10-30T15:05:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T15:05",
-    "title": "New Amsterdam (St. 3 - Ep. 12)",
-    "startDate": "2026-10-30T15:05:00Z",
-    "endDate": "2026-10-30T15:57:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T15:57",
-    "title": "New Amsterdam (St. 3 - Ep. 13)",
-    "startDate": "2026-10-30T15:57:00Z",
-    "endDate": "2026-10-30T16:49:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T16:49",
-    "title": "Lethal Weapon (St. 3 - Ep. 14)",
-    "startDate": "2026-10-30T16:49:00Z",
-    "endDate": "2026-10-30T17:37:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T17:37",
-    "title": "Lethal Weapon (St. 3 - Ep. 15)",
-    "startDate": "2026-10-30T17:37:00Z",
-    "endDate": "2026-10-30T18:29:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T18:29",
-    "title": "Chicago Fire (St. 10 - Ep. 20)",
-    "startDate": "2026-10-30T18:29:00Z",
-    "endDate": "2026-10-30T19:16:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T19:16",
-    "title": "THE BIG BANG THEORY (St. 11 - Ep. 24)",
-    "description": "Il suo matrimonio fornisce a Sheldon le informazioni di cui ha bisogno per fare un passo avanti nella teoria delle stringhe simmetriche.",
-    "startDate": "2026-10-30T19:16:00Z",
-    "endDate": "2026-10-30T19:40:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T19:40",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 1)",
-    "description": "Guest star: Kathy Bates. Amy e Sheldon sono in luna di miele e Sheldon ha programmato tutto del viaggio, persino la frequenza dei loro rapporti sessuali.",
-    "startDate": "2026-10-30T19:40:00Z",
-    "endDate": "2026-10-30T20:09:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T20:09",
-    "title": "The Killer's Game (2024)",
-    "startDate": "2026-10-30T20:09:00Z",
-    "endDate": "2026-10-30T22:02:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T22:02",
-    "title": "The Protégé (2021)",
-    "startDate": "2026-10-30T22:02:00Z",
-    "endDate": "2026-10-30T23:58:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-10-30T23:58",
-    "title": "Station 19 (St. 6 - Ep. 15)",
-    "startDate": "2026-10-30T23:58:00Z",
-    "endDate": "2026-10-31T00:38:00Z",
+    "title": "Station 19",
+    "description": "S6 Ep13 Andra' tutto a pezzi - La squadra si trova in mezzo a una disputa familiare; Bailey e Carina vanno in missione sotto copertura in un centro di crisi in gravidanza.",
+    "startDate": "2026-10-30T00:24:10Z",
+    "endDate": "2026-10-30T01:04:10Z",
     "channelId": "20.it"
   },
   {
@@ -278,6 +63,190 @@
     "description": "Show reel '26",
     "startDate": "2026-10-31T05:00:00Z",
     "endDate": "2026-10-31T05:16:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T05:17",
+    "title": "Distretto di Polizia (St. 2 - Ep. 2)",
+    "startDate": "2026-10-31T05:17:00Z",
+    "endDate": "2026-10-31T06:02:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T06:02",
+    "title": "Distretto di Polizia (St. 2 - Ep. 3)",
+    "startDate": "2026-10-31T06:02:00Z",
+    "endDate": "2026-10-31T06:51:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T06:51",
+    "title": "Batwoman (St. 3 - Ep. 8)",
+    "startDate": "2026-10-31T06:51:00Z",
+    "endDate": "2026-10-31T07:38:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T07:38",
+    "title": "Batwoman (St. 3 - Ep. 9)",
+    "startDate": "2026-10-31T07:38:00Z",
+    "endDate": "2026-10-31T08:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T08:27",
+    "title": "Legacies (St. 3 - Ep. 14)",
+    "startDate": "2026-10-31T08:27:00Z",
+    "endDate": "2026-10-31T09:15:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T09:15",
+    "title": "Legacies (St. 3 - Ep. 15)",
+    "startDate": "2026-10-31T09:15:00Z",
+    "endDate": "2026-10-31T10:03:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T10:03",
+    "title": "Legacies (St. 3 - Ep. 16)",
+    "startDate": "2026-10-31T10:03:00Z",
+    "endDate": "2026-10-31T10:54:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T10:54",
+    "title": "The Last Ship (St. 3 - Ep. 1)",
+    "startDate": "2026-10-31T10:54:00Z",
+    "endDate": "2026-10-31T11:40:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T11:40",
+    "title": "The Last Ship (St. 3 - Ep. 2)",
+    "startDate": "2026-10-31T11:40:00Z",
+    "endDate": "2026-10-31T12:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T12:27",
+    "title": "The Last Ship (St. 3 - Ep. 3)",
+    "startDate": "2026-10-31T12:27:00Z",
+    "endDate": "2026-10-31T13:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T13:19",
+    "title": "The Last Ship (St. 3 - Ep. 4)",
+    "startDate": "2026-10-31T13:19:00Z",
+    "endDate": "2026-10-31T14:12:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T14:12",
+    "title": "The Last Ship (St. 3 - Ep. 5)",
+    "startDate": "2026-10-31T14:12:00Z",
+    "endDate": "2026-10-31T14:59:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T14:59",
+    "title": "The Last Ship (St. 3 - Ep. 6)",
+    "startDate": "2026-10-31T14:59:00Z",
+    "endDate": "2026-10-31T15:52:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T15:52",
+    "title": "The Last Ship (St. 3 - Ep. 7)",
+    "startDate": "2026-10-31T15:52:00Z",
+    "endDate": "2026-10-31T16:40:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T16:40",
+    "title": "The Last Ship (St. 3 - Ep. 8)",
+    "startDate": "2026-10-31T16:40:00Z",
+    "endDate": "2026-10-31T17:30:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T17:30",
+    "title": "The Last Ship (St. 3 - Ep. 9)",
+    "startDate": "2026-10-31T17:30:00Z",
+    "endDate": "2026-10-31T18:16:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T18:16",
+    "title": "L'ultima partita (2018)",
+    "startDate": "2026-10-31T18:16:00Z",
+    "endDate": "2026-10-31T20:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T20:10",
+    "title": "Into the Sun (2005)",
+    "startDate": "2026-10-31T20:10:00Z",
+    "endDate": "2026-10-31T21:58:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T21:58",
+    "title": "The Killer's Game (2024)",
+    "startDate": "2026-10-31T21:58:00Z",
+    "endDate": "2026-10-31T23:52:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-10-31T23:52",
+    "title": "L'ultima partita (2018)",
+    "startDate": "2026-10-31T23:52:00Z",
+    "endDate": "2026-11-01T01:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T01:27",
+    "title": "Batwoman (St. 3 - Ep. 8)",
+    "startDate": "2026-11-01T01:27:00Z",
+    "endDate": "2026-11-01T02:07:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T02:07",
+    "title": "Batwoman (St. 3 - Ep. 9)",
+    "startDate": "2026-11-01T02:07:00Z",
+    "endDate": "2026-11-01T02:47:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T02:47",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-01T02:47:00Z",
+    "endDate": "2026-11-01T03:22:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T03:22",
+    "title": "Distretto di Polizia (St. 2 - Ep. 3)",
+    "startDate": "2026-11-01T03:22:00Z",
+    "endDate": "2026-11-01T04:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T04:10",
+    "title": "Distretto di Polizia (St. 2 - Ep. 4)",
+    "startDate": "2026-11-01T04:10:00Z",
+    "endDate": "2026-11-01T05:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-01T05:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-01T05:00:00Z",
+    "endDate": "2026-11-01T05:41:00Z",
     "channelId": "20.it"
   },
   {
