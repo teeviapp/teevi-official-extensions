@@ -1,214 +1,5 @@
 [
   {
-    "id": "20.it-2026-11-13T00:45",
-    "title": "Chicago Med (St. 1 - Ep. 6)",
-    "startDate": "2026-11-13T00:45:00Z",
-    "endDate": "2026-11-13T01:25:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T01:25",
-    "title": "Chicago Med (St. 1 - Ep. 7)",
-    "startDate": "2026-11-13T01:25:00Z",
-    "endDate": "2026-11-13T02:06:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T02:06",
-    "title": "Superman & Lois (St. 3 - Ep. 2)",
-    "startDate": "2026-11-13T02:06:00Z",
-    "endDate": "2026-11-13T02:46:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T02:46",
-    "title": "Superman & Lois (St. 3 - Ep. 3)",
-    "startDate": "2026-11-13T02:46:00Z",
-    "endDate": "2026-11-13T03:26:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T03:26",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-13T03:26:00Z",
-    "endDate": "2026-11-13T03:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T03:39",
-    "title": "Distretto di Polizia (St. 3 - Ep. 2)",
-    "startDate": "2026-11-13T03:39:00Z",
-    "endDate": "2026-11-13T04:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T04:19",
-    "title": "Distretto di Polizia (St. 3 - Ep. 3)",
-    "startDate": "2026-11-13T04:19:00Z",
-    "endDate": "2026-11-13T05:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T05:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-13T05:00:00Z",
-    "endDate": "2026-11-13T05:05:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T05:37",
-    "title": "Distretto di Polizia (St. 3 - Ep. 4)",
-    "startDate": "2026-11-13T05:37:00Z",
-    "endDate": "2026-11-13T06:17:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T06:17",
-    "title": "New Amsterdam (St. 4 - Ep. 18)",
-    "startDate": "2026-11-13T06:17:00Z",
-    "endDate": "2026-11-13T06:58:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T06:58",
-    "title": "New Amsterdam (St. 4 - Ep. 19)",
-    "startDate": "2026-11-13T06:58:00Z",
-    "endDate": "2026-11-13T07:50:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T07:50",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 19)",
-    "startDate": "2026-11-13T07:50:00Z",
-    "endDate": "2026-11-13T08:40:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T08:40",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 20)",
-    "startDate": "2026-11-13T08:40:00Z",
-    "endDate": "2026-11-13T09:33:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T09:33",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 20)",
-    "description": "Raj è preoccupato che la gente non lo prenderà sul serio se pubblicherà un articolo dove sostiene di aver scoperto la vita aliena.",
-    "startDate": "2026-11-13T09:33:00Z",
-    "endDate": "2026-11-13T09:56:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T09:56",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 21)",
-    "description": "Amy e Sheldon vengono a sapere che Pemberton ha copiato la tesi di laurea e si chiedono se denunciare la cosa, mettendo fuori gioco i loro rivali al Nobel.",
-    "startDate": "2026-11-13T09:56:00Z",
-    "endDate": "2026-11-13T10:18:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T10:18",
-    "title": "Superman & Lois (St. 3 - Ep. 4)",
-    "startDate": "2026-11-13T10:18:00Z",
-    "endDate": "2026-11-13T11:08:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T11:08",
-    "title": "Superman & Lois (St. 3 - Ep. 5)",
-    "startDate": "2026-11-13T11:08:00Z",
-    "endDate": "2026-11-13T11:55:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T11:55",
-    "title": "Chicago Fire (St. 11 - Ep. 8)",
-    "startDate": "2026-11-13T11:55:00Z",
-    "endDate": "2026-11-13T12:47:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T12:47",
-    "title": "Chicago Med (St. 1 - Ep. 8)",
-    "startDate": "2026-11-13T12:47:00Z",
-    "endDate": "2026-11-13T13:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T13:35",
-    "title": "Chicago Med (St. 1 - Ep. 9)",
-    "startDate": "2026-11-13T13:35:00Z",
-    "endDate": "2026-11-13T14:23:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T14:23",
-    "title": "New Amsterdam (St. 4 - Ep. 18)",
-    "startDate": "2026-11-13T14:23:00Z",
-    "endDate": "2026-11-13T15:16:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T15:16",
-    "title": "New Amsterdam (St. 4 - Ep. 19)",
-    "startDate": "2026-11-13T15:16:00Z",
-    "endDate": "2026-11-13T16:10:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T16:10",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 19)",
-    "startDate": "2026-11-13T16:10:00Z",
-    "endDate": "2026-11-13T17:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T17:00",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 20)",
-    "startDate": "2026-11-13T17:00:00Z",
-    "endDate": "2026-11-13T17:52:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T17:52",
-    "title": "Chicago Fire (St. 11 - Ep. 8)",
-    "startDate": "2026-11-13T17:52:00Z",
-    "endDate": "2026-11-13T18:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T18:39",
-    "title": "The Big Bang Theory (St. 12 - Ep. 20)",
-    "startDate": "2026-11-13T18:39:00Z",
-    "endDate": "2026-11-13T19:02:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T19:02",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 21)",
-    "description": "Amy e Sheldon vengono a sapere che Pemberton ha copiato la tesi di laurea e si chiedono se denunciare la cosa, mettendo fuori gioco i loro rivali al Nobel.",
-    "startDate": "2026-11-13T19:02:00Z",
-    "endDate": "2026-11-13T19:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T19:35",
-    "title": "Serbia - Germania",
-    "description": "In diretta dal Marakana di Belgrado, i serbi guidati da Veljko Paunovic affrontano i 4 volte campioni del Mondo di Jurgen Klopp.",
-    "startDate": "2026-11-13T19:35:00Z",
-    "endDate": "2026-11-13T21:56:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-13T21:56",
-    "title": "Troy (2004)",
-    "startDate": "2026-11-13T21:56:00Z",
-    "endDate": "2026-11-14T00:45:00Z",
-    "channelId": "20.it"
-  },
-  {
     "id": "20.it-2026-11-14T00:45",
     "title": "Chicago Med (St. 1 - Ep. 8)",
     "startDate": "2026-11-14T00:45:00Z",
@@ -267,219 +58,404 @@
     "channelId": "20.it"
   },
   {
-    "id": "27Twentyseven.it-2026-11-13T00:08",
+    "id": "20.it-2026-11-14T05:21",
+    "title": "Distretto di Polizia (St. 3 - Ep. 5)",
+    "startDate": "2026-11-14T05:21:00Z",
+    "endDate": "2026-11-14T06:01:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T06:01",
+    "title": "Distretto di Polizia (St. 3 - Ep. 6)",
+    "startDate": "2026-11-14T06:01:00Z",
+    "endDate": "2026-11-14T06:41:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T06:41",
+    "title": "Legacies (St. 4 - Ep. 1)",
+    "startDate": "2026-11-14T06:41:00Z",
+    "endDate": "2026-11-14T07:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T07:27",
+    "title": "Legacies (St. 4 - Ep. 6)",
+    "startDate": "2026-11-14T07:27:00Z",
+    "endDate": "2026-11-14T08:15:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T08:15",
+    "title": "Legacies (St. 4 - Ep. 7)",
+    "startDate": "2026-11-14T08:15:00Z",
+    "endDate": "2026-11-14T09:02:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T09:02",
+    "title": "Legacies (St. 4 - Ep. 8)",
+    "startDate": "2026-11-14T09:02:00Z",
+    "endDate": "2026-11-14T09:53:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T09:53",
+    "title": "Walker (St. 3 - Ep. 1)",
+    "startDate": "2026-11-14T09:53:00Z",
+    "endDate": "2026-11-14T10:40:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T10:40",
+    "title": "Walker (St. 3 - Ep. 2)",
+    "startDate": "2026-11-14T10:40:00Z",
+    "endDate": "2026-11-14T11:29:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T11:29",
+    "title": "Walker (St. 3 - Ep. 3)",
+    "startDate": "2026-11-14T11:29:00Z",
+    "endDate": "2026-11-14T12:17:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T12:17",
+    "title": "Walker (St. 3 - Ep. 4)",
+    "startDate": "2026-11-14T12:17:00Z",
+    "endDate": "2026-11-14T13:11:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T13:11",
+    "title": "Walker (St. 3 - Ep. 5)",
+    "startDate": "2026-11-14T13:11:00Z",
+    "endDate": "2026-11-14T13:59:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T13:59",
+    "title": "Walker (St. 3 - Ep. 6)",
+    "startDate": "2026-11-14T13:59:00Z",
+    "endDate": "2026-11-14T14:44:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T14:44",
+    "title": "Walker (St. 3 - Ep. 7)",
+    "startDate": "2026-11-14T14:44:00Z",
+    "endDate": "2026-11-14T15:37:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T15:37",
+    "title": "Walker (St. 3 - Ep. 8)",
+    "startDate": "2026-11-14T15:37:00Z",
+    "endDate": "2026-11-14T16:30:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T16:30",
+    "title": "Walker (St. 3 - Ep. 9)",
+    "startDate": "2026-11-14T16:30:00Z",
+    "endDate": "2026-11-14T17:17:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T17:17",
+    "title": "Walker (St. 3 - Ep. 10)",
+    "startDate": "2026-11-14T17:17:00Z",
+    "endDate": "2026-11-14T18:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T18:09",
+    "title": "I predoni (2016)",
+    "startDate": "2026-11-14T18:09:00Z",
+    "endDate": "2026-11-14T20:11:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T20:11",
+    "title": "Prey - La grande caccia (2024)",
+    "startDate": "2026-11-14T20:11:00Z",
+    "endDate": "2026-11-14T21:49:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T21:49",
+    "title": "Smokin' Aces",
+    "description": "Il boss del crimine Buddy \"Aces\" Israel, messo alle corde dall'FBI, decide di testimoniare contro la propria organizzazione e redimersi. Regia di J. Carnahan; USA 2006",
+    "startDate": "2026-11-14T21:49:00Z",
+    "endDate": "2026-11-14T23:56:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-14T23:56",
+    "title": "I predoni (2016)",
+    "startDate": "2026-11-14T23:56:00Z",
+    "endDate": "2026-11-15T01:33:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T01:33",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-15T01:33:00Z",
+    "endDate": "2026-11-15T02:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T02:19",
+    "title": "Distretto di Polizia (St. 3 - Ep. 5)",
+    "startDate": "2026-11-15T02:19:00Z",
+    "endDate": "2026-11-15T02:59:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T02:59",
+    "title": "Distretto di Polizia (St. 3 - Ep. 6)",
+    "startDate": "2026-11-15T02:59:00Z",
+    "endDate": "2026-11-15T03:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T03:39",
+    "title": "Distretto di Polizia (St. 3 - Ep. 7)",
+    "startDate": "2026-11-15T03:39:00Z",
+    "endDate": "2026-11-15T04:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T04:19",
+    "title": "Distretto di Polizia (St. 3 - Ep. 8)",
+    "startDate": "2026-11-15T04:19:00Z",
+    "endDate": "2026-11-15T05:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-15T05:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-15T05:00:00Z",
+    "endDate": "2026-11-15T05:42:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "27Twentyseven.it-2026-11-14T00:09",
     "title": "Super Car",
-    "description": "S5 Ep1 I misteri di Chinatown - I parte - Michael e' alle prese con l'evasione di un pericoloso delinquente. Le indagini lo portano nei sotterranei di Chinatown.",
-    "startDate": "2026-11-13T00:08:00Z",
-    "endDate": "2026-11-13T00:56:00Z",
+    "description": "S5 Ep4 I piloti dell'Eden - Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padre della ragazza si rivolge a Knight per scoprire l'autore del misfatto.",
+    "startDate": "2026-11-14T00:09:34Z",
+    "endDate": "2026-11-14T00:59:34Z",
     "channelId": "27Twentyseven.it"
   },
   {
-    "id": "Canale5.it-2026-11-13T00:20",
+    "id": "Canale5.it-2026-11-14T00:24",
     "title": "Tg5",
     "description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.",
-    "startDate": "2026-11-13T00:20:21Z",
-    "endDate": "2026-11-13T00:57:21Z",
+    "startDate": "2026-11-14T00:24:29Z",
+    "endDate": "2026-11-14T01:02:29Z",
     "channelId": "Canale5.it"
   },
   {
-    "id": "CieloTV.it-2026-11-13T00:20",
-    "title": "The November Man",
-    "description": "Pierce Brosnan e Olga Kurylenko in un teso spy-action. Un ex agente della CIA torna in azione per salvare la vita di una donna coinvolta in una congiura, sfidando il suo ex allievo.",
-    "startDate": "2026-11-13T00:20:00Z",
-    "endDate": "2026-11-13T02:10:00Z",
+    "id": "CieloTV.it-2026-11-14T00:55",
+    "title": "San Andreas Quake",
+    "description": "Una sismologa non viene presa sul serio, nonostante i ripetuti tentativi di avvertire le autorita' dell'arrivo di un terremoto devastante in California.",
+    "startDate": "2026-11-14T00:55:00Z",
+    "endDate": "2026-11-14T02:25:00Z",
     "channelId": "CieloTV.it"
   },
   {
-    "id": "Cine34.it-2026-11-13T00:44",
-    "title": "Mia moglie e' una bestia",
-    "description": "Un pubblicitario milanese, M. Boldi, durante un'escursione in montagna, trova in una caverna una bellissima donna preistorica, E. Grimaldi. Regia di F. Castellano; ITA 1988",
-    "startDate": "2026-11-13T00:44:21Z",
-    "endDate": "2026-11-13T02:18:21Z",
+    "id": "Cine34.it-2026-11-14T00:12",
+    "title": "L' amica di mia madre",
+    "description": "Billy ospita Barbara, amica della madre, ora all'estero. Visto che la sua fidanzata non si concede, Billy ci prova con Barbara. Con B. Bouchet, C. Villani. Regia di M. Ivaldi; ITA 1975",
+    "startDate": "2026-11-14T00:12:11Z",
+    "endDate": "2026-11-14T01:44:11Z",
     "channelId": "Cine34.it"
   },
   {
-    "id": "Focus.it-2026-11-13T00:23",
-    "title": "Alieni: I casi riaperti",
-    "description": "Billy Meier e' uno dei personaggi piu' celebri e discussi nel campo dellufologia. Stando ai suoi racconti, e' in contatto con gli alieni da ormai ottantanni.",
-    "startDate": "2026-11-13T00:23:29Z",
-    "endDate": "2026-11-13T01:08:29Z",
+    "id": "Focus.it-2026-11-14T01:00",
+    "title": "E-Planet",
+    "description": "Appuntamento con il Magazine Green all'insegna della sostenibilita'.",
+    "startDate": "2026-11-14T01:00:03Z",
+    "endDate": "2026-11-14T01:24:03Z",
     "channelId": "Focus.it"
   },
   {
-    "id": "Iris.it-2026-11-13T00:41",
-    "title": "Amicizia a rischio",
-    "description": "Arlo, appena uscito di prigione, viene ospitato a casa del suo migliore amico Jack ed e' deciso a rifarsi una vita. Ma presto ricominceranno i guai. Regia di A. Mandelberg; USA 2011",
-    "startDate": "2026-11-13T00:41:04Z",
-    "endDate": "2026-11-13T02:10:04Z",
+    "id": "Iris.it-2026-11-14T00:47",
+    "title": "48 ore",
+    "description": "Un poliziotto si fa aiutare da un galeotto con un permesso di 48 ore, per catturare un pericoloso criminale evaso dal carcere. Regia di W. Hill; USA 1982",
+    "startDate": "2026-11-14T00:47:55Z",
+    "endDate": "2026-11-14T02:22:55Z",
     "channelId": "Iris.it"
   },
   {
-    "id": "Italia1.it-2026-11-13T00:14",
-    "title": "Sono Lillo",
-    "description": "Lillo sembra arrivato al capolinea eMarzia se n'e' andata. Sembra tutto perduto ma alla fine proprio grazie a Posaman, riuscira' a rimettere insieme i pezzi.",
-    "startDate": "2026-11-13T00:14:56Z",
-    "endDate": "2026-11-13T00:48:56Z",
+    "id": "Italia1.it-2026-11-14T01:50",
+    "title": "Studio Aperto - La giornata",
+    "description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.",
+    "startDate": "2026-11-14T01:50:03Z",
+    "endDate": "2026-11-14T02:02:03Z",
     "channelId": "Italia1.it"
   },
   {
-    "id": "Italia2.it-2026-11-13T00:15",
-    "title": "Dragon Ball Super",
-    "description": "S1 Ep129 Oltre ogni limite! L'ultra istinto completo! - Dopo il sacrificio di C-17 e l'abbandono di Vegeta, lo scontro ora e' solo tra Goku e Jiren.",
-    "startDate": "2026-11-13T00:15:29Z",
-    "endDate": "2026-11-13T00:42:29Z",
+    "id": "Italia2.it-2026-11-14T00:06",
+    "title": "Dragon Ball Super: Broly - Il Film",
+    "description": "Goku sa che nell'universo forze non sempre benevole sono pronte a colpire. Un guerriero di nome Broly, infatti, giunge dallo spazio per uno scontro epico. Regia di T. Nagamine; JPN 2018",
+    "startDate": "2026-11-14T00:06:00Z",
+    "endDate": "2026-11-14T01:47:00Z",
     "channelId": "Italia2.it"
   },
   {
-    "id": "La5.it-2026-11-13T00:15",
-    "title": "Grande Fratello Vip Live",
-    "description": "Le telecamere di Grande Fratello si accendono per seguire la vita quotidiana degli inquilini della casa piu' spiata d'Italia.",
-    "startDate": "2026-11-13T00:15:57Z",
-    "endDate": "2026-11-13T01:59:57Z",
+    "id": "La5.it-2026-11-14T00:17",
+    "title": "X- Style",
+    "description": "Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze.",
+    "startDate": "2026-11-14T00:17:43Z",
+    "endDate": "2026-11-14T00:48:43Z",
     "channelId": "La5.it"
   },
   {
-    "id": "La7.it-2026-11-13T00:00",
+    "id": "La7.it-2026-11-14T00:00",
     "title": "TG La7 Notte",
     "description": "Notizie di attualita', cronaca e societa' selezionate dalla redazione di La7.",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T00:10:00Z",
+    "startDate": "2026-11-14T00:00:00Z",
+    "endDate": "2026-11-14T00:10:00Z",
     "channelId": "La7.it"
   },
   {
-    "id": "La7d.it-2026-11-13T00:55",
-    "title": "Carriers - Contagio letale",
-    "description": "La popolazione mondiale sta morendo a causa di una epidemia che ha contagiato ogni parte del globo. Quattro ragazzi, i fratelli Brian e Danny piu' la fidanzata di uno dei due Bobby e l'amica Kate, partono per andare a Turtle Beach, in Messico.",
-    "startDate": "2026-11-13T00:55:00Z",
-    "endDate": "2026-11-13T02:35:00Z",
+    "id": "La7d.it-2026-11-14T00:45",
+    "title": "Va' dove ti porta il cuore",
+    "description": "Olga, un'anziana donna, cerca di evitare le complicazioni che hanno contraddistinto la sua vita facendo un testamento in favore della nipote.",
+    "startDate": "2026-11-14T00:45:00Z",
+    "endDate": "2026-11-14T02:45:00Z",
     "channelId": "La7d.it"
   },
   {
-    "id": "MediasetExtra.it-2026-11-13T00:59",
+    "id": "MediasetExtra.it-2026-11-14T00:59",
     "title": "Grande Fratello Vip Live",
     "description": "Appuntamento quotidiano con la casa del Grande Fratello",
-    "startDate": "2026-11-13T00:59:21Z",
-    "endDate": "2026-11-13T05:01:21Z",
+    "startDate": "2026-11-14T00:59:21Z",
+    "endDate": "2026-11-14T05:01:21Z",
     "channelId": "MediasetExtra.it"
   },
   {
-    "id": "Rai1.it-2026-11-13T00:15",
+    "id": "Rai1.it-2026-11-14T00:25",
     "title": "La Pennicanza",
     "description": "St2026 La Nottatanza - E' tempo di novita':",
-    "startDate": "2026-11-13T00:15:00Z",
-    "endDate": "2026-11-13T01:10:00Z",
+    "startDate": "2026-11-14T00:25:00Z",
+    "endDate": "2026-11-14T01:20:00Z",
     "channelId": "Rai1.it"
   },
   {
-    "id": "Rai2.it-2026-11-13T00:00",
-    "title": "Il giorno in più",
-    "description": "Giacomo ha quarant'anni, molte donne e poca voglia di impegnarsi in una relazione seria nonostante tutti cerchino di convincerlo ad accasarsi. Fino a quando non incontra una ragazza sul tram. Tratt...",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T01:44:00Z",
+    "id": "Rai2.it-2026-11-14T01:00",
+    "title": "Meteo 2",
+    "description": "Meteo",
+    "startDate": "2026-11-14T01:00:00Z",
+    "endDate": "2026-11-14T01:10:00Z",
     "channelId": "Rai2.it"
   },
   {
-    "id": "Rai3.it-2026-11-13T00:00",
-    "title": "Meteo 3",
-    "description": "Meteo",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T00:05:00Z",
+    "id": "Rai3.it-2026-11-14T00:00",
+    "title": "TG3 Chi e' di scena",
+    "description": "Rubrica di informazione teatrale e dello spettacolo dal vivo; prosa, danza, arti performative. Servizi intermezzi/approfondimenti d'autore con artisti e drammaturghi. A cura di Giovanni Battista To...",
+    "startDate": "2026-11-14T00:00:00Z",
+    "endDate": "2026-11-14T00:15:00Z",
     "channelId": "Rai3.it"
   },
   {
-    "id": "Rai4.it-2026-11-13T01:27",
+    "id": "Rai4.it-2026-11-14T01:26",
     "title": "Warrior",
-    "description": "St3 Ep9 La morte e' ritornare a casa - Douglas Strickland riceve in piena notte la visita di Lai. Nasce un duello a colpi di lama dove il magnate esce vincitore. Il corpo della ragazza viene poi rilasciato sull'uscio della porta della c...",
-    "startDate": "2026-11-13T01:27:00Z",
-    "endDate": "2026-11-13T02:09:00Z",
+    "description": "St3 Ep10 Si e' aperta una fottuta opportunita' - Mai Ling regola i conti con Eliza in piena notte in casa di lei. Dal confronto emerge che ella era al corrente dei continui tradimenti del marito, ma per non dire la verita' sulle avance di questi...",
+    "startDate": "2026-11-14T01:26:00Z",
+    "endDate": "2026-11-14T02:16:00Z",
     "channelId": "Rai4.it"
   },
   {
-    "id": "Rai5.it-2026-11-13T01:05",
-    "title": "Overland",
-    "description": "St22 Ep2 Isole Azzorre - 2^ parte - Il viaggio di Overland 22 prosegue sulle Isole Azzorre. Di appartenenza portoghese, sono isole vulcaniche nel cuore dell'Oceano Atlantico. Sulle nove isole che compongono questo arcipelago si trova...",
-    "startDate": "2026-11-13T01:05:00Z",
-    "endDate": "2026-11-13T01:57:00Z",
+    "id": "Rai5.it-2026-11-14T00:15",
+    "title": "Poke Stories",
+    "description": "St2025 Ep2 All Together Swing - Sul palco di Umbria Jazz Winter 2025-26 a Orvieto due gruppi che propongono musica swing: Ray Gelato & The Giants, sassofonista e cantante che con la sua band incanta da anni il pubblico del festiv...",
+    "startDate": "2026-11-14T00:15:00Z",
+    "endDate": "2026-11-14T00:27:00Z",
     "channelId": "Rai5.it"
   },
   {
-    "id": "RaiMovie.it-2026-11-13T01:35",
-    "title": "Legend",
-    "description": "Tom Hardy si sdoppia nei due gemelli Kray, famigerati gangster, artefici di un vasto impero criminale nella Londra degli anni 60. Ronnie e' violento e paranoico con tendenze omosessuali, rinchiuso...",
-    "startDate": "2026-11-13T01:35:00Z",
-    "endDate": "2026-11-13T03:35:00Z",
+    "id": "RaiMovie.it-2026-11-14T01:40",
+    "title": "Molly's Game",
+    "description": "Nel 2004, Molly Bloom arriva a Los Angeles intenzionata a iniziare una nuova vita prima dell'universita'. Entrata nel mondo del poker clandestino quasi per caso, trasforma ambizione e talento organ...",
+    "startDate": "2026-11-14T01:40:00Z",
+    "endDate": "2026-11-14T04:00:00Z",
     "channelId": "RaiMovie.it"
   },
   {
-    "id": "RaiNews24.it-2026-11-13T00:00",
+    "id": "RaiNews24.it-2026-11-14T00:00",
     "title": "Rassegna Stampa",
     "description": ",. - ,",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T00:30:00Z",
+    "startDate": "2026-11-14T00:00:00Z",
+    "endDate": "2026-11-14T00:30:00Z",
     "channelId": "RaiNews24.it"
   },
   {
-    "id": "RaiPremium.it-2026-11-13T00:25",
-    "title": "Elsbeth 1",
-    "description": "St1 Ep3 Reality Shock - Quando viene trovata morta una famosa star dei reality, Elsbeth e Kaya indagano per stabilire se si sia trattato di un incidente o di un omicidio e si concentrano sugli eventi collegati alla sua vita.",
-    "startDate": "2026-11-13T00:25:00Z",
-    "endDate": "2026-11-13T01:10:00Z",
+    "id": "RaiPremium.it-2026-11-14T01:55",
+    "title": "Crociere di nozze",
+    "description": "Tirolo - Il wedding planner Tom sta per compiere 40 anni a bordo della",
+    "startDate": "2026-11-14T01:55:00Z",
+    "endDate": "2026-11-14T03:20:00Z",
     "channelId": "RaiPremium.it"
   },
   {
-    "id": "RaiSport.it-2026-11-13T00:00",
-    "title": "Nuoto 2026",
-    "description": "St2026 Assoluti Invernali - Finali (1a giornata) - Campionati Assoluti Invernali - Finali (1a giornata)",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T01:45:00Z",
+    "id": "RaiSport.it-2026-11-14T00:45",
+    "title": "Nazionale di calcio 2026",
+    "description": "St2026 Under 21 - Amichevole: Francia - Italia - Va in scena allo stadio",
+    "startDate": "2026-11-14T00:45:00Z",
+    "endDate": "2026-11-14T03:00:00Z",
     "channelId": "RaiSport.it"
   },
   {
-    "id": "RaiStoria.it-2026-11-13T00:10",
-    "title": "Sguardi in camera",
-    "description": "St2026 Ep1 Anni '20. Il cinema a casa tua - Negli anni Venti del Novecento, agli albori del cinema amatoriale, la cinepresa entra nelle famiglie e trasforma la vita in racconto. Bambini che crescono, eruzioni, mongolfiere, escursioni in mont...",
-    "startDate": "2026-11-13T00:10:00Z",
-    "endDate": "2026-11-13T00:40:00Z",
+    "id": "RaiStoria.it-2026-11-14T00:10",
+    "title": "Checkpoint Berlin",
+    "description": "Un regista si trova a Berlino per la proiezione di un suo film. Camminando per la citta' riflette sul Muro e sull'esperienza leggendaria di un suo parente, uno zio mai piu' ritrovato, dissennato pe...",
+    "startDate": "2026-11-14T00:10:00Z",
+    "endDate": "2026-11-14T01:15:00Z",
     "channelId": "RaiStoria.it"
   },
   {
-    "id": "Rete4.it-2026-11-13T00:16",
-    "title": "The Irrational",
-    "description": "S1 Ep7 L'originale - Il primo appuntamento di Alec con Rose si trasforma in un'avventura di 24 ore quando si trovano coinvolti in un'indagine su un capolavoro falsificato.",
-    "startDate": "2026-11-13T00:16:07Z",
-    "endDate": "2026-11-13T01:06:07Z",
+    "id": "Rete4.it-2026-11-14T01:36",
+    "title": "Tg4 '26 - ultima ora notte",
+    "description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4.",
+    "startDate": "2026-11-14T01:36:49Z",
+    "endDate": "2026-11-14T01:54:49Z",
     "channelId": "Rete4.it"
   },
   {
-    "id": "Super.it-2026-11-13T00:00",
-    "title": "Camilla Store",
-    "description": "S6 Ep.4 Wolf Tribe Style - Gemma vuole un look che rispecchi il suo amore per la natura e per il suo cagnolino Nina. Fiore le crea l'outfit perfetto con un cardigan dai motivi tribali, shorts, anfibi e accessori abbinati!",
-    "startDate": "2026-11-13T00:00:00Z",
-    "endDate": "2026-11-13T00:25:00Z",
+    "id": "Super.it-2026-11-14T00:05",
+    "title": "Street Of Magic",
+    "description": "S1 Ep.7 Scuola di musica - Per avere la giusta carica per l'allenamento di magia Steven si reca in una scuola di musica.",
+    "startDate": "2026-11-14T00:05:00Z",
+    "endDate": "2026-11-14T00:30:00Z",
     "channelId": "Super.it"
   },
   {
-    "id": "TopCrime.it-2026-11-13T00:34",
-    "title": "Law & Order: I due volti della giustizia",
-    "description": "S24 Ep8 Mela marcia - Un agente della narcotici viene colpito alle spalle. Brady torna nel suo vecchio distretto per occuparsi personalmente dell'indagine.",
-    "startDate": "2026-11-13T00:34:50Z",
-    "endDate": "2026-11-13T01:17:50Z",
+    "id": "TopCrime.it-2026-11-14T00:34",
+    "title": "Law & Order: Unita' Speciale",
+    "description": "S26 Ep1 Fragile - L'Unita' Vittime Speciali e' alle prese con una brutale aggressione contro tre studenti di giurisprudenza.",
+    "startDate": "2026-11-14T00:34:16Z",
+    "endDate": "2026-11-14T01:14:16Z",
     "channelId": "TopCrime.it"
   },
   {
-    "id": "TV2000.va-2026-11-13T00:30",
-    "title": "LA COMPIETA PREGHIERA DELLA SERA 2023",
-    "description": "La Compieta - Compieta",
-    "startDate": "2026-11-13T00:30:00Z",
-    "endDate": "2026-11-13T00:45:00Z",
+    "id": "TV2000.va-2026-11-14T00:00",
+    "title": "SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA",
+    "description": "Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma",
+    "startDate": "2026-11-14T00:00:00Z",
+    "endDate": "2026-11-14T00:35:00Z",
     "channelId": "TV2000.va"
   },
   {
-    "id": "TV8.it-2026-11-13T01:20",
-    "title": "Lady Killer",
-    "description": "S23 Ep24 Karen Coleman - Sono delicate, sono fragili. Sono generose, sono vanitose. Sono innamorate, vengono ferite, diventano vendicative e anche assassine. Chi sono queste donne spietate? E perche' uccidono?",
-    "startDate": "2026-11-13T01:20:00Z",
-    "endDate": "2026-11-13T02:10:00Z",
+    "id": "TV8.it-2026-11-14T00:05",
+    "title": "Avvocato Ligas",
+    "description": "Un nuovo cliente eccentrico, drammi sentimentali e un compleanno da non dimenticare: Ligas ha tutto sotto controllo... o quasi.",
+    "startDate": "2026-11-14T00:05:00Z",
+    "endDate": "2026-11-14T01:15:00Z",
     "channelId": "TV8.it"
   }
 ]
