@@ -1,193 +1,5 @@
 [
   {
-    "id": "20.it-2026-11-15T01:33",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-15T01:33:00Z",
-    "endDate": "2026-11-15T02:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T02:19",
-    "title": "Distretto di Polizia (St. 3 - Ep. 5)",
-    "startDate": "2026-11-15T02:19:00Z",
-    "endDate": "2026-11-15T02:59:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T02:59",
-    "title": "Distretto di Polizia (St. 3 - Ep. 6)",
-    "startDate": "2026-11-15T02:59:00Z",
-    "endDate": "2026-11-15T03:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T03:39",
-    "title": "Distretto di Polizia (St. 3 - Ep. 7)",
-    "startDate": "2026-11-15T03:39:00Z",
-    "endDate": "2026-11-15T04:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T04:19",
-    "title": "Distretto di Polizia (St. 3 - Ep. 8)",
-    "startDate": "2026-11-15T04:19:00Z",
-    "endDate": "2026-11-15T05:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T05:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-15T05:00:00Z",
-    "endDate": "2026-11-15T05:42:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T05:42",
-    "title": "Walker (St. 3 - Ep. 4)",
-    "startDate": "2026-11-15T05:42:00Z",
-    "endDate": "2026-11-15T06:22:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T06:22",
-    "title": "Walker (St. 3 - Ep. 5)",
-    "startDate": "2026-11-15T06:22:00Z",
-    "endDate": "2026-11-15T07:05:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T07:05",
-    "title": "Walker (St. 3 - Ep. 7)",
-    "startDate": "2026-11-15T07:05:00Z",
-    "endDate": "2026-11-15T07:52:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T07:52",
-    "title": "Walker (St. 3 - Ep. 8)",
-    "startDate": "2026-11-15T07:52:00Z",
-    "endDate": "2026-11-15T08:38:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T08:38",
-    "title": "Walker (St. 3 - Ep. 9)",
-    "startDate": "2026-11-15T08:38:00Z",
-    "endDate": "2026-11-15T09:28:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T09:28",
-    "title": "Walker (St. 3 - Ep. 10)",
-    "startDate": "2026-11-15T09:28:00Z",
-    "endDate": "2026-11-15T10:14:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T10:14",
-    "title": "Walker (St. 3 - Ep. 11)",
-    "startDate": "2026-11-15T10:14:00Z",
-    "endDate": "2026-11-15T11:04:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T11:04",
-    "title": "Walker (St. 3 - Ep. 12)",
-    "startDate": "2026-11-15T11:04:00Z",
-    "endDate": "2026-11-15T11:57:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T11:57",
-    "title": "Nitto ATP Finals Grand Opening Show",
-    "description": "Dall'Inalpi Arena di Torino, Achille Lauro e' il protagonista della cerimonia d'apertura delle ATP Finals 2026. A condurre la serata, Max Giusti.",
-    "startDate": "2026-11-15T11:57:00Z",
-    "endDate": "2026-11-15T12:47:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T12:47",
-    "title": "Walker (St. 3 - Ep. 13)",
-    "startDate": "2026-11-15T12:47:00Z",
-    "endDate": "2026-11-15T13:40:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T13:40",
-    "title": "Walker (St. 3 - Ep. 14)",
-    "startDate": "2026-11-15T13:40:00Z",
-    "endDate": "2026-11-15T14:25:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T14:25",
-    "title": "Walker (St. 3 - Ep. 15)",
-    "startDate": "2026-11-15T14:25:00Z",
-    "endDate": "2026-11-15T15:13:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T15:13",
-    "title": "Walker (St. 3 - Ep. 16)",
-    "startDate": "2026-11-15T15:13:00Z",
-    "endDate": "2026-11-15T16:05:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T16:05",
-    "title": "Walker (St. 3 - Ep. 17)",
-    "startDate": "2026-11-15T16:05:00Z",
-    "endDate": "2026-11-15T16:52:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T16:52",
-    "title": "Walker (St. 3 - Ep. 18)",
-    "startDate": "2026-11-15T16:52:00Z",
-    "endDate": "2026-11-15T17:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T17:39",
-    "title": "Now You See Me 2 (2016)",
-    "startDate": "2026-11-15T17:39:00Z",
-    "endDate": "2026-11-15T20:10:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T20:10",
-    "title": "Greenland (2020)",
-    "startDate": "2026-11-15T20:10:00Z",
-    "endDate": "2026-11-15T22:23:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T22:23",
-    "title": "Nitto ATP Finals Live",
-    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
-    "startDate": "2026-11-15T22:23:00Z",
-    "endDate": "2026-11-15T22:42:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T22:42",
-    "title": "Zverev - Jodar",
-    "description": "Il tedesco, fresco numero 1 al mondo, affronta la giovane promessa spagnola, qualificatasi per le Finals all'ultimo respiro. Telecronaca: Riccardo Trevisani-Francesca Schiavone.",
-    "startDate": "2026-11-15T22:42:00Z",
-    "endDate": "2026-11-15T23:45:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-15T23:45",
-    "title": "Zverev - Jodar",
-    "description": "Il tedesco, fresco numero 1 al mondo, affronta la giovane promessa spagnola, qualificatasi per le Finals all'ultimo respiro. Telecronaca: Riccardo Trevisani-Francesca Schiavone.",
-    "startDate": "2026-11-15T23:45:00Z",
-    "endDate": "2026-11-16T00:40:00Z",
-    "channelId": "20.it"
-  },
-  {
     "id": "20.it-2026-11-16T00:40",
     "title": "Nitto ATP Finals Live",
     "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
@@ -233,219 +45,446 @@
     "channelId": "20.it"
   },
   {
-    "id": "27Twentyseven.it-2026-11-15T00:39",
+    "id": "20.it-2026-11-16T05:15",
+    "title": "Distretto di Polizia (St. 3 - Ep. 9)",
+    "startDate": "2026-11-16T05:15:00Z",
+    "endDate": "2026-11-16T05:55:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T05:55",
+    "title": "Distretto di Polizia (St. 3 - Ep. 10)",
+    "startDate": "2026-11-16T05:55:00Z",
+    "endDate": "2026-11-16T06:35:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T06:35",
+    "title": "New Amsterdam (St. 4 - Ep. 20)",
+    "startDate": "2026-11-16T06:35:00Z",
+    "endDate": "2026-11-16T07:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T07:18",
+    "title": "New Amsterdam (St. 4 - Ep. 21)",
+    "startDate": "2026-11-16T07:18:00Z",
+    "endDate": "2026-11-16T08:08:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T08:08",
+    "title": "Dr. House - Medical Division (St. 1 - Ep. 21)",
+    "startDate": "2026-11-16T08:08:00Z",
+    "endDate": "2026-11-16T08:56:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T08:56",
+    "title": "Dr. House - Medical Division (St. 1 - Ep. 22)",
+    "startDate": "2026-11-16T08:56:00Z",
+    "endDate": "2026-11-16T09:47:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T09:47",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 22)",
+    "description": "Leonard è piacevolmente sorpreso quando Beverly venendo a fargli visita, sembra sinceramente gentile con lui.",
+    "startDate": "2026-11-16T09:47:00Z",
+    "endDate": "2026-11-16T10:10:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T10:10",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 23)",
+    "description": "Finalmente Sheldon e Amy ricevono la notizia tanto attesa: hanno vinto il premio Nobel per la fisica!",
+    "startDate": "2026-11-16T10:10:00Z",
+    "endDate": "2026-11-16T10:33:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T10:33",
+    "title": "Superman & Lois (St. 3 - Ep. 6)",
+    "startDate": "2026-11-16T10:33:00Z",
+    "endDate": "2026-11-16T11:24:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T11:24",
+    "title": "Superman & Lois (St. 3 - Ep. 7)",
+    "startDate": "2026-11-16T11:24:00Z",
+    "endDate": "2026-11-16T12:13:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T12:13",
+    "title": "Chicago Fire (St. 11 - Ep. 9)",
+    "startDate": "2026-11-16T12:13:00Z",
+    "endDate": "2026-11-16T13:03:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T13:03",
+    "title": "Chicago Med (St. 1 - Ep. 10)",
+    "startDate": "2026-11-16T13:03:00Z",
+    "endDate": "2026-11-16T13:50:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T13:50",
+    "title": "Chicago Med (St. 1 - Ep. 11)",
+    "startDate": "2026-11-16T13:50:00Z",
+    "endDate": "2026-11-16T14:36:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T14:36",
+    "title": "New Amsterdam (St. 4 - Ep. 20)",
+    "startDate": "2026-11-16T14:36:00Z",
+    "endDate": "2026-11-16T15:27:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T15:27",
+    "title": "New Amsterdam (St. 4 - Ep. 21)",
+    "startDate": "2026-11-16T15:27:00Z",
+    "endDate": "2026-11-16T16:14:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T16:14",
+    "title": "Dr. House - Medical Division (St. 1 - Ep. 21)",
+    "startDate": "2026-11-16T16:14:00Z",
+    "endDate": "2026-11-16T17:02:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T17:02",
+    "title": "Dr. House - Medical Division (St. 1 - Ep. 22)",
+    "startDate": "2026-11-16T17:02:00Z",
+    "endDate": "2026-11-16T17:53:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T17:53",
+    "title": "Chicago Fire (St. 11 - Ep. 9)",
+    "startDate": "2026-11-16T17:53:00Z",
+    "endDate": "2026-11-16T18:40:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T18:40",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 22)",
+    "description": "Leonard è piacevolmente sorpreso quando Beverly venendo a fargli visita, sembra sinceramente gentile con lui.",
+    "startDate": "2026-11-16T18:40:00Z",
+    "endDate": "2026-11-16T19:04:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T19:04",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 23)",
+    "description": "Finalmente Sheldon e Amy ricevono la notizia tanto attesa: hanno vinto il premio Nobel per la fisica!",
+    "startDate": "2026-11-16T19:04:00Z",
+    "endDate": "2026-11-16T19:35:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T19:35",
+    "title": "Germania - Olanda",
+    "description": "In diretta dall'Olympiastadion di Berlino, i tedeschi guidati da Jurgen Klopp sfidano gli orange di Xavi.",
+    "startDate": "2026-11-16T19:35:00Z",
+    "endDate": "2026-11-16T21:52:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T21:52",
+    "title": "Prey - La grande caccia (2024)",
+    "startDate": "2026-11-16T21:52:00Z",
+    "endDate": "2026-11-16T23:28:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T23:28",
+    "title": "Nitto ATP Finals Live",
+    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
+    "startDate": "2026-11-16T23:28:00Z",
+    "endDate": "2026-11-16T23:46:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-16T23:46",
+    "title": "Cobolli - Medvedev",
+    "description": "Medvedev e Cobolli in una sfida ad alta intensita': esperienza e solidita' del russo contro energia e talento dell'azzurro. Telecronaca: Riccardo Trevisani-Francesca Schiavone.",
+    "startDate": "2026-11-16T23:46:00Z",
+    "endDate": "2026-11-17T00:50:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T00:50",
+    "title": "Cobolli - Medvedev",
+    "description": "Medvedev e Cobolli in una sfida ad alta intensita': esperienza e solidita' del russo contro energia e talento dell'azzurro. Telecronaca: Riccardo Trevisani-Francesca Schiavone.",
+    "startDate": "2026-11-17T00:50:00Z",
+    "endDate": "2026-11-17T01:45:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T01:45",
+    "title": "Nitto ATP Finals Live",
+    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
+    "startDate": "2026-11-17T01:45:00Z",
+    "endDate": "2026-11-17T01:55:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T01:55",
+    "title": "Chicago Med (St. 1 - Ep. 10)",
+    "startDate": "2026-11-17T01:55:00Z",
+    "endDate": "2026-11-17T02:36:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T02:36",
+    "title": "Chicago Med (St. 1 - Ep. 11)",
+    "startDate": "2026-11-17T02:36:00Z",
+    "endDate": "2026-11-17T03:16:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T03:16",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-17T03:16:00Z",
+    "endDate": "2026-11-17T03:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T03:39",
+    "title": "Distretto di Polizia (St. 3 - Ep. 9)",
+    "startDate": "2026-11-17T03:39:00Z",
+    "endDate": "2026-11-17T04:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T04:19",
+    "title": "Distretto di Polizia (St. 3 - Ep. 10)",
+    "startDate": "2026-11-17T04:19:00Z",
+    "endDate": "2026-11-17T05:01:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "27Twentyseven.it-2026-11-16T00:18",
     "title": "Super Car",
-    "description": "S5 Ep7 Le mele marce - Per aiutare alcuni ragazzi disadattati, una psicologa acquista un ranch dove poter costituire una piccola comunita'. Gli abitanti del paese ostacolano il progetto.",
-    "startDate": "2026-11-15T00:39:46Z",
-    "endDate": "2026-11-15T01:30:46Z",
+    "description": "S5 Ep9 Alla ricerca di K.I.T.T. - Michael e K.I.T.T. stanno inseguendo due malviventi, quando un incidente, causato dai due, mette fuori uso la memoria dell'auto che non riconosce piu' i comandi.",
+    "startDate": "2026-11-16T00:18:44Z",
+    "endDate": "2026-11-16T01:09:44Z",
     "channelId": "27Twentyseven.it"
   },
   {
-    "id": "Canale5.it-2026-11-15T00:49",
-    "title": "Tg5",
-    "description": "Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5.",
-    "startDate": "2026-11-15T00:49:12Z",
-    "endDate": "2026-11-15T01:27:12Z",
+    "id": "Canale5.it-2026-11-16T00:31",
+    "title": "Caduta libera '26 - aut.",
+    "description": "Max Giusti conduce la nuova edizione insieme a Isobel Kinnear: studio rinnovato, band dal vivo, nuova prova finale e un montepremi che puo' raggiungere i 500.000 euro.",
+    "startDate": "2026-11-16T00:31:47Z",
+    "endDate": "2026-11-16T01:36:47Z",
     "channelId": "Canale5.it"
   },
   {
-    "id": "CieloTV.it-2026-11-15T00:55",
-    "title": "MasterChef Italia",
-    "description": "Sotto la Mystery Box i concorrenti trovano i ritratti stilizzati dei giudici, che faranno la spesa per loro. All'Invention Test devono cucinare un piatto divisi in coppie... inaspettate.",
-    "startDate": "2026-11-15T00:55:00Z",
-    "endDate": "2026-11-15T02:10:00Z",
+    "id": "CieloTV.it-2026-11-16T01:15",
+    "title": "A Good Man",
+    "description": "Inedito action con l'intramontabile Steven Seagal. Profondamente segnato dalla guerra in Iraq, Alexander lascia la divisa e si costruisce una nuova vita in Romania. Il coinvolgimento di un amico nei loschi affari della mafia cinese lo costringera' a riprendere in mano le armi.",
+    "startDate": "2026-11-16T01:15:00Z",
+    "endDate": "2026-11-16T03:00:00Z",
     "channelId": "CieloTV.it"
   },
   {
-    "id": "Cine34.it-2026-11-15T00:43",
-    "title": "Ecco lingua d'argento",
-    "description": "Nella cornice esotica dell'Africa mediterranea, un acerbo spasimante tenta inutilmente di conquistare una provocante amica. Con Carmen Villani. Regia di M. Ivaldi; ITA 1976",
-    "startDate": "2026-11-15T00:43:02Z",
-    "endDate": "2026-11-15T02:07:02Z",
+    "id": "Cine34.it-2026-11-16T01:12",
+    "title": "Fiorina la vacca",
+    "description": "Un contadino vende la vacca Fiorina per pagarsi le armi con cui andare in guerra. L'animale passera' di mano in mano. Regia di V. De Sisti; ITA 1972",
+    "startDate": "2026-11-16T01:12:19Z",
+    "endDate": "2026-11-16T02:43:19Z",
     "channelId": "Cine34.it"
   },
   {
-    "id": "Focus.it-2026-11-15T00:51",
-    "title": "Alieni: I casi riaperti",
-    "description": "La scoperta di 70 anni fa, fatta da un ingegnere, ha dato inizio a una storia di inganni e sconcertanti rivelazioni. Un'entita' aliena avrebbe cercato di conquistare la Terra?",
-    "startDate": "2026-11-15T00:51:07Z",
-    "endDate": "2026-11-15T01:36:07Z",
+    "id": "Focus.it-2026-11-16T00:29",
+    "title": "Giulio Cesare",
+    "description": "L'ambizione di Cesare si trasforma in tirannia e un pugno di senatori trama per la sua caduta.",
+    "startDate": "2026-11-16T00:29:40Z",
+    "endDate": "2026-11-16T01:20:40Z",
     "channelId": "Focus.it"
   },
   {
-    "id": "Iris.it-2026-11-15T01:12",
-    "title": "La pasion turca",
-    "description": "Desideria ha tutto cio' che si possa desiderare. Ma in seguito ad una breve vacanza in Turchia il suo mondo cambiera' completamente. Regia di V. Aranda, con A. Belen, G. Corraface; ESP 1999",
-    "startDate": "2026-11-15T01:12:33Z",
-    "endDate": "2026-11-15T03:13:33Z",
+    "id": "Iris.it-2026-11-16T00:50",
+    "title": "King Arthur",
+    "description": "V secolo. Artu' affiancato dai suoi cavalieri e dalla principessa Ginevra, deve affrontare un'ultima, pericolosa missione prima di fare ritorno in patria. Regia di A. Fuqua; USA 2004",
+    "startDate": "2026-11-16T00:50:14Z",
+    "endDate": "2026-11-16T02:57:14Z",
     "channelId": "Iris.it"
   },
   {
-    "id": "Italia1.it-2026-11-15T02:02",
-    "title": "Studio Aperto - La giornata",
-    "description": "I principali fatti e notizie della giornata a cura della redazione giornalistica di Studio Aperto.",
-    "startDate": "2026-11-15T02:02:09Z",
-    "endDate": "2026-11-15T02:13:09Z",
+    "id": "Italia1.it-2026-11-16T00:26",
+    "title": "Grandi furti della storia con Pierce..",
+    "description": ".. Brosnan - L'hotel Pierre di New York, frequentato da clienti famosi e ricchissimi e' il bersaglio di 5 criminali che pianificano una tra le piu' ambiziose rapine della storia.",
+    "startDate": "2026-11-16T00:26:37Z",
+    "endDate": "2026-11-16T01:13:37Z",
     "channelId": "Italia1.it"
   },
   {
-    "id": "Italia2.it-2026-11-15T00:21",
+    "id": "Italia2.it-2026-11-16T00:47",
     "title": "Dragon Ball Super",
-    "description": "S1 Ep121 E' guerra totale! La quadrupla fusione finale vs l'attacco combinato del settimo universo! - Panchia, Koitsukai e Bollarator sembrano soccombere alla squadra del settimo universo.",
-    "startDate": "2026-11-15T00:21:56Z",
-    "endDate": "2026-11-15T00:48:56Z",
+    "description": "S1 Ep124 Un attacco spietatamente feroce! La disperata resistenza di Gohan! - Mentre Goku e Vegeta affrontano Jiren, Freezer subisce gli attacchi di Dyspo, fino all'intervento di Gohan.",
+    "startDate": "2026-11-16T00:47:16Z",
+    "endDate": "2026-11-16T01:07:16Z",
     "channelId": "Italia2.it"
   },
   {
-    "id": "La5.it-2026-11-15T01:28",
+    "id": "La5.it-2026-11-16T00:01",
     "title": "Grande Fratello Vip Live",
     "description": "Le telecamere di Grande Fratello si accendono per seguire la vita quotidiana degli inquilini della casa piu' spiata d'Italia.",
-    "startDate": "2026-11-15T01:28:56Z",
-    "endDate": "2026-11-15T01:59:56Z",
+    "startDate": "2026-11-16T00:01:41Z",
+    "endDate": "2026-11-16T01:44:41Z",
     "channelId": "La5.it"
   },
   {
-    "id": "La7.it-2026-11-15T00:30",
-    "title": "L'aria che tira - Il diario",
-    "description": "La trasmissione che racconta e analizza i fatti di economia e di politica piu' vicini alla vita quotidiana.",
-    "startDate": "2026-11-15T00:30:00Z",
-    "endDate": "2026-11-15T01:30:00Z",
+    "id": "La7.it-2026-11-16T01:20",
+    "title": "Tesori nascosti",
+    "description": "S2 Ep1 Great Pyramid - Una scoperta su una struttura che risale a 4.500 anni fa potrebbe rispondere a una delle domande piu' avvincenti di sempre: chi ha costruito la Grande Piramide di Giza?",
+    "startDate": "2026-11-16T01:20:00Z",
+    "endDate": "2026-11-16T02:20:00Z",
     "channelId": "La7.it"
   },
   {
-    "id": "La7d.it-2026-11-15T01:15",
-    "title": "Ragazzi miei",
-    "description": "Rimasto vedovo, un giornalista deve occuparsi del figlio di sei anni: come educare un ragazzino che soffre la mancanza della madre?",
-    "startDate": "2026-11-15T01:15:00Z",
-    "endDate": "2026-11-15T03:15:00Z",
+    "id": "La7d.it-2026-11-16T01:15",
+    "title": "Brutti, sporchi e cattivi",
+    "description": "Famiglia di immigrati subisce le vessazioni del patriarca. Ricevuta una grande somma di denaro, decide di avvelenarlo.",
+    "startDate": "2026-11-16T01:15:00Z",
+    "endDate": "2026-11-16T03:25:00Z",
     "channelId": "La7d.it"
   },
   {
-    "id": "MediasetExtra.it-2026-11-15T00:59",
+    "id": "MediasetExtra.it-2026-11-16T00:59",
     "title": "Grande Fratello Vip Live",
     "description": "Appuntamento quotidiano con la casa del Grande Fratello",
-    "startDate": "2026-11-15T00:59:21Z",
-    "endDate": "2026-11-15T05:01:21Z",
+    "startDate": "2026-11-16T00:59:21Z",
+    "endDate": "2026-11-16T05:01:21Z",
     "channelId": "MediasetExtra.it"
   },
   {
-    "id": "Rai1.it-2026-11-15T00:30",
-    "title": "Ballando con le Stelle",
-    "description": "St2026 Ballando on the road - Terzo appuntamento con i talenti di Ballando on the Road. Una carrellata di coppie, singoli e gruppi di ballo scovati in tutta Italia da Milly Carlucci e dalla sua squadra. Ogni puntata decreta un ...",
-    "startDate": "2026-11-15T00:30:00Z",
-    "endDate": "2026-11-15T01:30:00Z",
+    "id": "Rai1.it-2026-11-16T01:10",
+    "title": "Da noi... a ruota libera",
+    "description": "St2026 Puntata del Francesca Fialdini racconta la vita artistica e privata di personaggi celebri e non che hanno saputo imprimere un",
+    "startDate": "2026-11-16T01:10:00Z",
+    "endDate": "2026-11-16T02:25:00Z",
     "channelId": "Rai1.it"
   },
   {
-    "id": "Rai2.it-2026-11-15T00:10",
-    "title": "TG2 Cinematine'e",
-    "description": "St2026 TG2 Cinematine'e del I film della settimana, i consigli, le classifiche i protagonisti dello spettacolo si presentano al pubblico della notte. Direttore Antonio Preziosi Vicedirettore Maria Antonietta Spadorcia A cura ...",
-    "startDate": "2026-11-15T00:10:00Z",
-    "endDate": "2026-11-15T00:15:00Z",
+    "id": "Rai2.it-2026-11-16T00:07",
+    "title": "Meteo 2",
+    "description": "Meteo",
+    "startDate": "2026-11-16T00:07:00Z",
+    "endDate": "2026-11-16T00:10:00Z",
     "channelId": "Rai2.it"
   },
   {
-    "id": "Rai3.it-2026-11-15T01:35",
-    "title": "Il bosco di betulle",
-    "description": "Ambientato a inizio Novecento. Bolesaw, incapace di sottrarsi al ricordo della moglie sepolta nel bosco di betulle che circonda la sua abitazione, accoglie il fratello Stanisaw, malato e consapev...",
-    "startDate": "2026-11-15T01:35:00Z",
-    "endDate": "2026-11-15T03:10:00Z",
+    "id": "Rai3.it-2026-11-16T01:45",
+    "title": "Fuori orario. Cose (mai) viste",
+    "description": "La rassegna Immagini dalla tempesta. Il cinema di Andrzej Wajda e' stata ideata, nel centenario della nascita del regista e a dieci anni dalla morte, come sezione di",
+    "startDate": "2026-11-16T01:45:00Z",
+    "endDate": "2026-11-16T01:50:00Z",
     "channelId": "Rai3.it"
   },
   {
-    "id": "Rai4.it-2026-11-15T01:39",
-    "title": "El Lodo",
-    "description": "Una grave siccita' colpisce le risaie del Levante spagnolo. Il biologo Ricardo torna nei luoghi della sua infanzia per proteggere un'area naturale minacciata, ma le sue decisioni si scontrano con g...",
-    "startDate": "2026-11-15T01:39:00Z",
-    "endDate": "2026-11-15T03:22:00Z",
+    "id": "Rai4.it-2026-11-16T01:38",
+    "title": "La casa del padre",
+    "description": "Helena conduce una vita serena con marito e figlia ma nasconde un segreto terribile: da ragazza e' nata nella prigionia in cui il padre teneva sequestrata sua madre. Quando l'uomo evade dal carcere...",
+    "startDate": "2026-11-16T01:38:00Z",
+    "endDate": "2026-11-16T03:14:00Z",
     "channelId": "Rai4.it"
   },
   {
-    "id": "Rai5.it-2026-11-15T01:31",
-    "title": "Overland",
-    "description": "St22 Ep4 Da Malta alla Turchia: l'altro capo del Mediterraneo - Affrontiamo l'Isola di Gozo, nell'arcipelago di Malta, con un interessante trekking alla scoperta di ogni suo segreto. Navighiamo tra le isole maltesi, tra le vicende epiche di Ulisse e la storia d...",
-    "startDate": "2026-11-15T01:31:00Z",
-    "endDate": "2026-11-15T02:23:00Z",
+    "id": "Rai5.it-2026-11-16T00:18",
+    "title": "RaiNews",
+    "description": "Cronaca, politica, economia, cultura, spettacolo e sport dall'Italia e dal mondo. I fatti del giorno in tre minuti a cura di Rai News, il canale all news della Rai.. - 2026 ITA",
+    "startDate": "2026-11-16T00:18:00Z",
+    "endDate": "2026-11-16T00:20:00Z",
     "channelId": "Rai5.it"
   },
   {
-    "id": "RaiMovie.it-2026-11-15T00:20",
-    "title": "Il giurato",
-    "description": "Annie viene scelta come giurata nel processo a un potente boss mafioso, ma un enigmatico killer noto come il Maestro la costringe a votare per l'assoluzione minacciando suo figlio. Intrappolata in ...",
-    "startDate": "2026-11-15T00:20:00Z",
-    "endDate": "2026-11-15T02:15:00Z",
+    "id": "RaiMovie.it-2026-11-16T00:00",
+    "title": "Mona Lisa Smile",
+    "description": "La professoressa Katherine Watson arriva a Wellesley per insegnare storia dell'arte a ragazze destinate a un futuro da mogli benestanti. Il suo spirito anticonformista fatica a farsi strada nella s...",
+    "startDate": "2026-11-16T00:00:00Z",
+    "endDate": "2026-11-16T01:55:00Z",
     "channelId": "RaiMovie.it"
   },
   {
-    "id": "RaiNews24.it-2026-11-15T00:00",
+    "id": "RaiNews24.it-2026-11-16T00:00",
     "title": "Rassegna Stampa",
     "description": ",. - ,",
-    "startDate": "2026-11-15T00:00:00Z",
-    "endDate": "2026-11-15T00:30:00Z",
+    "startDate": "2026-11-16T00:00:00Z",
+    "endDate": "2026-11-16T00:30:00Z",
     "channelId": "RaiNews24.it"
   },
   {
-    "id": "RaiPremium.it-2026-11-15T00:20",
-    "title": "Mistero in blu",
-    "description": "St1998 Ep8 Il caso Laura Bigoni - Laura Bigoni era un'addetta alle pulizie del comune di Milano, dove viveva insieme con i genitori. La ventitreenne aveva una relazione tormentata con un giovane elettricista, finita drammaticamente...",
-    "startDate": "2026-11-15T00:20:00Z",
-    "endDate": "2026-11-15T01:05:00Z",
+    "id": "RaiPremium.it-2026-11-16T00:25",
+    "title": "Il paradiso delle signore",
+    "description": "St11 Ep48 Episodio 48 - Carla chiede l'intervento di Umberto per ottenere il permesso di allestire la mostra Corsi al Circolo. Nel frattempo, l'intervista di Rossini favorisce un clima disteso tra GMM e Paradiso, mentre R...",
+    "startDate": "2026-11-16T00:25:00Z",
+    "endDate": "2026-11-16T01:10:00Z",
     "channelId": "RaiPremium.it"
   },
   {
-    "id": "RaiSport.it-2026-11-15T01:15",
-    "title": "Ippica",
-    "description": "Premio Vittorio di Capua",
-    "startDate": "2026-11-15T01:15:00Z",
-    "endDate": "2026-11-15T01:45:00Z",
+    "id": "RaiSport.it-2026-11-16T01:45",
+    "title": "Nuoto 2026",
+    "description": "St2026 Assoluti Invernali - Finali (3a giornata) - Assoluti Invernali - Finali (3a giornata)",
+    "startDate": "2026-11-16T01:45:00Z",
+    "endDate": "2026-11-16T03:50:00Z",
     "channelId": "RaiSport.it"
   },
   {
-    "id": "RaiStoria.it-2026-11-15T00:20",
-    "title": "I Varieta'",
-    "description": "Sorprendente, spiazzante, controcorrente, la tv di Enzo Trapani ha avuto il merito di mostrare il lato piu' originale del varieta', sperimentando nuove forme e linguaggi e scoprendo straordinari ta...",
-    "startDate": "2026-11-15T00:20:00Z",
-    "endDate": "2026-11-15T01:15:00Z",
+    "id": "RaiStoria.it-2026-11-16T00:10",
+    "title": "Il Tempo e la Storia",
+    "description": "Norimberga, processo ai vinti - Speciale dedicato al processo che si svolse a Norimberga dal 1945, in cui i vincitori della Seconda guerra mondiale giudicarono i principali responsabili del regime nazista.",
+    "startDate": "2026-11-16T00:10:00Z",
+    "endDate": "2026-11-16T02:05:00Z",
     "channelId": "RaiStoria.it"
   },
   {
-    "id": "Rete4.it-2026-11-15T01:08",
+    "id": "Rete4.it-2026-11-16T01:48",
     "title": "Tg4 '26 - ultima ora notte",
     "description": "Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4.",
-    "startDate": "2026-11-15T01:08:08Z",
-    "endDate": "2026-11-15T01:26:08Z",
+    "startDate": "2026-11-16T01:48:52Z",
+    "endDate": "2026-11-16T02:06:52Z",
     "channelId": "Rete4.it"
   },
   {
-    "id": "Super.it-2026-11-15T00:05",
+    "id": "Super.it-2026-11-16T00:15",
     "title": "Camilla Store",
-    "description": "S1 Ep.1 Fairy Kei - Nel suo atelier di moda, Camilla Store, Fiore aiuta le ragazze a creare un personalissimo fashion style con look da favola! In questa puntata Fiore disegna per Margherita un outfit ispirato ai manga.",
-    "startDate": "2026-11-15T00:05:00Z",
-    "endDate": "2026-11-15T00:35:00Z",
+    "description": "S1 Ep.3 Moda Anni '80 - Fiore aiuta Giada a creare un look da sogno, ispirato agli anni '80 e alle star della musica. Tra shopping, cool hunting per strada e disegni di figurini, Fiore realizza un outfit perfetto per il decennio piu' colorato del secolo scorso.",
+    "startDate": "2026-11-16T00:15:00Z",
+    "endDate": "2026-11-16T00:45:00Z",
     "channelId": "Super.it"
   },
   {
-    "id": "TopCrime.it-2026-11-15T00:36",
+    "id": "TopCrime.it-2026-11-16T00:38",
     "title": "Law & Order: Special Victims Unit",
-    "description": "S21 Ep3 Giu' nella cucina del diavolo - Nel quartiere di Hell's Kitchen ce' uno stupratore seriale che prende di mira omosessuali neri non dichiarati, ma nessuna delle vittime vuole denunciare.",
-    "startDate": "2026-11-15T00:36:07Z",
-    "endDate": "2026-11-15T01:16:07Z",
+    "description": "S21 Ep8 Il sogno degli Elfi Meccanici - L'addio al nubilato di Meghan si trasforma in un viaggio da incubo senza ritorno sotto l'effetto di una pesante droga allucinogena.",
+    "startDate": "2026-11-16T00:38:37Z",
+    "endDate": "2026-11-16T01:21:37Z",
     "channelId": "TopCrime.it"
   },
   {
-    "id": "TV2000.va-2026-11-15T00:00",
+    "id": "TV2000.va-2026-11-16T00:10",
     "title": "SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA",
     "description": "Santo Rosario - Santo rosario recitato dalla basilica di Santa Maria Maggiore in Roma",
-    "startDate": "2026-11-15T00:00:00Z",
-    "endDate": "2026-11-15T00:35:00Z",
+    "startDate": "2026-11-16T00:10:00Z",
+    "endDate": "2026-11-16T00:35:00Z",
     "channelId": "TV2000.va"
   },
   {
-    "id": "TV8.it-2026-11-15T00:35",
-    "title": "Delitti: famiglie criminali",
-    "description": "S1 Ep2 Chi ha ucciso Serena Mollicone - 1 giugno 2001. Ad Arce, in provincia di Frosinone, viene uccisa la 17enne Serena Mollicone. Anni di buio fino a quando nel 2008 accade qualcosa di inaspettato.",
-    "startDate": "2026-11-15T00:35:00Z",
-    "endDate": "2026-11-15T01:40:00Z",
+    "id": "TV8.it-2026-11-16T01:15",
+    "title": "Mostri senza nome - Milano",
+    "description": "S1 Ep4 L'ultima cena di Adriana - Matteo Caccia ripercorre il caso di Adriana Levi, 66 anni. L'autopsia rivela ferite da taglio al collo ma la morte e' dovuta a un colpo pesante in viso.",
+    "startDate": "2026-11-16T01:15:00Z",
+    "endDate": "2026-11-16T02:20:00Z",
     "channelId": "TV8.it"
   }
 ]
