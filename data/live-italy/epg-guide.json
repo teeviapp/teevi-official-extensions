@@ -2,221 +2,9 @@
   {
     "id": "20.it-2026-11-16T00:40",
     "title": "Nitto ATP Finals Live",
-    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
-    "startDate": "2026-11-16T00:40:00Z",
-    "endDate": "2026-11-16T00:51:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T00:51",
-    "title": "Now You See Me 2 (2016)",
-    "startDate": "2026-11-16T00:51:00Z",
-    "endDate": "2026-11-16T02:47:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T02:47",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-16T02:47:00Z",
-    "endDate": "2026-11-16T03:39:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T03:39",
-    "title": "Distretto di Polizia (St. 3 - Ep. 7)",
-    "startDate": "2026-11-16T03:39:00Z",
-    "endDate": "2026-11-16T04:19:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T04:19",
-    "title": "Distretto di Polizia (St. 3 - Ep. 8)",
-    "startDate": "2026-11-16T04:19:00Z",
-    "endDate": "2026-11-16T05:00:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T05:00",
-    "title": "Show reel",
-    "description": "Show reel '26",
-    "startDate": "2026-11-16T05:00:00Z",
-    "endDate": "2026-11-16T05:15:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T05:15",
-    "title": "Distretto di Polizia (St. 3 - Ep. 9)",
-    "startDate": "2026-11-16T05:15:00Z",
-    "endDate": "2026-11-16T05:55:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T05:55",
-    "title": "Distretto di Polizia (St. 3 - Ep. 10)",
-    "startDate": "2026-11-16T05:55:00Z",
-    "endDate": "2026-11-16T06:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T06:35",
-    "title": "New Amsterdam (St. 4 - Ep. 20)",
-    "startDate": "2026-11-16T06:35:00Z",
-    "endDate": "2026-11-16T07:18:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T07:18",
-    "title": "New Amsterdam (St. 4 - Ep. 21)",
-    "startDate": "2026-11-16T07:18:00Z",
-    "endDate": "2026-11-16T08:08:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T08:08",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 21)",
-    "startDate": "2026-11-16T08:08:00Z",
-    "endDate": "2026-11-16T08:56:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T08:56",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 22)",
-    "startDate": "2026-11-16T08:56:00Z",
-    "endDate": "2026-11-16T09:47:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T09:47",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 22)",
-    "description": "Leonard è piacevolmente sorpreso quando Beverly venendo a fargli visita, sembra sinceramente gentile con lui.",
-    "startDate": "2026-11-16T09:47:00Z",
-    "endDate": "2026-11-16T10:10:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T10:10",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 23)",
-    "description": "Finalmente Sheldon e Amy ricevono la notizia tanto attesa: hanno vinto il premio Nobel per la fisica!",
-    "startDate": "2026-11-16T10:10:00Z",
-    "endDate": "2026-11-16T10:33:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T10:33",
-    "title": "Superman & Lois (St. 3 - Ep. 6)",
-    "startDate": "2026-11-16T10:33:00Z",
-    "endDate": "2026-11-16T11:24:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T11:24",
-    "title": "Superman & Lois (St. 3 - Ep. 7)",
-    "startDate": "2026-11-16T11:24:00Z",
-    "endDate": "2026-11-16T12:13:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T12:13",
-    "title": "Chicago Fire (St. 11 - Ep. 9)",
-    "startDate": "2026-11-16T12:13:00Z",
-    "endDate": "2026-11-16T13:03:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T13:03",
-    "title": "Chicago Med (St. 1 - Ep. 10)",
-    "startDate": "2026-11-16T13:03:00Z",
-    "endDate": "2026-11-16T13:50:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T13:50",
-    "title": "Chicago Med (St. 1 - Ep. 11)",
-    "startDate": "2026-11-16T13:50:00Z",
-    "endDate": "2026-11-16T14:36:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T14:36",
-    "title": "New Amsterdam (St. 4 - Ep. 20)",
-    "startDate": "2026-11-16T14:36:00Z",
-    "endDate": "2026-11-16T15:27:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T15:27",
-    "title": "New Amsterdam (St. 4 - Ep. 21)",
-    "startDate": "2026-11-16T15:27:00Z",
-    "endDate": "2026-11-16T16:14:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T16:14",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 21)",
-    "startDate": "2026-11-16T16:14:00Z",
-    "endDate": "2026-11-16T17:02:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T17:02",
-    "title": "Dr. House - Medical Division (St. 1 - Ep. 22)",
-    "startDate": "2026-11-16T17:02:00Z",
-    "endDate": "2026-11-16T17:53:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T17:53",
-    "title": "Chicago Fire (St. 11 - Ep. 9)",
-    "startDate": "2026-11-16T17:53:00Z",
-    "endDate": "2026-11-16T18:40:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T18:40",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 22)",
-    "description": "Leonard è piacevolmente sorpreso quando Beverly venendo a fargli visita, sembra sinceramente gentile con lui.",
-    "startDate": "2026-11-16T18:40:00Z",
-    "endDate": "2026-11-16T19:04:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T19:04",
-    "title": "THE BIG BANG THEORY (St. 12 - Ep. 23)",
-    "description": "Finalmente Sheldon e Amy ricevono la notizia tanto attesa: hanno vinto il premio Nobel per la fisica!",
-    "startDate": "2026-11-16T19:04:00Z",
-    "endDate": "2026-11-16T19:35:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T19:35",
-    "title": "Germania - Olanda",
-    "description": "In diretta dall'Olympiastadion di Berlino, i tedeschi guidati da Jurgen Klopp sfidano gli orange di Xavi.",
-    "startDate": "2026-11-16T19:35:00Z",
-    "endDate": "2026-11-16T21:52:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T21:52",
-    "title": "Prey - La grande caccia (2024)",
-    "startDate": "2026-11-16T21:52:00Z",
-    "endDate": "2026-11-16T23:28:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T23:28",
-    "title": "Nitto ATP Finals Live",
-    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
-    "startDate": "2026-11-16T23:28:00Z",
-    "endDate": "2026-11-16T23:46:00Z",
-    "channelId": "20.it"
-  },
-  {
-    "id": "20.it-2026-11-16T23:46",
-    "title": "Cobolli - Medvedev",
-    "description": "Medvedev e Cobolli in una sfida ad alta intensita': esperienza e solidita' del russo contro energia e talento dell'azzurro. Telecronaca: Riccardo Trevisani-Francesca Schiavone.",
-    "startDate": "2026-11-16T23:46:00Z",
-    "endDate": "2026-11-17T00:50:00Z",
+    "description": "Nitto ATP Finals Live - News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
+    "startDate": "2026-11-16T00:40:11Z",
+    "endDate": "2026-11-16T00:50:11Z",
     "channelId": "20.it"
   },
   {
@@ -269,6 +57,245 @@
     "title": "Distretto di Polizia (St. 3 - Ep. 10)",
     "startDate": "2026-11-17T04:19:00Z",
     "endDate": "2026-11-17T05:01:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T05:00",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-17T05:00:00Z",
+    "endDate": "2026-11-17T05:29:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T05:29",
+    "title": "Distretto di Polizia (St. 3 - Ep. 11)",
+    "startDate": "2026-11-17T05:29:00Z",
+    "endDate": "2026-11-17T06:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T06:09",
+    "title": "Distretto di Polizia (St. 3 - Ep. 12)",
+    "startDate": "2026-11-17T06:09:00Z",
+    "endDate": "2026-11-17T06:49:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T06:49",
+    "title": "New Amsterdam (St. 4 - Ep. 22)",
+    "startDate": "2026-11-17T06:49:00Z",
+    "endDate": "2026-11-17T07:35:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T07:35",
+    "title": "New Amsterdam (St. 5 - Ep. 1)",
+    "startDate": "2026-11-17T07:35:00Z",
+    "endDate": "2026-11-17T08:25:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T08:25",
+    "title": "Dr. House - Medical Division (St. 2 - Ep. 1)",
+    "startDate": "2026-11-17T08:25:00Z",
+    "endDate": "2026-11-17T09:12:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T09:12",
+    "title": "Dr. House - Medical Division (St. 2 - Ep. 2)",
+    "startDate": "2026-11-17T09:12:00Z",
+    "endDate": "2026-11-17T10:05:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T10:05",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 24)",
+    "description": "Amy e Sheldon partono per Stoccolma assieme agli amici per ricevere il premio Nobel. Durante il volo Sheldon viene a sapere che Penny è incinta.",
+    "startDate": "2026-11-17T10:05:00Z",
+    "endDate": "2026-11-17T10:30:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T10:30",
+    "title": "The Big Bang Theory (St. 1 - Ep. 1)",
+    "startDate": "2026-11-17T10:30:00Z",
+    "endDate": "2026-11-17T10:55:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T10:55",
+    "title": "Superman & Lois (St. 3 - Ep. 8)",
+    "startDate": "2026-11-17T10:55:00Z",
+    "endDate": "2026-11-17T11:41:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T11:41",
+    "title": "Superman & Lois (St. 3 - Ep. 9)",
+    "startDate": "2026-11-17T11:41:00Z",
+    "endDate": "2026-11-17T12:33:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T12:33",
+    "title": "Chicago Fire (St. 11 - Ep. 10)",
+    "startDate": "2026-11-17T12:33:00Z",
+    "endDate": "2026-11-17T13:18:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T13:18",
+    "title": "Chicago Med (St. 1 - Ep. 12)",
+    "startDate": "2026-11-17T13:18:00Z",
+    "endDate": "2026-11-17T14:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T14:09",
+    "title": "Chicago Med (St. 1 - Ep. 13)",
+    "startDate": "2026-11-17T14:09:00Z",
+    "endDate": "2026-11-17T14:56:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T14:56",
+    "title": "New Amsterdam (St. 4 - Ep. 22)",
+    "startDate": "2026-11-17T14:56:00Z",
+    "endDate": "2026-11-17T15:48:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T15:48",
+    "title": "New Amsterdam (St. 5 - Ep. 1)",
+    "startDate": "2026-11-17T15:48:00Z",
+    "endDate": "2026-11-17T16:36:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T16:36",
+    "title": "Dr. House - Medical Division (St. 2 - Ep. 1)",
+    "startDate": "2026-11-17T16:36:00Z",
+    "endDate": "2026-11-17T17:24:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T17:24",
+    "title": "Dr. House - Medical Division (St. 2 - Ep. 2)",
+    "startDate": "2026-11-17T17:24:00Z",
+    "endDate": "2026-11-17T18:15:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T18:15",
+    "title": "Chicago Fire (St. 11 - Ep. 10)",
+    "startDate": "2026-11-17T18:15:00Z",
+    "endDate": "2026-11-17T19:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T19:09",
+    "title": "THE BIG BANG THEORY (St. 12 - Ep. 24)",
+    "description": "Amy e Sheldon partono per Stoccolma assieme agli amici per ricevere il premio Nobel. Durante il volo Sheldon viene a sapere che Penny è incinta.",
+    "startDate": "2026-11-17T19:09:00Z",
+    "endDate": "2026-11-17T19:35:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T19:35",
+    "title": "The Big Bang Theory (St. 1 - Ep. 1)",
+    "startDate": "2026-11-17T19:35:00Z",
+    "endDate": "2026-11-17T20:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T20:09",
+    "title": "Unknown - Senza identità (2011)",
+    "startDate": "2026-11-17T20:09:00Z",
+    "endDate": "2026-11-17T22:20:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T22:20",
+    "title": "Nitto ATP Finals Live",
+    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
+    "startDate": "2026-11-17T22:20:00Z",
+    "endDate": "2026-11-17T22:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T22:39",
+    "title": "Nitto ATP Finals",
+    "description": "Torino diventa il cuore del tennis mondiale: i migliori 8 campioni si sfidano per decretare chi sara' il re del 2026.",
+    "startDate": "2026-11-17T22:39:00Z",
+    "endDate": "2026-11-17T23:42:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-17T23:42",
+    "title": "Nitto ATP Finals",
+    "description": "Torino diventa il cuore del tennis mondiale: i migliori 8 campioni si sfidano per decretare chi sara' il re del 2026.",
+    "startDate": "2026-11-17T23:42:00Z",
+    "endDate": "2026-11-18T00:37:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T00:37",
+    "title": "Nitto ATP Finals Live",
+    "description": "News, interviste e highlights della giornata delle ATP Finals di Torino. Conduce Chiara Icardi.",
+    "startDate": "2026-11-18T00:37:00Z",
+    "endDate": "2026-11-18T00:48:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T00:48",
+    "title": "Chicago Med (St. 1 - Ep. 12)",
+    "startDate": "2026-11-18T00:48:00Z",
+    "endDate": "2026-11-18T01:28:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T01:28",
+    "title": "Chicago Med (St. 1 - Ep. 13)",
+    "startDate": "2026-11-18T01:28:00Z",
+    "endDate": "2026-11-18T02:09:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T02:09",
+    "title": "Show reel",
+    "description": "Show reel '26",
+    "startDate": "2026-11-18T02:09:00Z",
+    "endDate": "2026-11-18T02:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T02:19",
+    "title": "Superman & Lois (St. 3 - Ep. 8)",
+    "startDate": "2026-11-18T02:19:00Z",
+    "endDate": "2026-11-18T03:00:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T03:00",
+    "title": "Superman & Lois (St. 3 - Ep. 9)",
+    "startDate": "2026-11-18T03:00:00Z",
+    "endDate": "2026-11-18T03:39:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T03:39",
+    "title": "Distretto di Polizia (St. 3 - Ep. 11)",
+    "startDate": "2026-11-18T03:39:00Z",
+    "endDate": "2026-11-18T04:19:00Z",
+    "channelId": "20.it"
+  },
+  {
+    "id": "20.it-2026-11-18T04:19",
+    "title": "Distretto di Polizia (St. 3 - Ep. 12)",
+    "startDate": "2026-11-18T04:19:00Z",
+    "endDate": "2026-11-18T05:03:00Z",
     "channelId": "20.it"
   },
   {
